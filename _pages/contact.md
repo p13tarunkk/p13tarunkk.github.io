@@ -4,7 +4,7 @@ permalink: "/contact.html"
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
+<p class="mb-4">Hi, I am Tarun from Bangalore, the Silicon valley of the East. Apart from my thrilling job as a Product manager, I am into DSLR photography, creative arts, psychology, techology ecosystem & boxing. If you are interested in any of this or just bored in Banagalore's amazing weather, Feel free to connect or send a message to {{site.name}}.</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
