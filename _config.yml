@@ -19,8 +19,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Tarun:
-      name:           tarun
+    tarun:
+      name:           Tarun
       site:           https://www.linkedin.com/in/tarun-k-900a71115/
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Tarun, Author @ Prodbee. Product @ Lazada | Magicbricks, Times of India (Ex) | Ola Cabs (Ex) | Enthusiast @ Photography|Arts|Web designing|Boxing|Zumba"
