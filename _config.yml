@@ -4,8 +4,8 @@ description: 'Experience the Beehive of product management information!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: 'Prodbee'
+email: 'p13tarunkk@iima.ac.in'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -21,7 +21,7 @@ plugins:
 authors:
   tarun:
     name:           Tarun
-    site:           https://www.linkedin.com/in/tarun-k-900a71115/
+    site:           https://www.linkedin.com/in/tarun-k-900a71115
     avatar:         assets/images/avatar1.jpg
     bio:            "Author @ Prodbee , Product @ Lazada | Magicbricks, Times of India (Ex) | Ola Cabs (Ex) & Enthusiast@Photography|Arts|Web-designing|Boxing|Zumba"
     email:          p13tarunkk@iima.ac.in
