@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-   tarun:
+  tarun:
     name:           Tarun
     site:           https://www.linkedin.com/in/tarun-k-900a71115/
     avatar:         /assets/images/avatar1.jpg
