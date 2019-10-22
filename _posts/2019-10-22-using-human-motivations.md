@@ -1,18 +1,12 @@
 ---
-title: Psychology of Product Design
+title: Human motivation factors
 ---
 
-Fitts's law (often cited as Fitts' law) is a predictive model of human movement primarily used in human–computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target.
-Cognitive biases/ heuristics/ Effects :-
-Scarcity effect
-Framing effect- as price of wine increased, so did the participant's enjoyment of the wine
-The Anchoring Effect - person relies too much on the initial information given eg pricing set very high
-The Endowed Progress Effect -  In shopping punch cards or profile completion progress bar, those that were given two free punches (already punched)— had a staggering 82 percent higher completion rate of completing card goals of 10
 Three Core Motivators for Humans: seeking pleasure or avoiding pain, seeking hope and avoiding fear, seeking social acceptance while avoiding social rejection.
 Six factors of ease of use - time, money, physical effort, brain cycles, social deviance, and non-routineness
 Part of the brain related to pleasure responds in anticipation rather than reward itself- Nucleus accumbens was not activating when the reward (in this case a monetary payout) was received, but rather, in anticipation of it. (similarly neurotransmitter dopamine)
 Variable reward types - Rewards of the hunt (more Information), Social validation or Rewards of the tribe, Rewards for the self (0 inbox emails ) -- like Maslows
-IKEA effect - people value their own effort more (their own origamy value)
+
 Humans search for mastery, completion, and competence
 Maintain a Sense of Autonomy :- While persuading add “but you are free to accept or refuse” in the end
 Search to resolve uncertainty is a powerful tool of engagement (mystery at the climax of an episode)
@@ -21,11 +15,10 @@ Human behaviour influencing actions -
 We Seek to be Consistent with Our Past Behaviors
 We Avoid Cognitive Dissonance
 We do Reciprocation
-“P`aradox of loss” - We value loss more (overvalue). A person purchasing car will spend more if he is given a base price including accessories and then asked to remove accessories (than adding accessories)
+
 Say positive - It would be better to say, “90% of people on our program report significant weight loss after just one month”, than to say, “Only 10% of people on our program fail to lose weight after 1 month” 
 Less Is More for ease of use/design
 Customers inherently like to fill empty spaces - useful for onboarding
 Customers like personal stories with Photographs
 Timer creates urgency for checkout/purchase
-Completion meter increase onboarding /profile completion for more data
 'Time of the day' matters for customers - Whether judge will give parole or not ? it is not race, age but the time of day that the parole hearing
