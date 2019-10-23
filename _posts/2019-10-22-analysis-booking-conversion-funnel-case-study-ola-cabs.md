@@ -21,8 +21,8 @@ Some Key Metrics -
 Below is the snapshot of the possible leakages across each step in the flow
 
 * **App sessions** \-->Drop offs due to no cab availability or poor ETAs
-* **Ride now clicks**  \-->Drops offs due to ETA or availability
-* **Confirm Button clicks**  \-->Drops offs due to Peak or booking flow 
+* **Ride now clicks**  \-->Drops offs due to ETA or availability or pricing
+* **Confirm Button clicks**  \-->Drops offs due to pricing or errors
 * **Rides Scheduled**  \-->Drops offs due to stockouts
 * **Rides completed**  \-->Driver and Customer cancellations
 

@@ -2,9 +2,9 @@
 title: What are the key tools used by sellers in ecommerce ( Amazon, flipkart ) ?
 ---
 
-There are many tools which is used to boost sales. Here are some interesting factors.
-Right Pricing
-Finance and accounting and payments
+Ecommerce companies have build multiple tools for sellers in order to help them in boosting sales. Here are some interesting factors.
+Pricing tools - for identifing competitive pricing
+Finance, accounting and payments tools -
 Products Fulfillment - shipping
 Inventory management
 Advertising

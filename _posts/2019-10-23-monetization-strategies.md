@@ -1,5 +1,5 @@
 ---
-title: Effective Monetization Strategies for today's Digital Products
+title: Effective Monetization Strategies for Digital Products
 categories: Monetization
 author: tarun
 tags: featured

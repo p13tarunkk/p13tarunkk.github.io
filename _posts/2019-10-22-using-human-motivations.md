@@ -2,9 +2,10 @@
 title: Human motivation factors
 ---
 
-Three Core Motivators for Humans: seeking pleasure or avoiding pain, seeking hope and avoiding fear, seeking social acceptance while avoiding social rejection.
-Six factors of ease of use - time, money, physical effort, brain cycles, social deviance, and non-routineness
-Part of the brain related to pleasure responds in anticipation rather than reward itself- Nucleus accumbens was not activating when the reward (in this case a monetary payout) was received, but rather, in anticipation of it. (similarly neurotransmitter dopamine)
+Behavioural models in humans have been extensively researched in psychology. Let's understand some of them which could be used by Product Managers for building better products. 
+Arguably, there have been three core motivators for Humans : A) seeking pleasure and avoiding pain, B) seeking hope and avoiding fear,  C) seeking social acceptance while avoiding social rejection.
+
+Part of the brain that  pleasure responds in anticipation rather than reward itself- Nucleus accumbens was not activating when the reward (in this case a monetary payout) was received, but rather, in anticipation of it. (similarly neurotransmitter dopamine)
 Variable reward types - Rewards of the hunt (more Information), Social validation or Rewards of the tribe, Rewards for the self (0 inbox emails ) -- like Maslows
 
 Humans search for mastery, completion, and competence
@@ -15,6 +16,8 @@ Human behaviour influencing actions -
 We Seek to be Consistent with Our Past Behaviors
 We Avoid Cognitive Dissonance
 We do Reciprocation
+
+Six factors of ease of use - time, money, physical effort, brain cycles, social deviance, and non-routineness
 
 Say positive - It would be better to say, “90% of people on our program report significant weight loss after just one month”, than to say, “Only 10% of people on our program fail to lose weight after 1 month” 
 Less Is More for ease of use/design
