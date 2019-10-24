@@ -1,5 +1,6 @@
 ---
-title: Human Motivations and Inner Drives
+title: 'Behavioral Psychology for PMs : Understanding Human Motivations and Inner
+  Drives'
 image: assets/images/brain-human.png
 author: tarun
 categories: psychology
