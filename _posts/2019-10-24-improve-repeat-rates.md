@@ -1,5 +1,5 @@
 ---
-title: Case study - Improve repeat rates ( online pharmacy )
+title: Case study - Improve repeat rates (online pharmacy)
 author: tarun
 categories: Cases
 tags: featured
