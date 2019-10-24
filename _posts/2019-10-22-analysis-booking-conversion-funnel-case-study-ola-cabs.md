@@ -6,7 +6,7 @@ image: assets/images/booking-funnel-conversion.jpg
 tags: featured
 ---
 
-Product Managers and Analysts working on consumer facing products often dig into every click or interaction data in the core  flows like checkout or booking funnel. The objective is to not only to optimize the conversion (and ofcourse growth) but also to find gaps in customer experience. The basic AIDA model ( Attention>Interest>Desire>Action ) is being applied here for users. Let's take below a basic example of user journey on Ola cab's App ( Ola cabs is leading cab aggregator in India with fierce competition with Uber).
+Product Managers and Analysts working on consumer facing products often dig into every click or interaction data in the core  flows like checkout or booking funnel. The objective is to not only optimize the conversion (and ofcourse growth) but also to find gaps in customer experience. Let's take below a basic example of user journey on Ola cab's App ( Ola cabs is leading cab aggregator in India with fierce competition with Uber). AIDA model ( Attention>Interest>Desire>Action ) is also used here for explaination.
 
 Booking Funnel for individual Cab Categories ( like Micro, Mini etc ) can be measured in terms of app sessions or user clicks / unique users.
 

@@ -1,5 +1,5 @@
 ---
-title: How to choose colors for Product design ?
+title: How to choose Colors for Websites / Apps ?
 author: tarun
 image: http://localhost:4000/assets/images/demo1.jpg
 categories: psychology
@@ -36,7 +36,7 @@ While it is widely used for natural or appetizing displays, it sometimes also re
 Ofcourse, there are regional variations one must be aware of while deciding the color palette. While western business world avoids Red, it is considered very auspicious in China and signifies prosperity. In India, red is traditionally feminine and in many cultures, red is strongly associated with communism. pink and yellow widely used for young generation
 
 *Color combinations* -
-High contrast complementary colors like blue-yellow are widely recognized in new age digital interfaces (see <a href="https://www.flipkart.com/" target="_blank">flipkart</a>]) . Monochrome is commonly used where brand value is widely recognized and functional attributes take precedence. Neutral colors are used for elegance and emphasizing core content.
+High contrast complementary colors like blue-yellow are widely recognized in new age digital interfaces (see <a href="https://www.flipkart.com/" target="_blank">flipkart</a>) . Monochrome is commonly used where brand value is widely recognized and functional attributes take precedence. Neutral colors are used for elegance and emphasizing core content.
 
 *"Black" in Tag Heuer website*
 ![blacknwhite]({{ site.baseurl }}/assets/images/Tag-black-white-color.png) 
@@ -44,5 +44,5 @@ High contrast complementary colors like blue-yellow are widely recognized in new
 *Do the red croissants look appetizing ?*
 ![redfood]({{ site.baseurl }}/assets/images/red-food.png) 
 
-*Use of Blue to show trust in payments*
+*Use of Blue to portray trust in payments*
 ![paypal-payments]({{ site.baseurl }}/assets/images/trust-paypal.png)
