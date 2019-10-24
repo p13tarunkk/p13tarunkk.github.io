@@ -4,6 +4,7 @@ description: 'The beehive of product management!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
+url: "https://prodbee.com"
 disqus: 'prodbee'
 email: 'p13tarunkk@iima.ac.in'
 mailchimp-list: 

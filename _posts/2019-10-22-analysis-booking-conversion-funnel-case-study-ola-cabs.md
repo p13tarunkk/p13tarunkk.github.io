@@ -10,7 +10,9 @@ Product Managers and Analysts working on consumer facing products often dig into
 
 Booking Funnel for individual Cab Categories ( like Micro, Mini etc ) can be measured in terms of app sessions or user clicks / unique users.
 
-Some Key Metrics - 
+![Ola-booking-screens]({{ site.baseurl }}/assets/images/Ola-booking-screen.jpg)
+
+The Key Metrics - 
 
 * **Sum of All App sessions** ( User Awareness/intent on platform )
 * **Sum of category "Ride now"** button click sessions ( User Desire )

@@ -1,5 +1,5 @@
 ---
-title: Laws of Product design
+title: Laws of Product Design
 image: assets/images/laws.jpg
 author: tarun
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Case study - Improve repeat rates (online pharmacy)
 author: tarun
-categories: Cases
+categories: cases
 tags: featured
 image: assets/images/online-pharmacy-repeat-rates.png
 ---
@@ -25,7 +25,7 @@ image: assets/images/online-pharmacy-repeat-rates.png
 * Sample Feature - Objectives, target metrics, user stories (MVP and phases), design, release plan
 
 
-**Presentation**
+*Complete Presentation
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>

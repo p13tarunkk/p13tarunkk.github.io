@@ -1,5 +1,5 @@
 ---
-title: How to Improve Google Pay
+title: Ideas to improve Google Pay
 ---
 
 Clarifying questions:
