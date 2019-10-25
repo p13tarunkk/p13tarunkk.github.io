@@ -1,6 +1,5 @@
 ---
-title: 'Behavioral Psychology for PMs : Understanding Human Motivations and Inner
-  Drives'
+title: 'Behavioral Psychology for PMs : Understanding Human Motivations and Inner-Drives'
 image: assets/images/brain-human.png
 author: tarun
 categories: psychology
@@ -27,7 +26,7 @@ We humans search for mastery, completion and competence in daily engagements eve
 
 *Exploration drives*
 
-Demand for novelty posseses a strong drive to users in accordance with other motivators (like social validation). Finite variability creates boredom after sometime. Therefore almost all popular multiplayer games like PUBG today have infinite variance in the form of storylines. Also, we humans are obsessed in self-love so the personal Stories or Photographs always attract.
+Demand for novelty poses a strong drive to users in accordance with other motivators (like social validation). Finite variability creates boredom after a while. Therefore, almost all popular multiplayer games like PUBG today have infinite variance in the form of storylines. Also, we humans are obsessed in self-love so the personal Stories or Photographs always get more attention.
 
 *Final Acts*
 
@@ -35,4 +34,4 @@ Below factors play a very crucial role in influencing human actions as per inher
 -We Seek to be Consistent with  Past Behaviors
 -We Avoid Cognitive Dissonance
 -We do Reciprocation
-Morever to solicit any action from us, ease of taking the action is crucial. The ease of action or use can be measured in terms of time, money, physical effort, brain cycles, social deviance, and non-routineness (self-explainatory). Golden rule in any design or flow is - less is always better. Our inherent "fear of loosing out" is also utilized by companies by creating artificial scarcities and urgencies (e.g. through Timers at checkout/purchase).
+Morever to solicit any action from us, ease of taking action is crucial. The ease of action or use can be measured in terms of time, money, physical effort, brain cycles, social deviancea nd non-routineness (self-explainatory). Golden rule in any design or flow is - less is always better. Our inherent "fear of loosing out" is also used in products by creating artificial scarcities and urgencies (e.g. through Timers at checkout/purchase).
