@@ -1,17 +1,17 @@
 ---
-title: "Topics"
+title: "Categories"
 layout: default
-permalink: "/topics.html"
+permalink: "/categories.html"
 ---
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-          <!-- changed categories page to topics with bigger size h4 and capitalization --> 
-        <h1 class="font-weight-bold title h4 text-capitalize mb-4">Topics</h1>
-           <!-- added text-muted by tarun --> 
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
+            
         {% for category in site.categories %} 
-        <h4 class="font-weight-bold spanborder text-capitalize text-muted" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        <!-- added text-muted by tarun -->
+        <h4 class="font-weight-bold spanborder text-capitalize ß" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
             
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}

@@ -4,7 +4,7 @@ image: assets/images/laws.jpg
 author: tarun
 layout: post
 tags: featured
-categories: Psychology
+categories: psychology
 ---
 
 Ever thought if there could be laws for building products ?  Here are few key biases, heuristics and effects that could be used for designing products. A lot of them are indeed intuitive and many won't work everywhere but it is important to be aware to avoid common mistakes
