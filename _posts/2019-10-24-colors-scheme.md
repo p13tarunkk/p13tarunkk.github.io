@@ -1,5 +1,5 @@
 ---
-title: How to choose Colors for Websites / Apps ?
+title: How to choose Colors for Websites / Apps?
 author: tarun
 image: assets/images/demo1.jpg
 categories: psychology

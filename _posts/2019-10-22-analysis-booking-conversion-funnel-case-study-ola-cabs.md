@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing a booking conversion funnel - Case Study : Ola Cabs'
+title: 'Analyzing booking conversion funnel : Case Study - Ola Cabs'
 categories: analytics
 author: tarun
 image: assets/images/booking-funnel-conversion.jpg

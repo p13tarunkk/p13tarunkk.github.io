@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 permalink: "/contact.html"
+description: "Tarun is a Product Professional from Bengaluru. Happy to connect, discuss and share his PM learnings"
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    

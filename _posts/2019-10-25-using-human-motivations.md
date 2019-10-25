@@ -22,7 +22,7 @@ Variable reward types could also be of multiple types - a) Rewards of the hunt (
 
 *Engagement drives*
 
-We humans search for mastery, completion and competence in daily engagements even when they are using Apps and websites. Search to resolve uncertainty (completion) is a very powerful tool of engagement (e.g. people  tend to watch the movies till the end to resolve the mystery at the climax). We inherently like to fill empty spaces be it anywhere (useful for user onboarding) which gives them a sense of completion. People also love to master their acts and compete against others (e.g. gamification) to satisfy their internal self. 
+We humans search for mastery, completion and competence in our daily engagements even when we are using Apps and websites. Search to resolve uncertainty (completion) is a very powerful tool of engagement for us (e.g. people  tend to watch the movies till the end to resolve the mystery at the climax). We inherently like to fill empty spaces be it anywhere (useful for user onboarding) which gives them a sense of completion. People also love to master their acts and compete against others (e.g. gamification) to satisfy their internal self. 
 
 *Exploration drives*
 

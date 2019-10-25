@@ -36,12 +36,12 @@ As we have understood both business and user objectives, lets discuss and define
 * Check Feasibility and Viability of the product along with the effort required
 * Define success criteria - What will be different milestones for the product to achieve (in business and user metrics terms ) across the timeline ?
 
-We should be now able to develop the goals, objects and rough short-term as well as future look of the product. Do keep in mind when we think of Product features or properties we must think about both functional and non-functional aspecs
+We should be now able to develop the goals, objectives and short-term as well as future outlook of the product. Do keep in mind when we think of Product features and their properties we must think about both functional and non-functional aspects
 - Functional properties are specific product functions or features that serve the utility aspects e.g. being able to make or receive calls
 - Non- functional attributes include performance, robustness, style, design, and usability.
 
 ![product tag]({{ site.baseurl }}/assets/images/product-vision-tag.png)
 
-And since everyone is always busy in daily routine, here are some of the tools and techniques that we can use to facilitate the envisioning of new products and features
+And since PMs can be often very busy in firefighting, here are some techniques and tools that can be used to facilitate the envisioning of new products and features
 Teams can use some dedicated time in SCRUM meetings or weekly Pet projects (like google) to think creatively.
 Product managers along with their teams can also start with basic ideas from prototypes and mock-ups; personas and scenarios; use cases and user stories; sequences and storyboards; and the Kano Model. They can then seek out the answers of above questions to define or validate the product. Two effective techniques for determining the product’s value-added and selling points are a product’s vision box and a trade journal review. A vision box is a mock-up of the package in which the product might ship and trade journal review is a write up about the product written as an outside agency.
