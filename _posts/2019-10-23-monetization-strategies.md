@@ -10,8 +10,8 @@ Monetization! At first, most new Product Managers frown upon this word but it is
 
 
 * **Pricing models** - Fremium, Free trials, Registration fees can help products achieve their short term / long term revenue goals
-* **Add value/monetize value** - Bring add-on / value added services for customers like gaming industry utilizes in-app purchases, for example extra lives
-* **Leveraging assets** - Assets could be in terms of digital real-estate, technology/API platforms, premium content, user base or data of these users etc. Apart from advertising on Apps/web, companies can find easily some ways to use these assets themselves or through their partners. Amazon built a highly profitable AWS business out of their internal platform.
+* **Add value/monetize value** - Bring add-on / value added services for customers like gaming industry utilizes in-app purchases like extra lives
+* **Leveraging assets** - Assets could be in terms of digital real-estate, technology/API platforms, premium content, user base or data of these users etc. Apart from advertising on platforms, companies can find some ways to use the assets themselves or through their partners. Amazon built a highly profitable AWS business out of their internal cloud platform.
 * **Securing/Maximizing CLV** - Companies can use Subscriptions (Eg Prime), Bundling, Cross-selling or Up-selling opportunities to maximize CLV
 * **Alliances** - Partnerships or Affiliates help companies to serve their customers in the voids left (example Insurances for flights, certifications etc). These also help in generating additional revenues through commissions/incentives
 * **Repackaging the product as service** - Newsletters from blogs are created to target key audiences which is relatively easier to monetize

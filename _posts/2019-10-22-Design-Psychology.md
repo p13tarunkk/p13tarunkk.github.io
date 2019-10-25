@@ -7,7 +7,7 @@ tags: featured
 categories: psychology
 ---
 
-Ever thought if there could be laws for building products ?  Here are few key biases, heuristics and effects that could be used for designing products. A lot of them are indeed intuitive and many won't work everywhere but it is important to be aware to avoid common mistakes
+Ever thought if there could be laws for building products ?  Here are few key biases, heuristics and effects that could be used for designing products. A lot of them are indeed intuitive and many won't work everywhere yet it is important to be aware.
 
 * **Fitts' law**  is a predictive model of human movement primarily used in human–computer interaction and ergonomics. This law states that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. This is used to place CTAs (Call to Actions) prominently in the space
 * **Scarcity effect** is the cognitive bias that makes people place a higher value on an object that is scarce and a lower value on one that is available in abundance. This is widely used in ecommerce to convert buyer's interest to purchase. You might have seen this in Amazon where number of items left are shown on Product Details Page (PDP)
@@ -25,4 +25,4 @@ Ever thought if there could be laws for building products ?  Here are few key bi
 *  **Serial position effect** Individuals best remember the first and last item in the list 
 *  **Pareto principle**  Finally roughly 80% of the effects come from 20% of the causes. It is widely regarded as universal truth and used for building MVPs or maximizing output
 
-Did I miss something important ? Please share in the comments section below
+Did I miss something ? Please share in the comments section below

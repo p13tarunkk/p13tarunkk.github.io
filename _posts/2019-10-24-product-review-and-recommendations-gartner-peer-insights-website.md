@@ -5,7 +5,7 @@ image: assets/images/Gartner-main.jpg
 categories: cases
 ---
 
-Gartner Peer Insights is a platform developed by Gartner for ratings and reviews of enterprise technology solutions by end-user professionals for end-user professionals. It provides free peer reviews and ratings of almost all enterprise softwares and services solutions to assist the decision makers in selecting the right solution as per their needs.
+Gartner Peer Insights is a platform developed by Gartner for ratings and reviews of enterprise technology solutions by end-user professionals for end-user professionals. It provides free peer reviews and ratings of enterprise softwares and services solutions to assist the decision makers in selecting the right solution as per their needs.
 
 *Website screenshots*   (<a href="https://www.gartner.com/reviews/home/" target="_blank">Gartner website</a>) - 
 ![Gartner1]({{ site.baseurl }}/assets/images/Gartner-1.png) 

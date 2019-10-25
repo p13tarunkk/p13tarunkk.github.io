@@ -1,6 +1,6 @@
 ---
 title: 'Analyzing a booking conversion funnel - Case Study : Ola Cabs'
-categories: Analytics
+categories: analytics
 author: tarun
 image: assets/images/booking-funnel-conversion.jpg
 tags: featured
@@ -28,4 +28,4 @@ Below is the snapshot of the possible leakages across each step in the flow
 * **Rides Scheduled**  \-->Drops offs due to stockouts
 * **Rides completed**  \-->Driver and Customer cancellations
 
-Hope this basic example helps you to develop a basic framework for analysing and optimizing key flows/funnels for your apps and website
+Hope this basic example helps with a basic framework for analysing and optimizing App or web flows/funnels

@@ -1,11 +1,11 @@
 ---
-title: How to Identify Fake Reviews on Ecommerce sites  ?
+title: How to Identify Fake Reviews on E-commerce sites  ?
 author: tarun
 categories: cases
 image: assets/images/fake.jpg
 ---
 
-Ever wondered if the reviews mentioned on Amazon, Flipkart are fake ? You are not alone. Here are few pointers to save yourself some time and money ! Below are 8 key signs that they could be fake
+Ever wondered if the reviews mentioned on Amazon, Flipkart are fake ? You are not alone as product companies too build algorithms to weed them out regularly. Here are 8 key signs to identify fakes and  save yourself some time and money ! 
 
 1. Have very less, fake or even no reviewer information (like nick names, no previous history)
 
@@ -23,5 +23,4 @@ Ever wondered if the reviews mentioned on Amazon, Flipkart are fake ? You are no
 
 8. Reviewer reviewing only on a single seller or product with no purchase history
 
-
-Missed Something ? Please share in the comments below
+Want to help in building a comprehensive list ? Please share in the comments section below

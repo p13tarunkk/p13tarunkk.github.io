@@ -6,26 +6,27 @@ tags: featured
 image: assets/images/online-pharmacy-repeat-rates.png
 ---
 
-**Understand Situation**
+In matured businesses, Repeat rates are one of the biggest levers for growth. It also becomes very important to understand and define Repeat rates as per the nature and state of the business. For online e-commerce businesses, repeat rates can be understood in terms of monthly or daily active repeat customers or repeat orders. Let's take the below case where the problem statement at hand for the Product Manager is to "increase repeat rates" in an online pharmacy. The below approach proposes a solution after exploring and defining the problem.
 
+**1) Understand Situation**
 * Objective : Increase repeat rates in an online pharmacy
 * Company : Who are we ? What do we do ?
 * Customers : Who do we serve ?
 * Customer needs and pain points : What do they like about us ? What do they not like about us ?
 * Understanding the use case : How big is the issue - data analysis ?
 
-**Plan**
+**2) Plan**
 * Product goals : Success metrics
 * Hypothesis : Data validation
 * Solutions : Pros/Cons
 * Prioritization : Impact vs Effort vs Confidence/Risk
 
-**Execute**
+**3) Execute**
 * Implementation plan - Key Timelines and Milestones
 * Sample Feature - Objectives, target metrics, user stories (MVP and phases), design, release plan
 
 
-*Complete Presentation
+*Complete Presentation*
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
