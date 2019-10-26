@@ -22,10 +22,10 @@ The Key Metrics -
 
 Below is the snapshot of the possible leakages across each step in the flow
 
-* **App sessions** \-->Drop offs due to no cab availability or poor ETAs
-* **Ride now clicks**  \-->Drops offs due to ETA or availability or pricing
-* **Confirm Button clicks**  \-->Drops offs due to pricing or errors
-* **Rides Scheduled**  \-->Drops offs due to stockouts
+* **App sessions** \-->Drop offs due to cab availability or expected times
+* **Ride now clicks**  \-->Drops offs due to expected time or cab availability or price shown on app
+* **Confirm Button clicks**  \-->Drops offs due to pricing
+* **Rides Scheduled**  \-->Drops offs due to the cab not being available at the time of booking
 * **Rides completed**  \-->Driver and Customer cancellations
 
-Hope this basic example helps with a basic framework for analysing and optimizing App or web flows/funnels
+Although the example does not quantify the precise possiblities/occurences, Hope it helps to form a basic framework which can analyse and optimize user flows/funnels
