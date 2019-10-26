@@ -31,7 +31,8 @@ Demand for novelty poses a strong drive to users in accordance with other motiva
 *Final Acts*
 
 Below factors play a very crucial role in influencing human actions as per inherent behaviours -
--We Seek to be Consistent with  Past Behaviors
--We Avoid Cognitive Dissonance
--We do Reciprocation
+A) We Seek to be Consistent with  our Past Behaviors
+B) We Avoid Cognitive Dissonance
+C) We Reciprocate.
+
 Morever to solicit any action from us, ease of taking action is crucial. The ease of action or use can be measured in terms of time, money, physical effort, brain cycles, social deviancea nd non-routineness (self-explainatory). Golden rule in any design or flow is - less is always better. Our inherent "fear of loosing out" is also used in products by creating artificial scarcities and urgencies (e.g. through Timers at checkout/purchase).
