@@ -190,8 +190,11 @@ a.text-dark:hover {
 .navbar {
 	transition:top 0.2s ease-in-out;
 	font-weight:400;
-	border-bottom: 1px solid #eee;
+	/*! solid bottom line in navbar replaced with box-shadow by tarun 26 oct19*
+	border-bottom: 1px solid #eee; 
+	*/
 	padding: 0;
+	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12);
 }
 .navbar .highlight .nav-link {
 	color:#03a87c !important;
