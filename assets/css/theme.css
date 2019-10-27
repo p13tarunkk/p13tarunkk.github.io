@@ -278,6 +278,9 @@ a.text-dark:hover {
 	border-radius:30px;
 	height:35px;
 	border:1px solid #eee;
+	/*! further added margins on top and bottom to resolve mobile view issue of no margin in search bar toggle 7px is optimized */
+	margin-bottom: 7px;
+    margin-top: 7px;
 }
 .mb-2rem {
 	margin-bottom:2rem;
