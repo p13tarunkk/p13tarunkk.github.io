@@ -6,7 +6,7 @@ tags: featured
 image: assets/images/online-pharmacy-repeat-rates.png
 ---
 
-In matured businesses, Repeat rates are one of the biggest levers for growth. It also becomes very important to understand and define Repeat rates as per the nature and state of the business. For online e-commerce businesses, repeat rates can be understood in terms of monthly or daily active repeat customers or repeat orders. Let's take the below case where the problem statement at hand for the Product Manager is to "increase repeat rates" in an online pharmacy. The below approach proposes a solution after exploring and defining the problem.
+In matured businesses, Repeat rates are one of the biggest levers for growth. We must first understand and define "repeat rates" in the context the nature and state of the business. For online e-commerce businesses, repeat rates can be understood in terms of monthly or daily active repeat customers or repeat orders or even retention in some cases. Let's take the below case where the problem statement at hand for the Product Manager is to "increase repeat rates" in an online pharmacy. The below approach proposes a solution after exploring and defining the problem.
 
 **1) Understand Situation**
 * Objective : Increase repeat rates in an online pharmacy
