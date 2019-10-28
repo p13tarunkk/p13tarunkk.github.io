@@ -30,3 +30,5 @@ Ever wondered if the reviews mentioned on Amazon, Flipkart are fake ? You are no
 8. Reviewer reviewing only on a single seller or product with no purchase history
 
 Want to help in building a comprehensive list ? Please share in the comments section below
+
+*Photo by [Christian Gertenbach](https://unsplash.com/@kcgertenbach?utmsource=medium&utmmedium=referral) on Unsplash*
