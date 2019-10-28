@@ -3,6 +3,13 @@ title: How to choose Colors for Websites / Apps?
 author: tarun
 image: assets/images/demo1.jpg
 categories: psychology
+tags:
+- design thinking
+- Product design
+- Product strategy
+- Product Manager
+- UI/UX
+- User Experience
 ---
 
 Colors have a very strong effect in evoking emotions in human mind. Everyone have different favourites in colors but various trends could easily be identified across populations. Careers are built on colors and a Product Manager also can not spare himself from their understanding.

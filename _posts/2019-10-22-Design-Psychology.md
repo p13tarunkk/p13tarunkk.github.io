@@ -3,7 +3,14 @@ title: Laws of Product Design
 image: assets/images/laws.jpg
 author: tarun
 layout: post
-tags: featured
+tags:
+- featured
+- Product design
+- UI/UX
+- Product theories
+- Design theory
+- Product Management
+- User experience
 categories: psychology
 ---
 

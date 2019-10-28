@@ -3,7 +3,12 @@ title: Platforms - IOS vs Android
 image: assets/images/ios-vs-android.png
 categories: platforms
 author: tarun
-tags: featured
+tags:
+- featured
+- product strategy
+- product platforms
+- IOS vs Android
+- Product launch
 ---
 
 When you are testing a new product idea, launching a new feature or building a new App, you are bound to prioritize between iOS and Android for initial development. Here are some key differences that may help with your decision based on your objectives.

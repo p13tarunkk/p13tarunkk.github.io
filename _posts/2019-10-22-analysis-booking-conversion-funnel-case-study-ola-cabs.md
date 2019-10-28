@@ -3,7 +3,15 @@ title: 'Analyzing booking conversion funnel : Case Study - Ola Cabs'
 categories: analytics
 author: tarun
 image: assets/images/booking-funnel-conversion.jpg
-tags: featured
+tags:
+- featured
+- case study
+- product management
+- product metrics
+- product optimization
+- user conversion
+- funnel
+- Ola cabs
 ---
 
 Product Managers and Analysts working on consumer facing products often dig into every click or interaction data in the core  flows like checkout or booking funnel. The objective is to not only optimize the conversion (and ofcourse growth) but also to find gaps in customer experience. Let's take below a basic example of user journey on Ola cab's App ( Ola cabs is leading cab aggregator in India with fierce competition with Uber). AIDA model ( Attention>Interest>Desire>Action ) is also used here for explaination.

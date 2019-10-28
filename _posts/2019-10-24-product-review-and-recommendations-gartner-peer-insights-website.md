@@ -3,6 +3,11 @@ title: Product review and recommendations - Gartner Peer Insights
 author: tarun
 image: assets/images/Gartner-main.jpg
 categories: cases
+tags:
+- product cases
+- case study
+- product management
+- Design review
 ---
 
 Gartner Peer Insights is a platform developed by Gartner for ratings and reviews of enterprise technology solutions by end-user professionals for end-user professionals. It provides free peer reviews and ratings of enterprise softwares and services solutions to assist the decision makers in selecting the right solution as per their needs.

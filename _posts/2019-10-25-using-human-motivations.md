@@ -3,6 +3,13 @@ title: 'Behavioral Psychology for PMs : Understanding Human Motivations and Inne
 image: assets/images/design-psychology.png
 author: tarun
 categories: psychology
+tags:
+- Design thinking
+- Product Management
+- Product Manager
+- Product Psychology
+- Engagement
+- Cognitive Dissonance
 ---
 
 Behavioural models in humans have been extensively researched in psychology. The article describes some of them which can be used by Product Managers for building better products. 

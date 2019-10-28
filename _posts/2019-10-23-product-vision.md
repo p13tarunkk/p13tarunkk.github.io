@@ -3,6 +3,12 @@ title: Defining Product Vision and deciding what/why to build
 image: assets/images/product-vision.jpg
 author: tarun
 categories: strategy
+tags:
+- product strategy
+- product launch
+- product roadmap
+- Product vision
+- problem solving
 ---
 
 Structured approach is important for building the right products in right form and shape. Lot of products failures happen because we do not seek Why's, What's, How's before we start building them. Let's see what are the basic questions we must discuss with all stakeholders and have answers for before we jump to any new product ideas.

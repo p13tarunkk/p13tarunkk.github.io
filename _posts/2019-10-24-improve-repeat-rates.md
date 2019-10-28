@@ -4,6 +4,13 @@ author: tarun
 categories: cases
 tags: featured
 image: assets/images/online-pharmacy-repeat-rates.png
+New field 15:
+- engagement
+- repeat rates
+- product metrics
+- product management
+- Walgreens
+- Product Strategy
 ---
 
 In matured businesses, Repeat rates are one of the biggest levers for growth. We must first understand and define "repeat rates" in the context the nature and state of the business. For online e-commerce businesses, repeat rates can be understood in terms of monthly or daily active repeat customers or repeat orders or even retention in some cases. Let's take the below case where the problem statement at hand for the Product Manager is to "increase repeat rates" in an online pharmacy. The below approach proposes a solution after exploring and defining the problem.
