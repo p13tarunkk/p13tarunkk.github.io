@@ -22,14 +22,14 @@ Structured approach is important for building the right products in right form a
 **User Needs / Use Cases**
 * Identify existing user need and use cases - What are the addressed and unaddressed needs, pain points and use cases of these users
 * Identify current alternatives for users - How do users currently satisfy their needs ? (alternatives/competitors for our product)
-* Prioritization of needs, use cases - Which needs, usecases will the product address ?
+* Prioritize of needs, use cases - Which needs, usecases will the product address ?
 
-Now that we have defined the users and identifed use cases, we should be able to build user personas from above questions. 
+Now that we have defined the users and identified use cases, we should be able to build user personas from above questions. 
 
 **Business**
-* Business objectives - What are the business objectives / incentive for the product ?
+* Define Business objectives - What are the business objectives / incentive for the product ?
 * Size the business opportunity - Understand and estimate the opportunity wrt timing or opporunity cost
-* Monetization opportunities - How will the company make money from selling the product? What are the sources of revenue and what is the business model? Is the product feasible? Can the company develop and sell the product?
+* Find Monetization opportunities - How will the company make money from selling the product? What are the sources of revenue and what is the business model? Is the product feasible? Can the company develop and sell the product?
 
 As we have understood both business and user objectives, lets discuss and define the product
 
@@ -38,7 +38,7 @@ As we have understood both business and user objectives, lets discuss and define
 * Define MVP - Which product attributes are absolutely critical for meeting the needs selected (build MVP) and therefore for the success of the product ?
 * Identify areas to excel - What are the areas in which the product going to excel ?
 * Identify unique selling points - How does the product compare against existing products, from both competitors and the same company? What are the product’s unique selling points? What is its target price?
-* Product snapshot - What will the product roughly look like and do ? 
+* Build a Product snapshot - What will the product roughly look like and do ? 
 * Check Feasibility and Viability of the product along with the effort required
 * Define success criteria - What will be different milestones for the product to achieve (in business and user metrics terms ) across the timeline ?
 
@@ -50,4 +50,4 @@ We should be now able to develop the goals, objectives and short-term as well as
 
 And since PMs can be often very busy in firefighting, here are some techniques and tools that can be used to facilitate the envisioning of new products and features
 Teams can use some dedicated time in SCRUM meetings or weekly Pet projects (like google) to think creatively.
-Product managers along with their teams can also start with basic ideas from prototypes and mock-ups; personas and scenarios; use cases and user stories; sequences and storyboards; and the Kano Model. They can then seek out the answers of above questions to define or validate the product. Two effective techniques for determining the product’s value-added and selling points are a product’s vision box and a trade journal review. A vision box is a mock-up of the package in which the product might ship and trade journal review is a write up about the product written as an outside agency.
+Product managers along with their teams can also start with basic ideas from prototypes and mock-ups; personas and scenarios; use cases and user stories; sequences and storyboards; and the Kano Model. They can then seek out the answers of above questions to define or validate the product. Two effective techniques for determining the product’s value and selling points are product’s vision box and a trade journal review. A vision box is a mock-up of the package in which the product might ship and trade journal review is a write up about the product written as an outside agency.
