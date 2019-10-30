@@ -24,8 +24,8 @@ B) Seeking hope and avoiding fear.
 
 C) Seeking social acceptance while avoiding social rejection.
 
-First one is the most interesting for Product Managers. The part of the brain that responds to pleasure (or reward) becomes more active during its anticipation rather than the reward itself. The principle is used by apps like Google pay where variable reward creates more excitement through unpredictability.
-Variable reward types could also be of multiple types - a) Rewards of the hunt ( e.g. extreme thirst faced by users for more information or content on social media ), b) Social validation or Rewards of the tribe (e.g. recognition received through recommendations, testimonials or likes), c) Rewards for the self (e.g. personal achievements for some people like keeping inbox clean at 0 unreads).
+First one is the most interesting for Product Managers. The part of the brain that responds to pleasure (or reward) becomes more active during its anticipation rather than the reward itself. The principle is used by apps like Google pay where variable reward creates more excitement through unpredictability. Google Pay (India) provides a surprise reward in the scratch card after every transaction. Using this, Google Pay is able to generate excitment in the person who is transacting money to others which is supposed to be an unexciting non-rewarding activity in itself.
+Variable reward could also be of multiple types - a) Rewards of the hunt ( e.g. the extreme thirst felt by users for more information or content on social media ), b) Social validation or Rewards of the tribe (e.g. recognition received through recommendations, testimonials or likes), c) Rewards for the self (e.g. personal achievements for people like keeping inbox clean at 0 unreads).
 
 *Exploration drives*
 
