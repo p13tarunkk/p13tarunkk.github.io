@@ -28,7 +28,7 @@ Ever thought if there could be laws for building products ?  Here are few key bi
 * **Miller's law** The number of objects an average human can hold in short-term memory is 7 ± 2. Try to avoid more than 7 actions/choices on any user interface unless absolutely necessary. More choices/actions can confuse or lead to more errors
 * **Jacob's law** Users go with consistency in their existing mental models. They expect your site or app to work in the same way as others they regularly use. Any major deviation in not appreciated
 *  **Occam's razor** The more assumptions one has to make, the more unlikely an explanation. This is used to simplify the user flows by minimizing the assumptions. Simplest solution is the best solution
-*  **Von Restorff effect / isolation effect** predicts that when similar objects are presented, the object which is most distinguishable/different will be likely to be rememberd the most. Highlighters and Tags like featured, new etc are used on websites/apps to influence user's preferences
+*  **Von Restorff effect / isolation effect** predicts that when similar objects are presented, the object which is most distinguishable/different will be likely to be remembered the most. Highlighters and Tags like featured, new etc are used on websites/apps to influence user's preferences
 *  **Serial position effect** Individuals best remember the first and last item in the list 
 *  **Pareto principle**  Finally roughly 80% of the effects come from 20% of the causes. It is widely regarded as universal truth and used for building MVPs or maximizing output
 
