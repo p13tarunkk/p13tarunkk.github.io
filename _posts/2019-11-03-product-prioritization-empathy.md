@@ -3,7 +3,7 @@ title: Product Prioritisation in Steps - Impact & Empathy
 image: assets/images/Prioritise-empathy.jpg
 author: tarun
 categories:
-- prioritisation
+- strategy
 tags:
 - product management
 - Product Managers
@@ -75,7 +75,7 @@ Features -
 * User experience - Number of users/usage (Reach), Emotional value for target customers, Priority of target customers - CLV, NPS/CSAT impact
 * Customer Engagement - Number of users (Reach), Emotional value for target customers, Priority of target customers - CLV, NPS/CSAT impact
 
-Kano model is a popular prioritization tool used for prioritization. It is very effective when used for defining Emotional Value / Customer Satisfaction. Customer's satisfication from features can be determined by classifing them into attractive needs, performance needs or basic needs and checking the stage of the feature.
+Kano model is a popular prioritization tool used for prioritization. It is very effective when used for defining Emotional Value / Customer Satisfaction. Customer's satisfaction from features can be determined by classifying them into attractive needs, performance needs or basic needs and checking the stage of the feature.
 * Attractive Needs: These features trigger feelings of high satisfaction and delight, but users are not dissatisfied if the feature are not present
 * Performance Needs: These features cause delight if they are present and cause dissatisfaction when they are not (or if they are poorly implemented). They’re very one-dimensional in nature and rely on good execution in order to be valued by users
 * Basic Needs: These are must-haves from customer expectations. Not including them is dissatisfying, but the ROI of improving them goes down sharply
@@ -83,20 +83,20 @@ Kano model is a popular prioritization tool used for prioritization. It is very 
 *Note :- Emotional Value can be measured from by -
 i)  asking open questions to sample of customers directly
 ii) survey data on how much customers love that feature 
-iii) using useability studies with and without the feature 
+iii) using usability studies with and without the feature 
 iv) finding out number of feedbacks the feature received from customers.
 v) In some situations, you can also look at how many customers complained when the feature was not working properly (downtime) and how strong, quick user feedback was*
 
 **Cost of features**  
 <u>Step 5) Identify estimated Effort for features</u> :- Effort could be measured in terms of manhours required for the product / feature to be built. One must also check if relevant expertise is available for feature development. In other words, Effort must also include probablistic time-effort required to identify and resolve technical complexities and time for testing. e.g. XXL, XL, L, M, S (called T-shirt sizes) assuming a Large (L) effort feature takes 30 days or 2 sprints for development and testing. Based on the effort and resources at hand, we can identify the possible timeline and schedule for each of the feature. 
 
-<u>Step 6) Identify Risk / Confidence for features</u> :- The products features should also be weighed against Risk and confidence. E.g. The Business value impact for feature X may be high but confidence on its impact achievement may be low. Also, there could be predictable or unforseen operational/technical failures during development and execution. During prioritization, one must carefully assess and quantify those risk for better decision making and risk mitigation.
+<u>Step 6) Identify Risk / Confidence for features</u> :- The products features should also be weighed against Risk and confidence. E.g. The Business value impact for feature X may be high but confidence on its impact achievement may be low. Also, there could be predictable or unforeseen operational/technical failures during development and execution. During prioritization, one must carefully assess and quantify those risk for better decision making and risk mitigation.
 
 **Prioritized Feature Set**  
 <u>Step 7) Rate features based on each factor</u> :- Points or ranks or categories (High, Medium, Low) are given for each of the factors (business and customer value, effort and Risk) against the feature. Customer and Business value can be aggregated as 'Impact value' with appropriate weightage.
 ![Factor-prioritisation]({{ site.baseurl }}/assets/images/factor-prioritization.png)
 <u>Step 8) Rank the features or set the overall feature priority </u> :- Considering Impact Value, Effort and Risk/confidence, PMs should be able to come up with a clear priority of product features in Ranking or Points. It can also be useful to give different weights to different factors before arriving at final priority of features. It is important to not just logically quantify the priority based on multiple factor but is also important to represent the priority and communicate it to the stakeholders in understandable fashion. The below graphical representation is a useful way to represent the overall priority in the dimensions of value, effort and risk/confidence
 ![empathy-prioritisation]({{ site.baseurl }}/assets/images/Empathy-prioritization.png) 
-*Note :- For overall prioritization, Product feature can be classified as i) P0- High priority/Most Urgent ii) P1- Medium priority/less-urgent iii) P2-Low priority/least-urgent. Alternatively Product feature could also be classfied as i) P0- Sacrifice others for this ii) P1- Try to keep iii) P2- Sacrifice these for others*
+*Note :- For overall prioritization, Product feature can be classified as i) P0- High priority/Most Urgent ii) P1- Medium priority/less-urgent iii) P2-Low priority/least-urgent. Alternatively Product feature could also be classified as i) P0- Sacrifice others for this ii) P1- Try to keep iii) P2- Sacrifice these for others*
 
 Starting from Themes, we have now finalized a limited number of prioritized features for our upcoming roadmap  (or sprint). Having a properly documented and well-rehersed prioritization process helps all team members and stakeholders. It gives a logical structure to otherwise distributed arguments during prioritization. Also, since a PM is as good as his communications, it communicates the prioritization clearly, effectively and saves more time for more creative discussions within teams :)
