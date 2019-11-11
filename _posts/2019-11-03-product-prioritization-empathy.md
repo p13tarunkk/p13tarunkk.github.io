@@ -1,5 +1,5 @@
 ---
-title: Product Prioritisation in Steps - Impact & Empathy
+title: Product Prioritisation Steps - Impact & Empathy
 image: assets/images/Prioritise-empathy.jpg
 author: tarun
 categories:
@@ -36,7 +36,7 @@ The below steps explain the product prioritization process which manages empathy
 **Themes : Feature bundles with common objectives** <br/>
 
 ![product-themes]({{ site.baseurl }}/assets/images/product-themes.jpg)
-<u>Step 1) List and prioritize Product themes</u> :- While collaborating with stakeholders, Product leads first build consensus on prioritizations and timelines of "product themes". It is an outcome driven strategy in which multiple themes of one or two objectives are prioritized in the roadmap. PMs build themes from the annual goals and prioritize them across quarters/sprints as part of long term planning. Product themes are generally groupings of similar set of product features but product vision is more important than the feature details. Theme prioritization helps teams to focus by avoiding conflicts. It also makes prioritization more transparent and predictable for the stakeholders.
+<u>Step 1) List and prioritize Product themes</u> :- While collaborating with stakeholders, Product leads build consensus on prioritizations and timelines of "product themes". It is an outcome driven strategy in which multiple themes of one or two objectives are prioritized in the roadmap. PMs build themes from the annual goals and prioritize them across quarters/sprints as part of long term planning. Product themes are generally groupings of similar set of product features but product vision is more important than the feature details. Theme prioritization helps teams to focus by avoiding conflicts. It also makes prioritization more transparent and predictable for the stakeholders.
 
 Lets assume that as per stakeholder alignment, the below Themes A and B has greater priority than Theme C in current prioritization cycle
 <table style="border-color: 333399;">
@@ -64,7 +64,7 @@ Features -
 
 **Impact Value of features**  
 <u>Step 3) Identify "Business / Opportunity Value" of features</u> :- Business /opportunity could be measured by projecting historical data of business metrics like revenue, profit and efficiency. The opportunity cost e.g. GMV loss per day can also indicate the sense of urgency.
-* Revenue impact  - overall increase in GMV, USD1000 GMV per day 
+* Revenue impact  - Increase in GMV 
 * Customer acquisition - rate of growth of new customers
 * Profit impact  - increase in profit margins
 * Operational efficiency - Manhours saved
@@ -81,10 +81,10 @@ Kano model is a popular prioritization tool used for prioritization. It is very 
 * Basic Needs: These are must-haves from customer expectations. Not including them is dissatisfying, but the ROI of improving them goes down sharply
 ![KANO-model]({{ site.baseurl }}/assets/images/KANO-empathy.png)
 *Note :- Emotional Value can be measured from by -
-i)  asking open questions to sample of customers directly
-ii) survey data on how much customers love that feature 
-iii) using usability studies with and without the feature 
-iv) finding out number of feedbacks the feature received from customers.
+i)  Asking open questions to sample of customers directly
+ii) Survey data on how much customers love that feature 
+iii) Using usability studies with and without the feature 
+iv) Finding out number of feedbacks the feature received from customers.
 v) In some situations, you can also look at how many customers complained when the feature was not working properly (downtime) and how strong, quick user feedback was*
 
 **Cost of features**  
@@ -95,6 +95,7 @@ v) In some situations, you can also look at how many customers complained when t
 **Prioritized Feature Set**  
 <u>Step 7) Rate features based on each factor</u> :- Points or ranks or categories (High, Medium, Low) are given for each of the factors (business and customer value, effort and Risk) against the feature. Customer and Business value can be aggregated as 'Impact value' with appropriate weightage.
 ![Factor-prioritisation]({{ site.baseurl }}/assets/images/factor-prioritization.png)
+
 <u>Step 8) Rank the features or set the overall feature priority </u> :- Considering Impact Value, Effort and Risk/confidence, PMs should be able to come up with a clear priority of product features in Ranking or Points. It can also be useful to give different weights to different factors before arriving at final priority of features. It is important to not just logically quantify the priority based on multiple factor but is also important to represent the priority and communicate it to the stakeholders in understandable fashion. The below graphical representation is a useful way to represent the overall priority in the dimensions of value, effort and risk/confidence
 ![empathy-prioritisation]({{ site.baseurl }}/assets/images/Empathy-prioritization.png) 
 *Note :- For overall prioritization, Product feature can be classified as i) P0- High priority/Most Urgent ii) P1- Medium priority/less-urgent iii) P2-Low priority/least-urgent. Alternatively Product feature could also be classified as i) P0- Sacrifice others for this ii) P1- Try to keep iii) P2- Sacrifice these for others*

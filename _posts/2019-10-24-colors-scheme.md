@@ -12,7 +12,7 @@ tags:
 - User Experience
 ---
 
-Colors have a very strong effect in evoking emotions in human mind. Everyone have different favourites in colors but various trends could easily be identified across populations. Careers are built on colors and a Product Manager also can not spare himself from their understanding.
+Colors have a very strong effect in evoking emotions in the human mind. Everyone has different favourites in colors but various trends could easily be identified across populations. Careers are built on colors and a Product Manager also can not spare himself from their understanding.
 
 * White - Trust, Purity
 <br/>White, the most famous backdrop color means purity, innocence and openness
