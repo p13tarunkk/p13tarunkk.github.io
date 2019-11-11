@@ -12,7 +12,7 @@ tags:
 - featured
 ---
 
-Monetization! At first, most new Product Managers frown upon this word but it is an absolutely necessary element for any successful business model in the long run. Sooner or later, every succesful product reaches a matured state when it must develop right monetization strategies. Below are some the key strategies PMs use to monetize their product / features. 
+Monetization! At first, most new Product Managers frown upon this word but it is an absolutely necessary element for any successful business model in the long run. Sooner or later, every successful product reaches a matured state when it must develop right monetization strategies. Below are some the key strategies PMs use to monetize their product / features. 
 
 
 * **Pricing models** - Fremium, Free trials, Registration fees can help products achieve their short term / long term revenue goals

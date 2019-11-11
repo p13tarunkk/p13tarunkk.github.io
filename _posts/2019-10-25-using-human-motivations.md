@@ -43,7 +43,7 @@ A) We Seek to be Consistent with  our Past Behaviors
 B) We Avoid Cognitive Dissonance
 C) We Reciprocate.
 
-Moreover to solicit any action from us, ease of taking action is crucial. The ease of action or use can be measured in terms of time, money, physical effort, brain cycles, social deviation and non-routineness (self-explanatory). Golden rule in any design or flow is - less is always better. Our inherent "fear of loosing out" is also used in products by creating artificial scarcities and urgencies (e.g. through Timers at checkout/purchase).
+Moreover to solicit any action from us, ease of taking action is crucial. The ease of action or use can be measured in terms of time, money, physical effort, brain cycles, social deviation and non-routineness (self-explanatory). Golden rule in any design or flow is - less is always better. Our inherent "fear of losing out" is also used in products by creating artificial scarcities and urgencies (e.g. through Timers at checkout/purchase).
 
  *Some of the ideas on motivations are brilliantly explained in Nir Eyal's famous book "How to Build Habit-Forming Products - Hooked". Do read!*
  
