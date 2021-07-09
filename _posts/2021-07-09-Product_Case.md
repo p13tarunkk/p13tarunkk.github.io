@@ -16,7 +16,7 @@ tags:
 - featured
 ---
 
-Product design (a.k.a. Product sense) is a master skill possessed by Product Managers (PMs). It is the most common problem asked during PM interviews. Do not confuse this with UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*.  In an interview set up, all of these need to be investigated in a limited time frame of 30-45 mins. Product design problems can be either case studies or open ended questions on technology products or physical products.
+Product design (a.k.a. Product sense) is a master skill possessed by Product Managers (PMs). It is the most common problem asked during PM interviews. Do not confuse this with UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*.  In an interview set up, all of these need to be investigated in a limited time frame of 30-45 mins. Product design problems can be either case studies or open ended questions on technology /physical products.
 
 	SAMPLE PRODUCT DESIGN PROBLEMS:-
 	Design an app for the Louvre Museum
@@ -31,7 +31,7 @@ Product design (a.k.a. Product sense) is a master skill possessed by Product Man
 	If you are FB PM, how will you design a product for people moving to a new city?
 	As a startup, how would you build a product to combat climate change
 	
-The varying degree of vagueness in these problems is intentional. Some questions may have specified goals(monetize Whatsapp), while others may have specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook). The intent is to assess how PM candidate organises the provided information and discovers absent information while navigating the steps of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
+The varying degree of vagueness in these problems is intentional. Some questions may have a specified goal (monetize Whatsapp), while others may have some specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook). The intent is to assess how PM candidate organises the provided information and discovers absent information while navigating the steps of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
 
 # <center>10 Steps to Crack Product Design Inteview</center>
 
@@ -147,7 +147,7 @@ Once you have derived user segments, the next step is to envision the use-cases 
 USER SCENARIOUS :- When, Where, Why, What, With Who ?
 ```
 
-At this juncture, it is recommended to prioritize or eliminate user segments/use-cases after giving a reasonable justifcation. It often makes sense to define the product goal as well.
+At this juncture, it is recommended to prioritize or eliminate user segments/use-cases after giving a reasonable justifcation. It often makes sense to define the product goal as well if you have the goal clarity.
 
 <i>Pro Tips :- <br>
 	#Think of both supply and demand side when identifying users. For example - buyers, sellers <br>
@@ -177,7 +177,7 @@ To uncover more pain-points, put yourself in user/customer's shoes. Envision the
 	USER JOURNEY :- 
 	Discover-> Reach-> Access-> Test-> Use-> Complete-> Validate-> Express-> Share 
 	
-E.g. User journey of a traveller: Decide the place -> Itinerary/route -> Activities/experiences -> Split expenses -> Share memories-photos/videos -> Refer to others
+E.g. User journey of a traveller: Decide the place -> Itinerary/route -> Activities/experiences -> Split expenses -> Share memories-photos/videos -> Review & Refer
 
 <i>Pro Tip :- <br>
  #Think of edge cases and error scenarios while building use-cases</i>
@@ -200,7 +200,7 @@ In order to identify the goal, it is recommended to first prioritize (or omit) u
 
 <p style="color: #EA2F65"> <b>6) Solutions</b></p>
 
-Build a list of solutions or feature set based on key user needs, gaps and goals identified above. Take some time to brainstorm and show off your creativity. Ask the interviewer if s/he prefers a particular solution for detailing. It is recommended to have 4-7 solutions to be able to prioritize fairly. Ensure that the key user pain points are addressed in the proposed solutions. 
+Build a list of solutions or feature set based on key user needs, gaps and goals identified above. Take some time to brainstorm and show off your creativity. Ask the interviewer if s/he prefers a particular solution for detailing. It is recommended to have at least 3 solutions to be able to prioritize fairly. Ensure that the key user pain points are addressed in the proposed solutions. 
 <br>
 You can build a list of solutions with a subset of features in each.
 e.g.- App with X,Y,X features as solution 1 and Website with V,X features as solution 2 and prioritize between App and Web.<br>
@@ -249,8 +249,7 @@ Is it a Low Hanging fruit or a Quick win?
 You can also share a contingency plan and rough roadmap of the product. Based on the success of your MVP (recommended solution), you can select the rest of the features from your product prioritization <i>(Step 6)</i>. Have instrumentation, Do A/B testing, Ask customers for feedback and if possible Share Product vision.
 
 <u>Tradeoffs</u><br>
-Highlight the risks and pro/cons of the recommended solution. Try thinking about the edge-cases and negative user flows. In real world, the biggest risks for any new product are lack of data and customer research
-(See what you just did ;) )
+Highlight the risks and pro/cons of the recommended solution. Try thinking about the edge-cases and negative user flows. In real world, the biggest risks for any new product are lack of data and customer research.
 
 	KEY TRADEOFFS :- 
 	Cannibalisation, customer satisfaction, overuse, safety, integrity, privacy, 
@@ -281,7 +280,7 @@ Customer Satisfaction - SUS, CSAT, NPS, User ratings, Referrals
 
 <p style="color: #EA2F65"> <b>Step 10) Summarize</b></p>
 
-Finally, summarize your approach starting with the problem to the solutions you enlisted and your recommendation based on key criteria chosen.
+Finally, outline your approach, beginning with the problem and ending with your recommendation based on the essential criteria you selected.
 
 <i>Pro Tip :- <br>
  #Use STAR to summarize - Situation, Task, Action, Results</i>
