@@ -131,7 +131,7 @@ For more details, read [segmentation](https://prodbee.com/Users/)
 														
 <u>User Persona (Optional) </u>
 <br>
-While making the product for a selected user group, design a detailed user persona if you have time.
+While building the product for a selected user group, design a detailed user persona if you have time.
 This will help to uncover the user's lifestyle, behaviours, objectives - what/ why/ where/ how/ when?
 
 <img src="{{ site.baseurl }}/assets/images/User_Persona.jpg" 
@@ -156,7 +156,7 @@ At this juncture, it is recommended to prioritize or eliminate user segments/use
 
 <p style="color: #EA2F65"> <b>5) User Needs, Pain points  & Goals</b></p>
 
-Once you figure out the right user segments and use cases, pivot to user needs, desires, motivations & objectives. User needs are often referred as "pain points". 
+After figuring out the right user segments and use cases, pivot to user needs, desires, motivations & objectives. User needs are often referred as "pain points". 
 Let's say the problem is "To improve Instagram Stories" and the target user is "Gen Z, College goer, High Freq User". The pain points here will be -
 * Share updates with friends asap
 * Stay updated about friends 
@@ -195,7 +195,7 @@ In order to identify the goal, it is recommended to first prioritize (or omit) u
 * Existing solutions
 
 <i>Pro Tip :- <br>
- #For new products, the goal could be user adoption wherein the user group or use case could be selected based on market size or gap.<br>
+ #For new products, the goal could be user adoption wherein the user group and use case could be selected based on market size or gap.<br>
 #In a real world scenario, a PM will first check the data of the conversion funnel if the product is an existing one. It may be possible that the actionable issue is regarding the discovery of the product and not the usage or engagement. </i>
 
 <p style="color: #EA2F65"> <b>6) Solutions</b></p>
@@ -247,7 +247,7 @@ Is it a Low Hanging fruit or a Quick win?
  #Select a combination of features for your MVP and describe each to build an overall picture of the recommended product</i>
 
 <u>Roadmap (optional)</u><br>
-You can also share a contingency plan and chart a rough roadmap of the product. Based on the success of your MVP (i.e. recommended solution), you can include the rest of the features from your solution list in your roadmap<i>(Step 6)</i>. Have instrumentation, do A/B testing, take customer feedback and if possible share product vision.
+You can also share a contingency plan and chart a rough roadmap of the product. Based on the success of your MVP (i.e. recommended solution), you can include the rest of the features from your solution list in your roadmap <i>(Step 6)</i>. Have instrumentation, do A/B testing, take customer feedback and if possible share product vision.
 
 <u>Tradeoffs</u><br>
 Highlight pros/cons and the risks of the recommended solution. Think of the edge-cases and negative user flows. In real world, the biggest risk for any new product is the lack of data and customer research.
