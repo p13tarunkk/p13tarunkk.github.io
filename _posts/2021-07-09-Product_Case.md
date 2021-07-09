@@ -1,0 +1,305 @@
+---
+title: How to solve Product Design / Product Sense questions | The Great PM Interview
+image: assets/images/Product_Design_Vladimir_Ship.jpg
+author: tarun
+categories: interviews
+tags:
+- Product Case Interview
+- Product Design
+- Design Thinking
+- Product Managers
+- Job interview
+- Product Design
+- Product Sense
+- Strategy
+- User Empathy
+- featured
+---
+
+Product design (a.k.a. Product sense) is a master skill possessed by Product Managers (PMs). It is the most common problem asked during PM interviews. Do not confuse this with UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*.  In an interview set up, all of these need to be investigated in a limited time frame of 30-45 mins. Product design problems can be either case studies or open ended questions on technology products or physical products.
+
+	SAMPLE PRODUCT DESIGN PROBLEMS:-
+	Design an app for the Louvre Museum
+	Design Youtube for Concert Lovers
+	Design a Travel app for Airport Layover
+	Design an alarm clock for blind
+	Design a solution for gardening
+	Design an education product for Facebook
+	How would you improve Instagram ?
+	How would you a design a pen for Scuba Divers ?
+	How would you monetize Whatsapp ?
+	If you are FB PM, how will you design a product for people moving to a new city?
+	As a startup, how would you build a product to combat climate change
+	
+The varying degree of vagueness in these problems is intentional. Some questions may have specified goals(monetize Whatsapp), while others may have specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook). The intent is to assess how PM candidate organises the provided information and discovers absent information while navigating the steps of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
+
+# <center>10 Steps to Crack Product Design Inteview</center>
+
+<img src="{{ site.baseurl }}/assets/images/Product_design_flow.jpg" 
+		 alt="User_Segmentation"
+     width="100%" 
+     height="auto" />												
+
+<p style="color: #EA2F65"> <b> 1) Situation Understanding - Ask Clarifying Questions</b></p>
+
+First, narrow down the broad problem by gathering as much information as possible. PMs are expected to throughly understand the situation and problem before they move to solutioning. 
+
+Reiterate the problem to avoid any misses. <br> E.g. "Let me make sure that I understood the problem clearly <state the given problem>".
+<br>  Also, if it is an existing product, verify your understanding of the product with the interviewer.  <br>  E.g.
+"My understanding is that X product does…….” Else, clarify  "What do you mean by ……. ? What is the product about ?"
+	
+```
+CLARIFYING QUESTIONS TO ASK :-
+Would it be safe to assume that it would be part of main App than a separate one? 
+Would this be a web product or a stand-alone app?
+Where is the product in its lifecycle  - new/growth/maturity? 
+Is it an Existing or New? 0 to 1 product? Related products?
+Is it going to be digital or physical product?
+Do we have any particular customer segment or situation like Covid I should focus on?
+What market/geography the product serves?
+Are there any constraints in terms of cost, time or effort? Is there any urgency?
+Should we focus on any platform like android, web, desktop in particular?
+Do we have any data to focus on a particular user? any core flow or pain point?
+Are there any specific goal(s) that you would want me to focus on? company goal?
+```
+
+Interviewers generally allow you to make assumptions but it is best to ask and clarify. Assume wherever you can but just call it out.
+```
+ASSUMPTION :- 
+"Scope is limited to Facebook.com both App and Web. We are not focusing on 
+Instagram, Whatsapp or other Facebook owned properties"
+```
+
+<i>Pro Tip :- <br>
+#Try underlining key words to better understand the problem. <br> For e.g. - Problem: How would you <u>improve</u> <u>Instagram</u>? <br>
+	Questions: What needs to be improved ? UX improvement ? Monetization ? Customer engagement ? Are we talking about Instagram for regular users or influencers or advertisers ? Mobile App or Advertisor tools ? </i>
+
+<p style="color: #EA2F65"> <b>2) Mission</b></p>
+
+Determine how the product relates to the company's or entrepreneur's (or rather the interviewer's) vision. Reiterate the mission and the synergies.
+
+```
+MISSION  :-
+Facebook - Make world more connected and help people build communities.
+Instagram - Allowing people to capture and share moments of their life. 
+To bring you closer to the people and things you love.
+Google - Organize the world's information & make it universally accessible & useful. 
+```
+
+If you look at the above mission statements, building a travel product does make sense for each of the above companies. In a way, travel as a use-case is an extension of their core missions.
+
+<p style="color: #EA2F65"> <b>3) Structure</b></p>
+
+Lay down the steps of your problem solving approach. This will keep your thoughts organized and help the interviewer follow the conversation easily.
+
+	FLOW :- 
+	Users-> Needs-> Solutions-> Prioritisation-> Recommendation-> Tradeoff-> Metrics
+
+<p style="color: #EA2F65"> <b>4) Users</b></p>
+
+PMs represent the Voice of the Customer in Business. Desiging a product is not possible without thinking about the users/customers. Generally, PMs engage in dialogue with users to better understand them and their needs. This involves research, interviews or FGDs and documentation of insights. During interviews, you would proceed with some user thinking and assumptions. 
+Things to note -
+* Consider all potential and current users
+* Identify primary user and secondary user
+
+E.g.- A product for kids will have kids as primary users, parents as customers/secondary users whereas teachers or coaches may be the other users.
+
+<u>User Segments </u>
+<br>
+Group the product users into two or more segments (preferably three or four) based on some common traits, needs, and behaviours. It is recommended to use 3-4 characteristics to define each segment  for clear segregation and representation. 
+Example user segments could be - 
+* Young professionals (M/F) of age 20-25 years with above average income
+* Millenials who are Information & content seekers, Socially conscious and Tech Savvy												
+
+```
+USER SEGMENTS :-
+Working professional, Student, Homemaker, Parents
+Demographic - Age, sex, family status, Income, Profession
+Millenials(25-40), GenZs (<24 yrs), Baby boomers (40+)  (timing)
+High frequency, Medium frequency, Low frequency users based on usage
+Innovators, Early Adopters, Early Majority, Late Majority, Laggards
+
+OTHER USERS :- 
+Artists, Content creators, Advertisers, Young Adults, 
+Parents, Kids, Elders, Students, College goers, Religious, 
+Working professional, Traveler, Affluent, Price Conscious, 
+Risk Averse, Influencer, Follower, Volunteers, Activists, 
+Conversatives, Digital Nomad, Hiker-Traveler, Educators
+```
+
+For more details, read [segmentation](https://prodbee.com/Users/)
+														
+<u>User Persona (Optional) </u>
+<br>
+When making the product for a selected user group, design a detailed user persona if you have time.
+This will help to uncover the user's lifestyle, behaviours, objectives - what/ why/ where/ how/ when?
+
+<img src="{{ site.baseurl }}/assets/images/User_Persona.jpg" 
+		 alt="User_Segmentation"
+     width="75%" 
+     height="auto" />												
+
+<u>Use Cases </u>
+<br>
+Once you have derived user segments, the next step is to envision the use-cases in which the product will be used. A use case is a description of how a person uses the product to accomplish a goal. E.g. in payments product, the typical use-cases are Person-to-Person (P2P), Person-to-Business (P2B), Business-to-Person (B2P) and Business-to-Business (B2B).
+
+```
+USER SCENARIOUS :- When, Where, Why, What, With Who ?
+```
+
+At this juncture, it is recommended to prioritize or eliminate user segments/use-cases after giving a reasonable justifcation. It often makes sense to define the product goal as well.
+
+<i>Pro Tips :- <br>
+	#Think of both supply and demand side when identifying users. For example - buyers, sellers <br>
+	#PMs especially interviewers love matrixes/grids. Try creating a matrix or table of User segments on one side and use-cases on the other or a grid of User demographics and their usage frequency<br>
+	#After identifying the users and use-cases, ask some clarifying questions to see if the interviewer wants you to focus on anything specific. </i> 
+
+<p style="color: #EA2F65"> <b>5) User Needs, Pain points  & Goals</b></p>
+
+Once you figure out the right user segments and use cases, pivot to user needs, desires, motivations & objectives. User needs are often referred as "pain points". 
+Let's say the problem is "To improve Instagram Stories" and the target user is "Gen Z, College goer, High Freq User". The pain points here will be -
+* Share updates with friends asap
+* Stay updated about friends 
+* Engage socially through likes and comments
+* Maintain privacy amongst network
+
+```
+KEY PAINPOINTS :- 
+Awareness, Discovery, Value, Selection, Creation, Ease, Clarity, Effectiveness, 
+Privacy, Authenticity, Integrity, Fairness, Relevance, Poor Experience, Support, 
+Community-social needs, Performance, Accessibility, Reach, Efficient
+```
+
+<u>User Journey </u>
+<br>
+To uncover more pain-points, put yourself in user/customer's shoes. Envision the user journey
+
+	USER JOURNEY :- 
+	Discover-> Reach-> Access-> Test-> Use-> Complete-> Validate-> Express-> Share 
+	
+E.g. User journey of a traveller: Decide the place -> Itinerary/route -> Activities/experiences -> Split expenses -> Share memories-photos/videos -> Refer to others
+
+<i>Pro Tip :- <br>
+ #Think of edge cases and error scenarios while building use-cases</i>
+
+<u>Objective/Goals </u>
+<br>
+It is best to get the goal clarity as soon as possible - when asking clarifying questions <i>(Step 1)</i>, or while discussing your/company's mission <i>(Step 2)</i> or when identifying users <i>(Step 4)</i>. Before  solutioning, you must specify the objective of the product which you are going to build. <br>
+In order to identify the goal, it is recommended to first prioritize (or omit) user needs / pain points based on the following parameters -<br>
+* Product lifecycle 
+* Users - Volume, Motivation
+* Unique opportunity 
+* Competition
+* Company mission 
+* Company Strengths 
+* Existing solution
+
+<i>Pro Tip :- <br>
+ #For new products, the goal could be user adoption wherein the user group or use case could be selected based on market size or gap.<br>
+#In a real world scenario, a PM will first check the data of the conversion funnel if the product is an existing one. It may be possible that the actionable issue is regarding the discovery of the product and not usage or engagement. </i>
+
+<p style="color: #EA2F65"> <b>6) Solutions</b></p>
+
+Build a list of solutions or feature set based on key user needs, gaps and goals identified above. Take some time to brainstorm and show off your creativity. Ask the interviewer if s/he prefers a particular solution for detailing. It is recommended to have 4-7 solutions to be able to prioritize fairly. Ensure that the key user pain points are addressed in the proposed solutions. 
+<br>
+You can build a list of solutions with a subset of features in each.
+e.g.- App with X,Y,X features as solution 1 and Website with V,X features as solution 2 and prioritize between App and Web.<br>
+Alternatively, you can build a flat list of features/user stories 
+e.g. - Features W (registration),X (booking) ,Y(forum), Z(referral) and prioritize W, X, Y & Z.<br>
+
+```
+IDEAS :- 
+UI-UX improvements, New APP, Feature within App or Website,  AR-VR, AI-ML, 
+Enable Messaging, NFT, Blockchain, IOT, Robots, Drones, Autonomous vehicles, 
+Video conferencing, Virtual rooms, New channel/category Launches, 
+New Experiences - learning, live, Payments, Pricing models- Subscription, post-paid
+Manual Operations, 3rd Party Vendors, Tele-calls, Video walkthroughs.
+```
+<i>Pro Tip :- <br>
+#Use SCAMPER framework for creative ideas -
+	Substitute, Combine, Adapt, Modify/Magnify/Minimise, Purpose/Put to another use, Eliminate and Rearrange/Reverse	<br>
+#Many company like Google love to hear moonshot ideas. Keep yourself upto date on new technolgies</i>
+
+<p style="color: #EA2F65"> <b>7) Prioritization</b></p>
+
+Evaluate and prioritise the list of solutions based on the following factors:
+* <u>Impact</u> to user could be evaluated as whether proposed solutions solve a key painpoint. The impact to business is analysed in terms of coherence with the mission or the selected goal
+* <u>Cost</u> in terms of time to implement, technology and, engineering resources required
+* <u>Risks</u> could be value risks, usability risks, feasibility risks or business viability risks
+
+```
+PRIORITIZATION OF SOLUTIONS :-
+Impact - to user & business
+Cost - time, effort & feasibility 
+Risk - confidence 
+```
+<p style="color: #EA2F65"> <b>8) Recommended Solution</b></p>
+
+Now that you have put forward a constellation of propostions, it is time to finally recommend a solution and justify. Based on the prioritisation, you will propose to go ahead with a solution with a set of features x, y, z. Your recommended solution should have relatively high value, low overall cost and low associated risks.
+```
+RECOMMENDATION :- 
+Why would people use it? Differentiator? What would you build as MVP? 
+How would people use it? Is it a unique opportunity or have large target audience?  
+Is it a Low Hanging fruit or a Quick win?
+```
+<i>Pro Tip :- <br>
+ #Select more than 1 features for your MVP and describe each to build an overall picture of the recommended product</i>
+
+<u>Roadmap (optional)</u><br>
+You can also share a contingency plan and rough roadmap of the product. Based on the success of your MVP (recommended solution), you can select the rest of the features from your product prioritization <i>(Step 6)</i>. Have instrumentation, Do A/B testing, Ask customers for feedback and if possible Share Product vision.
+
+<u>Tradeoffs</u><br>
+Highlight the risks and pro/cons of the recommended solution. Try thinking about the edge-cases and negative user flows. In real world, the biggest risks for any new product are lack of data and customer research
+(See what you just did ;) )
+
+	KEY TRADEOFFS :- 
+	Cannibalisation, customer satisfaction, overuse, safety, integrity, privacy, 
+	disparity, opportunity cost of another customer segment/ pain point/ geography
+
+<p style="color: #EA2F65"> <b>9) Success Metrics</b></p>
+
+The biggest expectation from the recommended solution is to acheive the goal described earlier but how would you quantify it? Measuring the product success is a vast area in itself and deserves another chapter. For the interview, it is recommended to specify 2-5 key metrics that relate best to your goals and the final product.
+
+Product Metrics are of the following types - <br>
+* Northstar (or Goal metrics) - Be top 10 app in its category, Traffic
+* Product Tracking (or Product Health metrics)  - #Users, Engagement
+* Guard-Rail (or Counter metrics) - Measure of tradeoffs, cannibalization
+
+```
+KEY METRICS :-
+Adoption - Install/downloads, signups, # of users
+Growth - %age Increase in New Users, DAU, MAU
+Engagement metrics  -  DAU, MAU, session time, view, like, share, comment
+Retention - Cohort activity D7, D30,  DAU per MAU
+Monetisation - Revenue, CTR, ARPU, Subscriptions, Revenue per Ad
+Customer Satisfaction - SUS, CSAT, NPS, User ratings, Referrals
+```
+ 
+ <i>Pro Tip :-
+<br>#For new product, measure adoption as number of users using the product and active users<br>
+#For measuring engagement use #per active users as base than just #users</i>
+
+<p style="color: #EA2F65"> <b>Step 10) Summarize</b></p>
+
+Finally, summarize your approach starting with the problem to the solutions you enlisted and your recommendation based on key criteria chosen.
+
+<i>Pro Tip :- <br>
+ #Use STAR to summarize - Situation, Task, Action, Results</i>
+	
+	COMMON MISTAKES :-
+	Not asking enough questions to ensure common ground on product, users
+	No mission alignment of company and product
+	No structure to problem solving
+	Incomplete or no user journey
+	Poor customer segmentation - too much time, using only age
+	Prioritising users, pain points, or solutions without proper reasoning
+	No connection between Goal-User-Painpoint-Solution
+	No tradeoffs or counter metrics
+	Not clarifying #events or #unique customers in metrics
+	Too long a summary
+	
+<i>Expert Tip :-
+<br>#Break the structure and pattern wherever you can. Make it customized </i>
+
+
+Image Credits :-  *Cover photo:*   <a href="https://vladimirkush.com/departure-of-the-winged-ship" target="_blank">Painting 'Departure of the Winged Ship by Vladimirkush'</a>
