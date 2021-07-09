@@ -86,7 +86,7 @@ To bring you closer to the people and things you love.
 Google - Organize the world's information & make it universally accessible & useful. 
 ```
 
-If you look at the above mission statements, building a travel product does make sense for each of the above companies. In a way, travel as a use-case is an extension of their core missions.
+For instance, if the given problem is around building a Travel product, it does make sense for each of the above companies as per their mission statements, . In a way, travel as a use-case is an extension of their core missions.
 
 <p style="color: #EA2F65"> <b>3) Structure</b></p>
 
