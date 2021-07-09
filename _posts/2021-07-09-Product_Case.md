@@ -131,7 +131,7 @@ For more details, read [segmentation](https://prodbee.com/Users/)
 														
 <u>User Persona (Optional) </u>
 <br>
-When making the product for a selected user group, design a detailed user persona if you have time.
+While making the product for a selected user group, design a detailed user persona if you have time.
 This will help to uncover the user's lifestyle, behaviours, objectives - what/ why/ where/ how/ when?
 
 <img src="{{ site.baseurl }}/assets/images/User_Persona.jpg" 
