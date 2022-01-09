@@ -1,0 +1,95 @@
+I"!<p><em>“Who to build for?’’</em> is a paramount thought in a Product Manager’s mind as s/he confronts any goal or a problem statement. Early in the product discovery phase, Product Managers (PMs) must define who will be their customers, primary and secondary users. This aids not only in the development of the right product in the right form, but also in determining whether the product offers enough value and differentiation to be taken to market.
+Wouldn’t you agree that while creating a mass market pen, we naturally think of “students” as users? Imagine selling these pens to “Junior footballers” or “boy scouts”. The user (in this scenario, children) may nevertheless be the same person who behaves differently at different times.</p>
+
+<p><strong>Customers</strong> vs <strong>Users</strong></p>
+
+<p><i>A <em>Customer</em> is the one who purchases the product whereas a <em>User</em> is someone who uses it. There could always be multiple users using the same product in varying frequencies and unique ways. </i></p>
+
+<p>For instance, consider a mom who gifts her kid a playstation. Mom is the customer for playstation as she is the one who made the purchase. The kid is the primary user, meant to play age appropriate games on it.  Dad could be an occasional user with the motive to bond with their kid. On rare occasions, Dad may as well self-indulge by playing Fifa or Golf club. Moreover, both mom and dad may like to keep a tab on the usage frequency as well as the content accessed by their kid. Thus, both are secondary users.
+Sony, as a Playstation manufacturer, understands well that in order for the product to be embraced by more children (target group), it must also consider Moms, Dads, and even siblings. Without due respect to Mom, no playstation will be gifted in the first place.  There may not be enough games to sell if Dad and siblings’ needs and motivations are not respected. For the sake of simplicity, let’s call all of them (customers and all level of users) as “Users” thereafter.</p>
+
+<p><strong>What is Segmentation ?</strong></p>
+
+<p><i>Segmentation is the process of dividing existing or/and potential customers, into sub-groups (called as segments) based on their shared characteristics.</i></p>
+<pr>This process looks for commonality amongst users based on needs, interests, behaviours, or even demographic profiles. The ultimate aim is to identify high yield segments that are likely to be the most profitable or have high growth potential so that these can be prioritized while building or improving products.</pr>
+<pr>Users are typically divided into segments in 4 ways:  </pr>
+<ol>
+  <li>Demographic Segmentation - Age, sex, family status, Income, Profession.</li>
+  <li>Geographic Segmentation - Region, State, Country, Urban, Rural.</li>
+  <li>Psychographic Segmentation - Social Status, Personality traits, Activities, Interests, Opinions, Lifestyle.</li>
+  <li>Behavioural Segmentation - Usage, Engagement, Habits.</li>
+</ol>
+
+<p>Besides this, product companies also use multitude of other segmentations based on their business needs such as Paid vs Free users, B2B (Enterprise) vs B2C users, New vs Returning Users, High vs Med vs Low Engagement Users, Office goers vs Casual travellers etc.</p>
+
+<p><strong>When to use segmentation ?</strong></p>
+
+<p>Segmentation has been extensively used in marketing to find best ways to target the intended customer base (e.g.  affluent executives as target customers for luxury cars). In digital world, Segmentation of users is a foremost step of product development as consumers are increasingly moving towards digital products. Key examples include</p>
+<ul>
+  <li>Building product vision/strategy for under-served customers</li>
+  <li>Product discovery to identify MVP feature set</li>
+  <li>Product design to build UI-UX</li>
+  <li>GTM (Go to market) strategy of any new feature, product or App</li>
+</ul>
+
+<p><strong>How to do segmentation ?</strong></p>
+
+<p>Demographic segmentation with parameters such as <em>age, sex, family status, income, profession</em> is applicable almost everywhere. A standard example is</p>
+<ul>
+  <li>Segment A - Working professionals (M/F) of age  20-40 years with above average income</li>
+  <li>Segment B - Students (M/F) of age 12-20 years with no income</li>
+  <li>Segment C - Business owners or CXOs (M/F) of age 40+ with very high income) <br /></li>
+</ul>
+
+<p>While considering demographics is beneficial, it is often difficult to obtain precise data for a prospective user group as they are considered instrusive by users. To segment digital product users, it’s best to use psychographic or behavioural traits.</p>
+<p style="padding: 10px; border: 2px solid black;">
+<u><i>Whether it is product discovery, product design, GTM or a case study in a Product interview, you can consider the following segments:-</i> </u><br />
+
+	<br />
+* Millennials (25-40 yrs), GenZs (&lt;24 yrs), Baby boomers (40+)  (generation based)<br />
+* Working professional, Student, Homemaker (profession based)<br />
+* Advanced, Regular, Novice, Elderly/Disabled, Children (user types based)<br />
+* Hardcore, Regular, Beginner  (customer journey)<br />
+* Early adopter, Early majority, Late majority, Laggards  (customer journey)<br />
+* Active, Passive, Dormant (activity based)<br />
+* High value, medium value, low value (CLV - purchases based)<br />
+* Loyal, Regular, occasional, New user (loyalty based)<br />
+* Power, Regular, occasional, New user  (engagement based)<br />
+* Yearly events user - Christmas, Personal Events user - birthdays, Seasonal deal seeker, Universal user (occasion based)<br />
+* Heavy, Average, Light Users (usage based)<br />
+* High, Medium, Low frequency (usage based)<br />
+* Highly Satisfied, Low satisfaction (satisfaction based)<br />
+* Follower, Business, Influencer (interest based)<br />
+* Buyer, Seller, Advertiser (benefits sought)<br />
+* Admin, Moderator, User (user status)<br />
+* Viewer, Creator, Sponsor (role based)<br />
+	<br />
+	
+	<i>Other User types to consider -  </i> <br />
+Artists, Creative, Young Adults, Parents, Kids, Elders, Students, College goers, Working professional, Traveler, Affluent, Price Conscious, Risk Averse, Influencer, Follower, Volunteers, Activists, Religious, Conservatives, Digital Nomad, Hiker-Traveler, Educators.
+	</p>
+
+<p><strong>What’s next? - Personas, Needs, Goals, Use Cases, Journey</strong></p>
+
+<p>While grouping your users into two or more segments (preferably three or four), you should specify some common traits, needs, and behaviours for clear segregation and representation. It is recommended to use 3-4 characteristics to define each segment. For example, Millennials are Information &amp; content seekers, Socially conscious and Tech Savvy.
+<br />Detailed user personas are often built for the prioritized user segments. This provides a better understanding of the user’s mind, including their wants, motivations, beliefs, preferences, and obstacles, in order to achieve a strong product-market fit.</p>
+
+<p><u>What's more to examine about Users?</u><br /></p>
+<ul>
+  <li>User Needs and Wants –  Socialising is a basic human <em>need</em> but socialising through online multiplayer games is a <em>want</em>.</li>
+  <li>User Goals and Motivation – The goal could be forging social connections or engaging in social activities. The common underlying motivations are a) seek pleasure or avoid pain b) seek hope and avoid fear e) seek social acceptance while avoiding social rejection.</li>
+  <li>User Behaviors and Triggers - Celebration of family events and gifting.</li>
+  <li>Values and Attitudes – Belongingness and joy of sharing.</li>
+  <li>Lifestyle – People preferring indoor gaming over outdoor sports.</li>
+  <li>Use Cases - Multi-player games at home, dorms or gaming cafe.</li>
+  <li>User Journey -  Player onboarding to successfully finishing the game.</li>
+</ul>
+
+<p>Pro tip :- <i>Use She/Her when building a general persona</i></p>
+
+<p>Read more on Human needs from <a href="http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs" target="_blank">Psychology: Maslow’s Hierarchy of Needs</a> -
+<img src="{{ site.baseurl }}/assets/images/Users_Maslows.png" alt="User_Segmentation" width="70%" height="auto" />
+<br /><i>Image credits :- Androidmarsexpress</i></p>
+
+<p>Cover Image : <a href="https://freepik.com/vectors/people" target="_blank">People vector created by pikisuperstar - freepik.com</a></p>
+:ET

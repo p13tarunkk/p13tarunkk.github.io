@@ -1,0 +1,30 @@
+I"è<p>Hi! I Tarun. This is test page created directedly in pages directory</p>
+
+<p>Thank you so much!</p>
+
+<div class="row gap-y listrecent listrecent listauthor">
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Tarun" src="/assets/images/avatar1.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-tarun">
+            <h4 class="text-dark mb-0"> Tarun </h4>
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt"><b>Creator &amp; Consultant</b> @ Prodbee <br /> <b>Product Professional</b> @ Target, US | Lazada, Alibaba group | Magicbricks, Times Group (Ex) | Ola Cabs (Ex) <br /> <b>Enthusiast</b> @ Photography | Arts | Web-designing | Boxing</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href=""><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/tarun-kumar-900a71115"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+    </div>
+
+:ET

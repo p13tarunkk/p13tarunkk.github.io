@@ -29,11 +29,11 @@ Product design (a.k.a. Product sense) is the most common problem asked during PM
 	How would you a design a pen for Scuba Divers ?
 	How would you monetize Whatsapp ?
 	If you are FB PM, how will you design a product for people moving to a new city?
-	As a startup, how would you build a product to combat climate change
+	As a startup, how would you build a product to combat climate change ?
 	
-The varying degree of vagueness in these problems is intentional. Some questions may have a specified goal (monetize Whatsapp), while others may have some specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook). The intent is to assess how a PM candidate organises the provided information and discovers the absent information while navigating the path of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
+The varying degree of vagueness in these problems is intentional. Some questions may have a specified goal (monetize Whatsapp), while others may have some specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook). The intent is to assess how a PM candidate organizes the provided information and discovers the absent information while navigating the path of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
 
-# <center>10 Steps to Crack Product Design Inteview</center>
+# <center>10 Steps to Crack Product Design Interview</center>
 
 <img src="{{ site.baseurl }}/assets/images/Product_design_flow.jpg" 
 		 alt="User_Segmentation"
@@ -42,7 +42,7 @@ The varying degree of vagueness in these problems is intentional. Some questions
 
 <p style="color: #EA2F65"> <b> 1) Situation Understanding - Ask Clarifying Questions</b></p>
 
-First, narrow down the broad problem by gathering as much information as possible. PMs are expected to throughly understand the problem and the underlying context before moving to solutions. 
+First, narrow down the broad problem by gathering as much information as possible. PMs are expected to thoroughly understand the problem and the underlying context before moving to solutions. 
 
 Reiterate the problem to avoid any misses. <br> E.g. "Let me make sure that I understood the problem clearly....[state the problem statement here]".
 <br>  Also, if it is an existing product, verify your understanding of the product with the interviewer.  <br>  E.g.
@@ -97,7 +97,7 @@ Lay down the steps of your problem solving approach. This will keep your thought
 
 <p style="color: #EA2F65"> <b>4) Users</b></p>
 
-PMs represent the Voice of the Customer in Business. Desiging a product is not possible without thinking about its users/customers. Generally, PMs engage in a dialogue with users to better understand them and their needs. This involves research, customer interviews, FGDs and documentation of insights. However, you would proceed with user-thinking and assumptions while interviewing for PM role. 
+PMs represent the Voice of the Customer in Business. Designing a product is not possible without thinking about its users/customers. Generally, PMs engage in a dialogue with users to better understand them and their needs. This involves research, customer interviews, FGDs and documentation of insights. However, you would proceed with user-thinking and assumptions while interviewing for PM role. 
 Things to note -
 * Consider all potential and current users
 * Identify primary user and secondary user
@@ -109,13 +109,13 @@ E.g.- A product for kids will have kids as primary users, parents as customers/s
 Group the product users into two or more segments (preferably three or four) based on some common traits, needs, and behaviours. It is recommended to use 3-4 characteristics to define each segment  for clear segregation and representation. 
 Example user segments could be - 
 * Young professionals (M/F) of age 20-25 years with above average income
-* Millenials who are Information & content seekers, Socially conscious and Tech Savvy												
+* Millennials who are Information & content seekers, Socially conscious and Tech Savvy												
 
 ```
 USER SEGMENTS :-
 Working professional, Student, Homemaker, Parents
 Demographic - Age, sex, family status, Income, Profession
-Millenials(25-40), GenZs (<24 yrs), Baby boomers (40+)  (timing)
+Millennials(25-40), GenZs (<24 yrs), Baby boomers (40+)  (timing)
 High frequency, Medium frequency, Low frequency users based on usage
 Innovators, Early Adopters, Early Majority, Late Majority, Laggards
 
@@ -124,7 +124,7 @@ Artists, Content creators, Advertisers, Young Adults,
 Parents, Kids, Elders, Students, College goers, Religious, 
 Working professional, Traveler, Affluent, Price Conscious, 
 Risk Averse, Influencer, Follower, Volunteers, Activists, 
-Conversatives, Digital Nomad, Hiker-Traveler, Educators
+Conservatives, Digital Nomad, Hiker-Traveler, Educators
 ```
 
 For more details, read [segmentation](https://prodbee.com/Users/)
@@ -144,14 +144,14 @@ This will help to uncover the user's lifestyle, behaviours, objectives - what/ w
 Once you have derived user segments, the next step is to envision the use-cases in which the product will be used. A use case is a description of how a person uses the product to accomplish a goal. E.g. in payments product, the typical use-cases are Person-to-Person (P2P), Person-to-Business (P2B), Business-to-Person (B2P) and Business-to-Business (B2B).
 
 ```
-USER SCENARIOUS :- When, Where, Why, What, With Who ?
+USER SCENARIOS :- When, Where, Why, What, With Who ?
 ```
 
-At this juncture, it is recommended to prioritize or eliminate user segments/use-cases after giving a reasonable justifcation. It often makes sense to also define the product goal immediately if you have the goal clarity.
+At this juncture, it is recommended to prioritize or eliminate user segments/use-cases after giving a reasonable justification. It often makes sense to also define the product goal immediately if you have the goal clarity.
 
 <i>Pro Tips :- <br>
 	#Think of both supply and demand side when identifying users. For example - buyers, sellers <br>
-	#PMs especially interviewers love matrixes/grids. Try creating a matrix or table of User segments on one side and use-cases on the other or a grid of User demographics and their usage frequency<br>
+	#PMs especially interviewers love matrix/grids. Try creating a matrix or table of User segments on one side and use-cases on the other or a grid of User demographics and their usage frequency<br>
 	#After identifying the users and use-cases, ask some clarifying questions to see if the interviewer wants you to focus on anything specific. </i> 
 
 <p style="color: #EA2F65"> <b>5) User Needs, Pain points  & Goals</b></p>
@@ -218,8 +218,8 @@ Manual Operations, 3rd Party Vendors, Tele-calls, Video walkthroughs.
 ```
 <i>Pro Tip :- <br>
 #Use SCAMPER framework for creative ideas -
-	Substitute, Combine, Adapt, Modify/Magnify/Minimise, Purpose/Put to another use, Eliminate and Rearrange/Reverse	<br>
-#Companies like Google love to hear moonshot ideas. Keep yourself upto date on new technolgies</i>
+	Substitute, Combine, Adapt, Modify/Magnify/Minimize, Purpose/Put to another use, Eliminate and Rearrange/Reverse	<br>
+#Companies like Google love to hear moonshot ideas. Keep yourself upto date on new technologies</i>
 
 <p style="color: #EA2F65"> <b>7) Prioritization</b></p>
 
@@ -236,7 +236,7 @@ Risk - confidence
 ```
 <p style="color: #EA2F65"> <b>8) Recommended Solution</b></p>
 
-Now that you have put forward a constellation of propostions, it is time to finally recommend a solution and justify. Based on the prioritisation, recommend a solution with its set of features. The chosen solution should have relatively high value, low overall cost and low associated risks.
+Now that you have put forward a constellation of propositions, it is time to finally recommend a solution and justify. Based on the prioritisation, recommend a solution with its set of features. The chosen solution should have relatively high value, low overall cost and low associated risks.
 ```
 RECOMMENDATION :- 
 Why would people use it? Differentiator? What would you build as MVP? 
@@ -253,12 +253,12 @@ You can also share a contingency plan and chart a rough roadmap of the product. 
 Highlight pros/cons and the risks of the recommended solution. Think of the edge-cases and negative user flows. In real world, the biggest risk for any new product is the lack of data and customer research.
 
 	KEY TRADEOFFS :- 
-	Cannibalisation, customer satisfaction, overuse, safety, integrity, privacy, 
+	Cannibalization, customer satisfaction, overuse, safety, integrity, privacy, 
 	disparity, opportunity cost of another customer segment/ pain point/ geography
 
 <p style="color: #EA2F65"> <b>9) Success Metrics</b></p>
 
-The primary expectation from the recommended solution is to acheive the goal described earlier but how would you quantify it? Measuring the product success is a vast area in itself and deserves another chapter. For the interview, it is recommended to specify 2-5 key metrics that relate best to your goals and the final product.
+The primary expectation from the recommended solution is to achieve the goal described earlier but how would you quantify it? Measuring the product success is a vast area in itself and deserves another chapter. For the interview, it is recommended to specify 2-5 key metrics that relate best to your goals and the final product.
 
 Product Metrics are of the following types - <br>
 * Northstar (or Goal metrics) - Be top 10 app in its category, Traffic
