@@ -1,0 +1,28 @@
+I"<p>Product Managers and Analysts working on consumer facing products often dig into every click or interaction data in the core  flows like checkout or booking funnel. The objective is to not only optimize the conversion (and ofcourse growth) but also to find gaps in customer experience. Let’s take below a basic example of user journey on Ola cab’s App ( Ola cabs is leading cab aggregator in India with fierce competition with Uber). AIDA model ( Attention&gt;Interest&gt;Desire&gt;Action ) is also used here for explaination.</p>
+
+<p>Booking Funnel for individual Cab Categories ( like Micro, Mini etc ) can be measured in terms of app sessions or user clicks / unique users.</p>
+
+<p><img src="{{ site.baseurl }}/assets/images/Ola-booking-screen.jpg" alt="Ola-booking-screens" /></p>
+
+<p>The Key Metrics -</p>
+
+<ul>
+  <li><strong>Sum of All App sessions</strong> ( User Awareness/intent on platform )</li>
+  <li><strong>Sum of category “Ride now”</strong> button click sessions ( User Desire )</li>
+  <li><strong>Sum of category “Confirm”</strong> button click sessions ( User Action )</li>
+  <li><strong>Sum of category “Ride Scheduled”</strong> sessions ( Booking requested )</li>
+  <li><strong>Sum of category “Rides Completed”</strong> ( Booking confirmed )</li>
+</ul>
+
+<p>Below is the snapshot of the possible leakages across each step in the flow</p>
+
+<ul>
+  <li><strong>App sessions</strong> --&gt;Drop offs due to cab availability or expected times</li>
+  <li><strong>Ride now clicks</strong>  --&gt;Drops offs due to expected time or cab availability or price shown on app</li>
+  <li><strong>Confirm Button clicks</strong>  --&gt;Drops offs due to pricing</li>
+  <li><strong>Rides Scheduled</strong>  --&gt;Drops offs due to the cab not being available at the time of booking</li>
+  <li><strong>Rides completed</strong>  --&gt;Driver and Customer cancellations</li>
+</ul>
+
+<p>Although the example does not quantify the precise possiblities/occurences, Hope it helps to form a basic framework which can analyse and optimize user flows/funnels</p>
+:ET

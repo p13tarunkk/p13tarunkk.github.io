@@ -1,0 +1,50 @@
+I"�<p>Ever thought if there could be laws for building products ?  Here are few key biases, heuristics and effects that could be used for designing products. Most of these are intuitive and some won’t even work everywhere yet it is important to be aware.</p>
+
+<ul>
+  <li>
+    <p><strong>Fitts’ law</strong>  is a predictive model of human movement primarily used in human–computer interactions and ergonomics. This law states that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. This is used to place CTAs (Call to Actions) prominently in the interaction space.</p>
+  </li>
+  <li>
+    <p><strong>Scarcity effect</strong> is the cognitive bias that makes people place a higher value on an object that is scarce and a lower value on one that is available in abundance. This is widely used in ecommerce to convert buyer’s interest to purchase. You might have seen this in Amazon where number of items left are shown on Product Details Page (PDP).</p>
+  </li>
+  <li>
+    <p><strong>Urgency effect</strong> is used to create sense of urgency in order to drive sales. Example is putting a timer on checkout  which tends to increase conversions.</p>
+  </li>
+  <li>
+    <p><strong>Anchoring effect</strong>  is a form of cognitive bias that causes people to focus on the first piece of available information (the “anchor”) when making decisions. This is widely used in discounts where a high base price is shown along with the discounted price. A high base price gives an anchor of high perceived value to the buyer.</p>
+  </li>
+  <li>
+    <p><strong>Framing effect</strong> is similar to Anchoring effect where people decide based on the presented options or limited piece of information. Generally the options are presented with positive or negative connotations to influence the buyers. Let’s say a person is given a choice of various wines with different prices mentioned. As price of wine increases, the participant’s report greater enjoyment of the wine.</p>
+  </li>
+  <li>
+    <p><strong>Endowed Progress Effect</strong> is the effect that uses human’s intrinsic goal oriented behaviour. The presence of an artificial advancement toward a goal (even if it is artificial) motivates individuals to complete the goal though the goal may not provide any immediate real value. Completion meter or progress bar in sign up and onboarding flows increases the chance of  onboarding  and profile completion with more data.
+ Moreover, the closer the users are towards completing the goal, higher is their motivation to complete an additional action and move towards the goal.</p>
+  </li>
+  <li>
+    <p><strong>IKEA effect</strong> People value their own effort much more than they value other’s effort. IKEA has used this to sell unassembled furniture.</p>
+  </li>
+  <li>
+    <p><strong>Paradox of loss</strong> We value loss more (overvalue) than we value the gain (in absolute terms). A person purchasing car spends more if he is given a base price including accessories and then asked to remove accessories (than adding accessories).</p>
+  </li>
+  <li>
+    <p><strong>Miller’s law</strong> The number of objects an average human can hold in his short-term memory is 7 ± 2. Try to avoid more than 7 actions/choices on any user interface unless absolutely necessary. More choices/actions can confuse or lead to more errors.</p>
+  </li>
+  <li>
+    <p><strong>Jacob’s law</strong> Users go with consistency in their existing mental models. They expect your site or app to work in the same way as others they regularly use. Any major deviation in not appreciated.</p>
+  </li>
+  <li>
+    <p><strong>Occam’s razor</strong> The more assumptions one has to make, the more unlikely an explanation. This is used to simplify the user flows by minimizing the assumptions. Simplest solution is the best solution.</p>
+  </li>
+  <li>
+    <p><strong>Von Restorff effect / isolation effect</strong> predicts that when similar objects are presented, the object which is most distinguishable/different will be likely to be remembered the most. Simplest examples are the Highlighters and Tags like featured, new that are used on websites/apps to influence user’s preferences.</p>
+  </li>
+  <li>
+    <p><strong>Serial position effect</strong> Individuals best remember the first and last item in the list. PMs can use this on search results /listing pages.</p>
+  </li>
+  <li>
+    <p><strong>Pareto principle</strong>  Finally roughly 80% of the effects come from 20% of the causes. It is widely regarded as a universal truth and used for building MVPs / maximizing output</p>
+  </li>
+</ul>
+
+<p>Did I miss something ? Please share in the comments section below</p>
+:ET

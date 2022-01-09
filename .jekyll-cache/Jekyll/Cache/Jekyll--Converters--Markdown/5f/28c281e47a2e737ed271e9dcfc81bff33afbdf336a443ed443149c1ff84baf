@@ -1,0 +1,51 @@
+I"�<p>Structured approach is important for building the right products in right form and shape. Lot of products failures happen because we do not seek Why’s, What’s, How’s before we start building them. Let’s see what are the basic questions we must discuss with all stakeholders and have answers for before we jump to any new product ideas.</p>
+
+<p><strong>Users</strong></p>
+<ul>
+  <li>Define Target customer - Who is the target customer ?</li>
+  <li>Define Secondary customer - Who else is going to buy the product?</li>
+  <li>Define Target user - Who are its target users ?</li>
+  <li>Define Secondary users - Who will be the secondary users ?  ( Eg Books for children still need to be read by their parents and teachers )</li>
+</ul>
+
+<p><strong>User Needs / Use Cases</strong></p>
+<ul>
+  <li>Identify existing user need and use cases - What are the addressed and unaddressed needs, pain points and use cases of these users</li>
+  <li>Identify current alternatives for users - How do users currently satisfy their needs ? (alternatives/competitors for our product)</li>
+  <li>Prioritize of needs, use cases - Which needs, usecases will the product address ?</li>
+</ul>
+
+<p>Now that we have defined the users and identified use cases, we should be able to build user personas from above questions.</p>
+
+<p><strong>Business</strong></p>
+<ul>
+  <li>Define Business objectives - What are the business objectives / incentive for the product ?</li>
+  <li>Size the business opportunity - Understand and estimate the opportunity wrt timing or opporunity cost</li>
+  <li>Find Monetization opportunities - How will the company make money from selling the product? What are the sources of revenue and what is the business model? Is the product feasible? Can the company develop and sell the product?</li>
+</ul>
+
+<p>As we have understood both business and user objectives, lets discuss and define the product</p>
+
+<p><strong>Product</strong></p>
+<ul>
+  <li>Find Value differentiation - What value does our product add ?</li>
+  <li>Define MVP - Which product attributes are absolutely critical for meeting the needs selected (build MVP) and therefore for the success of the product ?</li>
+  <li>Identify areas to excel - What are the areas in which the product going to excel ?</li>
+  <li>Identify unique selling points - How does the product compare against existing products, from both competitors and the same company? What are the product’s unique selling points? What is its target price?</li>
+  <li>Build a Product snapshot - What will the product roughly look like and do ?</li>
+  <li>Check Feasibility and Viability of the product along with the effort required</li>
+  <li>Define success criteria - What will be different milestones for the product to achieve (in business and user metrics terms ) across the timeline ?</li>
+</ul>
+
+<p>We should be now able to develop the goals, objectives and short-term as well as future outlook of the product. Do keep in mind when we think of Product features and their properties we must think about both functional and non-functional aspects</p>
+<ul>
+  <li>Functional properties are specific product functions or features that serve the utility aspects e.g. being able to make or receive calls</li>
+  <li>Non- functional attributes include performance, robustness, style, design, and usability.</li>
+</ul>
+
+<p><img src="{{ site.baseurl }}/assets/images/product-vision-tag.png" alt="product tag" /></p>
+
+<p>And since PMs can be often very busy in firefighting, here are some techniques and tools that can be used to facilitate the envisioning of new products and features
+Teams can use some dedicated time in SCRUM meetings or weekly Pet projects (like google) to think creatively.
+Product managers along with their teams can also start with basic ideas from prototypes and mock-ups; personas and scenarios; use cases and user stories; sequences and storyboards; and the Kano Model. They can then seek out the answers of above questions to define or validate the product. Two effective techniques for determining the product’s value and selling points are product’s vision box and a trade journal review. A vision box is a mock-up of the package in which the product might ship and trade journal review is a write up about the product written as an outside agency.</p>
+:ET

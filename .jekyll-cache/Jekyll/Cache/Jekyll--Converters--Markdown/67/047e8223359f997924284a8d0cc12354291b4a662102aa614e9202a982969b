@@ -1,0 +1,24 @@
+I"ç<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}} <!--  Removing follow button
+                     <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.tarun.twitter }}">Follow</a></span>-->
+                    </h2> 
+                <p><a href="{{ site.authors.tarun.site }}">{{ site.authors.tarun.site }}</a></p>
+                <p class="excerpt">{{ site.authors.tarun.bio }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.authors.tarun.name }}" src="{{site.baseurl}}/{{ site.authors.tarun.avatar }}" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+            {% assign posts = site.posts | where:"author","tarun" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+</div>
+</div>
+:ET
