@@ -6,14 +6,14 @@ categories: interviews
 tags:
 - Product Case Interview
 - Product Design
-- Design Thinking
+- The Great PM Interview
 - Product Managers
 - Job interview
-- Product Design
 - Product Sense
+- Problem Solving
 - Strategy
 - User Empathy
-- featured
+- Product Management
 ---
 
 Product design (a.k.a. Product sense) is the most common problem asked during PM interviews. It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Product design problems can be either case studies or open ended questions on technology /physical products.
