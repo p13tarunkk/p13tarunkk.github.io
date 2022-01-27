@@ -1,7 +1,7 @@
 ---
 title: "Product Execution Problem : How to diagnose a Product Issue \n| The Great
   PM Interview"
-image: http://localhost:4000/assets/images/Great-PM-Interview-Product-Execution-RCA.jpg
+image: assets/images/Great-PM-Interview-Product-Execution-RCA.jpg
 author: tarun
 categories: interviews
 tags:
