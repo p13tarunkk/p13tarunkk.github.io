@@ -1,4 +1,4 @@
 Sitemap: https://prodbee.com/sitemap.xml
 
 User-agent:*
-Disallow:
+Disallow: /author_tarunbio.html
