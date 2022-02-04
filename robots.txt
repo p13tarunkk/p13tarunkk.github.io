@@ -2,3 +2,4 @@ Sitemap: https://prodbee.com/sitemap.xml
 
 User-agent:*
 Disallow: /author_tarunbio.html
+Disallow: /404/

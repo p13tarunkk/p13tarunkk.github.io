@@ -16,7 +16,8 @@ tags:
 - Product Management
 ---
 
-Product design (a.k.a. Product sense) is the most common problem asked during PM interviews. It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Product design problems can be either case studies or open ended questions on technology /physical products.
+Product design (a.k.a. Product sense) is the most common problem asked during PM interviews. It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
+Product design problems can be either case studies or open ended questions on technology /physical products.
 
 	SAMPLE PRODUCT DESIGN PROBLEMS:-
 	Design an app for the Louvre Museum
@@ -42,7 +43,7 @@ The varying degree of vagueness in these problems is intentional. Some questions
 
 <p style="color: #EA2F65"> <b> 1) Situation Understanding - Ask Clarifying Questions</b></p>
 
-First, narrow down the broad problem by gathering as much information as possible. PMs are expected to thoroughly understand the problem and the underlying context before moving to solutions. 
+First, narrow down the broad problem by gathering as much information as possible. PMs are expected to thoroughly understand the problem and the underlying context to define the scope and target before moving to solutions. 
 
 Reiterate the problem to avoid any misses. <br> E.g. "Let me make sure that I understood the problem clearly....[state the problem statement here]".
 <br>  Also, if it is an existing product, verify your understanding of the product with the interviewer.  <br>  E.g.
@@ -50,17 +51,20 @@ Reiterate the problem to avoid any misses. <br> E.g. "Let me make sure that I un
 	
 ```
 CLARIFYING QUESTIONS TO ASK :-
+What type of company are we? Startup, Large company
+Are there any constraints/limits in terms of resources like cost, time or effort?
+Considering the type of company, any goal for us? gain market share/customers?
+How are people solving this problem today ? 
+What are the alternatives available in the market ?
 Would it be safe to assume that it would be part of main App than a separate one? 
 Would this be a web product or a stand-alone app?
-Where is the product in its lifecycle  - new/growth/maturity? 
 Is it an Existing or New? 0 to 1 product? Related products?
+Where is the product in its lifecycle  - new/growth/maturity? 
 Is it going to be digital or physical product?
 Do we have any particular customer segment or situation like Covid I should focus on?
 What market/geography the product serves?
-Are there any constraints in terms of cost, time or effort? Is there any urgency?
 Should we focus on any platform like android, web, desktop in particular?
-Do we have any data to focus on a particular user? any core flow or pain point?
-Are there any specific goal(s) that you would want me to focus on? company goal?
+Do we have any data/reason for us to focus on a particular user? flow or pain point?
 ```
 
 Interviewers generally allow you to make assumptions but it is best to ask and clarify. Assume wherever you can but just call it out.
@@ -88,7 +92,7 @@ Google - Organize the world's information & make it universally accessible & use
 
 For instance, if the given problem is around building a Travel product, it does make sense for each of the above companies as per their mission statements, . In a way, travel as a use-case is an extension of their core missions.
 
-<p style="color: #EA2F65"> <b>3) Structure</b></p>
+<p style="color: #EA2F65"> <b>3) Approach - Structure</b></p>
 
 Lay down the steps of your problem solving approach. This will keep your thoughts organized and help the interviewer follow the conversation easily.
 
@@ -109,7 +113,9 @@ E.g.- A product for kids will have kids as primary users, parents as customers/s
 Group the product users into two or more segments (preferably three or four) based on some common traits, needs, and behaviours. It is recommended to use 3-4 characteristics to define each segment  for clear segregation and representation. 
 Example user segments could be - 
 * Young professionals (M/F) of age 20-25 years with above average income
-* Millennials who are Information & content seekers, Socially conscious and Tech Savvy												
+* Millennials who are Information & content seekers, Socially conscious and Tech Savvy
+
+For more details, read [segmentation](https://prodbee.com/Users/)											
 
 ```
 USER SEGMENTS :-
@@ -127,7 +133,7 @@ Risk Averse, Influencer, Follower, Volunteers, Activists,
 Conservatives, Digital Nomad, Hiker-Traveler, Educators
 ```
 
-For more details, read [segmentation](https://prodbee.com/Users/)
+If you have identified multiple customer segments, it is ideal to prioritise and focus on just 1 or 2 segments. Clarify your logic of prioritisation (e.g. market share)
 														
 <u>User Persona (Optional) </u>
 <br>
@@ -141,7 +147,7 @@ This will help to uncover the user's lifestyle, behaviours, objectives - what/ w
 
 <u>Use Cases </u>
 <br>
-Once you have derived user segments, the next step is to envision the use-cases in which the product will be used. A use case is a description of how a person uses the product to accomplish a goal. E.g. in payments product, the typical use-cases are Person-to-Person (P2P), Person-to-Business (P2B), Business-to-Person (B2P) and Business-to-Business (B2B).
+Once you have derived user segments, the next step is to envision the use-cases in which the product will be used. A use case is a description of how a person uses the product to accomplish a goal. E.g. in payments product, the typical use-cases are Person-to-Person (P2P), Person-to-Business (P2B), Business-to-Person (B2P) and Business-to-Business (B2B) or 4-12 yrs Kids in elementary school, home or books/dance club
 
 ```
 USER SCENARIOS :- When, Where, Why, What, With Who ?
@@ -156,18 +162,18 @@ At this juncture, it is recommended to prioritize or eliminate user segments/use
 
 <p style="color: #EA2F65"> <b>5) User Needs, Pain points  & Goals</b></p>
 
-After figuring out the right user segments and use cases, pivot to user needs, desires, motivations & objectives. User needs are often referred as "pain points". 
+After figuring out the right user segments and use cases, pivot to user needs, desires, motivations & objectives. User need gaps are often referred as "pain points" (e.g. limited free time for working professionals, safety for kids and mobility for people with wheelchair)
 Let's say the problem is "To improve Instagram Stories" and the target user is "Gen Z, College goer, High Freq User". The pain points here will be -
 * Share updates with friends asap
 * Stay updated about friends 
-* Engage socially through likes and comments
+* Engage/express socially through likes and comments
 * Maintain privacy amongst network
 
 ```
 KEY PAINPOINTS :- 
 Awareness, Discovery, Value, Selection, Creation, Ease, Clarity, Effectiveness, 
 Privacy, Authenticity, Integrity, Fairness, Relevance, Poor Experience, Support, 
-Community-social needs, Performance, Accessibility, Reach, Efficient
+Community-social needs, Performance, Accessibility, Reach, Efficient, Safety
 ```
 
 <u>User Journey </u>
@@ -175,20 +181,21 @@ Community-social needs, Performance, Accessibility, Reach, Efficient
 To uncover more pain-points, put yourself in user/customer's shoes. Envision the user journey
 
 	USER JOURNEY :- 
-	Discover-> Reach-> Access-> Test-> Use-> Complete-> Validate-> Express-> Share 
+	Discover-> Reach-> Access-> Test-> Use-> Complete-> Validate-> Express-> Share -> Refer
 	
 E.g. User journey of a traveller: Decide the place -> Itinerary/route -> Activities/experiences -> Split expenses -> Share memories-photos/videos -> Review & Refer
 
 <i>Pro Tip :- <br>
+ #Add personal touch by sharing experiences from personal life like with your elderly parents, young niece, children<br>
  #Think of edge cases and error scenarios while building use-cases</i>
 
 <u>Objective/Goals </u>
 <br>
-It is best to get the goal clarity as soon as possible - when asking clarifying questions <i>(Step 1)</i>, or while discussing your/company's mission <i>(Step 2)</i> or when identifying users <i>(Step 4)</i>. Before  solutioning, you must specify the objective of the product which you are going to build. <br>
+It is best to get the goal clarity as soon as possible - when asking clarifying questions <i>(Step 1)</i>, or while discussing your/company's mission <i>(Step 2)</i> or when identifying users <i>(Step 4)</i>. Before  solutioning, we must check what does the business care about and specificy the overall goal of the product. <br>
 In order to identify the goal, it is recommended to first prioritize (or omit) user needs / pain points based on the following parameters -<br>
-* Product lifecycle 
+* Product lifecycle
 * Users - Volume, Motivation
-* Unique opportunity 
+* Business value / Unique opportunity 
 * Competition
 * Company mission 
 * Company Strengths 
@@ -200,7 +207,7 @@ In order to identify the goal, it is recommended to first prioritize (or omit) u
 
 <p style="color: #EA2F65"> <b>6) Solutions</b></p>
 
-Build a list of solutions or feature set based on key user needs, gaps and goals identified above. Take some time to brainstorm and show off your creativity. Ask the interviewer if s/he prefers a particular solution for detailing. It is recommended to have at least 3 solutions to be able to prioritize fairly. The proposed solutions must address the key user pain points.
+Build a list of solutions or feature set based on key user needs, gaps and goals identified above. Take some time to brainstorm and show off your creativity. Ask the interviewer if s/he prefers a particular solution for detailing. It is recommended to have at least 3 solutions to be able to prioritize fairly. Each proposed solution must address one or more of the key user pain points and should also relate to the overall objective or goal (earlier step).
 <br>
 You can build a flat list of features/user stories 
 e.g. - Features W (registration), X (booking) , Y (forum), Z (referral) which will be prioritized later
@@ -236,7 +243,7 @@ Risk - confidence
 ```
 <p style="color: #EA2F65"> <b>8) Recommended Solution</b></p>
 
-Now that you have put forward a constellation of propositions, it is time to finally recommend a solution and justify. Based on the prioritisation, recommend a solution with its set of features. The chosen solution should have relatively high value, low overall cost and low associated risks.
+Now that you have put forward a constellation of propositions, it is time to finally recommend a solution and justify. Based on the prioritisation, recommend a solution with its set of features. The chosen solution should have relatively high value, low overall cost and low associated risks. You can also prioritise R&D (discovery) for longer term or moon shot solutions.
 ```
 RECOMMENDATION :- 
 Why would people use it? Differentiator? What would you build as MVP? 
@@ -246,15 +253,15 @@ Is it a Low Hanging fruit or a Quick win?
 <i>Pro Tip :- <br>
  #Select a combination of features for your MVP and describe each to build an overall picture of the recommended product</i>
 
-<u>Roadmap (optional)</u><br>
-You can also share a contingency plan and chart a rough roadmap of the product. Based on the success of your MVP (i.e. recommended solution), you can include the rest of the features from your solution list in your roadmap <i>(Step 6)</i>. Have instrumentation, do A/B testing, take customer feedback and if possible share product vision.
-
-<u>Tradeoffs</u><br>
-Highlight pros/cons and the risks of the recommended solution. Think of the edge-cases and negative user flows. In real world, the biggest risk for any new product is the lack of data and customer research.
+<u>Tradeoffs/Risks</u><br>
+Highlight pros/cons and the risks of the recommended solution. Think of the edge-cases and negative user flows. In real world, the biggest risk for any new product is the lack of data and customer research. E.g. while building product for kids, adults should also be able to use the product in regular ways or what if some people trick the system/user flow or don't find it interesting
 
 	KEY TRADEOFFS :- 
 	Cannibalization, customer satisfaction, overuse, safety, integrity, privacy, 
 	disparity, opportunity cost of another customer segment/ pain point/ geography
+
+<u>Roadmap (optional)</u><br>
+You can also share a contingency plan and chart a rough roadmap of the product. Based on the success of your MVP (i.e. recommended solution), you can include features from your solution list in your roadmap or add additonal ones like gamification. You can explain go to market (GTM) stratgey, share product vision and how you can iterate by having instrumentation,  A/B testing, taking customer feedback and observing how users are actually using it.
 
 <p style="color: #EA2F65"> <b>9) Success Metrics</b></p>
 
@@ -299,7 +306,10 @@ Finally, outline your approach, beginning with the problem and ending with your 
 	Too long a summary
 	
 <i>Expert Tip :-
-<br>#Break the structure and pattern wherever you can. Customize it. </i>
+<br>#Break the structure and pattern wherever you can. Personalize it. </i>
 
 
 Image Credits :-  *Cover photo:*   <a href="https://vladimirkush.com/departure-of-the-winged-ship" target="_blank">Painting 'Departure of the Winged Ship by Vladimirkush'</a>
+
+<u>If you have reached this far, I am fairly sure that you would agree this is one of the most comprehensive guide available on 'product design' ( received several thankful user notes so far ). <br>
+Request you to contribute by sharing with your network (sharing options on left side) and dropping a comment (below) - especially if you think something is missing </u>

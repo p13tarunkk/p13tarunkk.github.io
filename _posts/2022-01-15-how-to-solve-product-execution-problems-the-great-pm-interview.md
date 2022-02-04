@@ -1,5 +1,6 @@
 ---
-title: "Product Execution Problem : How to diagnose a Product Issue | The Great PM Interview"
+title: 'Product Execution Problem : How to diagnose a Product Issue | The Great PM
+  Interview'
 image: assets/images/Great-PM-Interview-Product-Execution-RCA.jpg
 author: tarun
 categories: interviews
@@ -121,10 +122,10 @@ What is the phase of the product ? mature or new ?
 Is it happening across all geographies or any region ? Language ? new launch ?
 Is it happening for some or all channels or categories ?
 Is there any visible change in metrics of any other features ? 
-- Payment service ? Recommendation/Feed/Search/CTAs ?
+- Logins? Payment service ? Recommendation/Feed/Search/CTAs ?
 Is the decline happening on specific platforms, like iOS, Android, Web or others? 
 Is this happening on browsers or phone models ? 
-A new feature launch/change ? Product change by any Product-Engineering team ? 
+A new feature launch/change ? Product change or ongoing experiments by any Product-Engineering team ? 
 Any changes in product marketing ?
 
 Technology
@@ -176,7 +177,7 @@ Test the Hypothesis with data by checking
 ```
 COMMON ROOT-CAUSES :-
 
-Look for Drop in funnel - overall traffic to conversation
+Drop in funnel - overall traffic to conversation
 Bugs or new launches - Recommendation/Feed/Search/CTAs
 Channel issue - organic search, referral, direct, new customer, repeat customers
 Platform Issue - IOS, Android, Mweb, Web
@@ -184,7 +185,7 @@ Category issue - "No. of Customer Returns in Shoes/Apparels"
 Check customer segments - New vs Old
 Feature deployment, App updates, A-B testing, UI change, privacy settings
 Data instrumentation/Reporting issues 
-Trends in Market or User Dynamics - user-friendly payment options
+Trends in Market or User Dynamics - new user-friendly payment options
 Calamities - International Supply challenge, Natural disaster, Covid, Football match
 ``` 
 
@@ -202,10 +203,14 @@ Finally, conclude with Summary and recommend course of actions. Emphasize that y
 ```
 COMMON ACTIONABLES :-
 
-Check UI/flow myself
-Start impact analysis
+Check UI/flow yourself
+Impact analysis
 Hotfix
 Roll back
 Search, Recommendations or other Data Science algorithms
 Align Business/Product teams on trade-offs
+New features to counter long-term trends
 ```
+
+<u>If you have read this till here, I believe you would agree this is one of the most comprehensive guide available on 'product execution'. <br>
+Request you to contribute by sharing with your network (see left) and dropping a comment below especially if you think - something is a miss </u>
