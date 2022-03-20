@@ -1,6 +1,6 @@
 ---
 title: How to set Goals & Metrics for Products | The Great PM Interview
-image: assets/images/Goal_setting_target.jpg
+image: assets/images/Goal_setting_Product_metrics.jpg
 author: tarun
 categories: interviews
 tags:
@@ -232,7 +232,7 @@ It is recommended to critique your metrics by discussing any broader risks, fors
 E.g. If the product feature is newly launched it is important to closely track the customer reactions on social media, customer support issues, bugs, resolution time, and various platform performance indicators like downtime, no. of bugs, avg load time etc. <br>
 Tracking edge-cases or failure rates like no matches, no results page, inactive users are also key to success of products depending on their maturity and business relevance.
 
-Note:- In interviews, goal setting questions are very often followed by other [Product Execution Questions](https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/) like - <br><i> What would you do as PM if this product metric X goes down by Y % ? </i> <br> (see [Solving a Product issue](https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/))
+Note:- In interviews, goal setting question is very often followed by another [Product Execution Question](https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/) like - <br><i> What would you do as PM if this product metric X goes down by Y % ? </i> <br> (see [Solving a Product issue](https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/))
 
 
 	 "Happy Product" means "Happy users' & "Happy numbers"
