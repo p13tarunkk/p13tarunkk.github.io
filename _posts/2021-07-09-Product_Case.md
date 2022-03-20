@@ -14,6 +14,13 @@ tags:
 - Strategy
 - User Empathy
 - Product Management
+- Product Sense Interview
+- Product Sense Problems
+- Facebook
+- Meta
+- FB
+- Google
+- Product design questions
 ---
 
 Product design (a.k.a. Product sense) is the most common problem asked during PM interviews. It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
@@ -116,7 +123,7 @@ Example user segments could be -
 * Young professionals (M/F) of age 20-25 years with above average income
 * Millennials who are Information & content seekers, Socially conscious and Tech Savvy
 
-For more details, read [segmentation](https://prodbee.com/Users/)											
+For more details, read <a href="https://prodbee.com/Users/" target="_blank"> segmentation</a>											
 
 ```
 USER SEGMENTS :-
@@ -192,7 +199,7 @@ E.g. User journey of a traveller: Decide the place -> Itinerary/route -> Activit
 
 <u>Objective/Goals </u>
 <br>
-It is best to get the goal clarity as soon as possible - when asking clarifying questions <i>(Step 1)</i>, or while discussing your/company's mission <i>(Step 2)</i> or when identifying users <i>(Step 4)</i>. Before  solutioning, we must check what does the business care about and specificy the overall goal of the product. <br>
+It is best to get the goal clarity as soon as possible - when asking clarifying questions <i>(Step 1)</i>, or while discussing your/company's mission <i>(Step 2)</i> or when identifying users <i>(Step 4)</i>. Before  solutioning, we must check what does the business care about and specify the <a href="https://prodbee.com/product-goal-metrics/" target="_blank"> overall goal </a>of the product. <br>
 In order to identify the goal, it is recommended to first prioritize (or omit) user needs / pain points based on the following parameters -<br>
 * Product lifecycle
 * Users - Volume, Motivation
@@ -204,7 +211,9 @@ In order to identify the goal, it is recommended to first prioritize (or omit) u
 
 <i>Pro Tip :- <br>
  #For new products, the goal could be user adoption wherein the user group and use case could be selected based on market size or gap.<br>
-#In a real world scenario, a PM will first check the data of the conversion funnel if the product is an existing one. It may be possible that the actionable issue is regarding the discovery of the product and not the usage or engagement. </i>
+#In a real world scenario, a PM will first check the data of the conversion funnel if the product is an existing one. It may be possible that the actionable issue is regarding the discovery of the product and not the usage or engagement.</i>
+
+For more details on how to identify product goals, read <a href="https://prodbee.com/product-goal-metrics/" target="_blank">Goals & Metrics</a>.
 
 <p style="color: #EA2F65"> <b>6) Solutions</b></p>
 
@@ -231,7 +240,7 @@ Manual Operations, 3rd Party Vendors, Tele-calls, Video walkthroughs, Message Bo
 
 <p style="color: #EA2F65"> <b>7) Prioritization</b></p>
 
-Evaluate and prioritise the list of solutions based on the following factors:
+Evaluate and <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritise</a> the list of solutions based on the following factors:
 * <u>Impact</u> on the user could be assessed by determining whether the proposed solutions address a major pain point. The impact to business is analysed in terms of coherence with the mission or the selected goal.
 * <u>Cost</u> in terms of time to implement, technology and, engineering resources required.
 * <u>Risks</u> could be value risks, usability risks, feasibility risks or business viability risks.
@@ -244,7 +253,7 @@ Risk - confidence
 ```
 <p style="color: #EA2F65"> <b>8) Recommended Solution</b></p>
 
-Now that you have put forward a constellation of propositions, it is time to finally recommend a solution and justify. Based on the prioritisation, recommend a solution with its set of features. The chosen solution should have relatively high value, low overall cost and low associated risks. You can also prioritise R&D (discovery) for longer term or moon shot solutions.
+Now that you have put forward a constellation of propositions, it is time to finally recommend a solution and justify. Based on the <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritisation</a>, recommend a solution with its set of features. The chosen solution should have relatively high value, low overall cost and low associated risks. You can also prioritise R&D (discovery) for longer term or moon shot solutions.
 ```
 RECOMMENDATION :- 
 Why would people use it? Differentiator? What would you build as MVP? 
@@ -269,7 +278,7 @@ You can also share a contingency plan and chart a rough roadmap of the product. 
 
 The primary expectation from the recommended solution is to achieve the goal described earlier but how would you quantify it? Measuring the product success is a vast area in itself and deserves another chapter. For the interview, it is recommended to specify 2-5 key metrics that relate best to your goals and the final product.
 
-Product Metrics are of the following types - <br>
+<a href="https://prodbee.com/product-goal-metrics/" target="_blank"> Product Metrics</a> are of the following types - <br>
 * Northstar (or Goal metrics) - Be top 10 app in its category, Traffic
 * Product Tracking (or Product Health metrics)  - #Users, Engagement
 * Guard-Rail (or Counter metrics) - Measure of tradeoffs, cannibalization
@@ -286,7 +295,10 @@ Customer Satisfaction - SUS, CSAT, NPS, User ratings, Referrals
  
  <i>Pro Tip :-
 <br>#For new product, measure adoption as number of users using the product and active users<br>
-#For measuring engagement use #active users as the base than just #users</i>
+#For measuring engagement use #active users as the base than just #users
+#Additionally, you can also track success by checking if the customers adopting the feature/product are showing the desired impact on the company goal like Users using new Insta call feature showing higher engagement on platform or not</i>
+
+For more details on how to identify right product metrics, read <a href="https://prodbee.com/product-goal-metrics/" target="_blank">Goals & Metrics</a>
 
 <p style="color: #EA2F65"> <b>Step 10) Summarize</b></p>
 
@@ -313,5 +325,5 @@ Finally, outline your approach, beginning with the problem and ending with your 
 
 Image Credits :-  *Cover photo:*   <a href="https://vladimirkush.com/departure-of-the-winged-ship" target="_blank">Painting 'Departure of the Winged Ship by Vladimirkush'</a>
 
-<u>If you have reached this far, I am fairly sure that you would agree this is one of the most comprehensive guide available on 'product design' ( received several thankful user notes so far ). <br>
+<u>If you have reached this far, I am sure that you would agree this is one of the most comprehensive guide available on 'product design' (received several thankful user notes so far). <br>
 Request you to contribute by sharing with your network (sharing options on left side) and dropping a comment (below) - especially if you think something is missing </u>
