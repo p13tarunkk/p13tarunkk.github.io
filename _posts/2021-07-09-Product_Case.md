@@ -220,9 +220,9 @@ e.g.- App with W, X, Z features as solution 1 and Website with W, X, Y features 
 IDEAS :- 
 UI-UX improvements, New APP, Feature within App or Website,  AR-VR, AI-ML, 
 Enable Messaging, NFT, Blockchain, IOT, Robots, Drones, Autonomous vehicles, 
-Video conferencing, Virtual rooms, New channel/category Launches, 
+Video conferencing, Virtual rooms, New channel/category Launches, Screen share
 New Experiences - learning, live, Payments, Pricing models- Subscription, post-paid
-Manual Operations, 3rd Party Vendors, Tele-calls, Video walkthroughs.
+Manual Operations, 3rd Party Vendors, Tele-calls, Video walkthroughs, Message Bots.
 ```
 <i>Pro Tip :- <br>
 #Use SCAMPER framework for creative ideas -
