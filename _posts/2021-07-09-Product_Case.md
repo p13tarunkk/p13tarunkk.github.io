@@ -47,7 +47,8 @@ First, narrow down the broad problem by gathering as much information as possibl
 
 Reiterate the problem to avoid any misses. <br> E.g. "Let me make sure that I understood the problem clearly....[state the problem statement here]".
 <br>  Also, if it is an existing product, verify your understanding of the product with the interviewer.  <br>  E.g.
-"My understanding is that X product does…….” Else, clarify  "What do you mean by ……. ? What is the product about ?"
+"My understanding is that X product does…….” Else, clarify  "What do you mean by ……. ? What is the product about ?". <br>
+Try to understand what is the goal of this activity - "Why are we doing this ? What is the company goal ?"
 	
 ```
 CLARIFYING QUESTIONS TO ASK :-
