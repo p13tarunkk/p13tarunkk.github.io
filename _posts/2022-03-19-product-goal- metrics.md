@@ -234,6 +234,7 @@ Facebook - Monthly Active Customers (engagement)
 Uber - Bookings completed per week (conversion)
 Airbnb - Nights booked per week (conversion)
 Quora - Number of questions users answered (engagement)
+Whatsapp - Number of messages sent weekly (engagement)
 Youtube - Total engaged watch time (watch time >10 secs) (engagement)
 Netflix - Number of subscribers with watch time >1 hours in the month (engagement)
 Salesforce - Number of records created per account (engagement)
@@ -263,4 +264,5 @@ Tracking edge-cases or failure rates such as <i> no matches, no results page, in
 Note:- In interviews, goal setting question is often followed by another<a href="https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/" target="_blank"> Product Execution Question </a> like - <br><i> What would you do as PM if this product metric X goes down by Y % ? </i> <br> (see <a href="https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/"> Solving a Product issue </a> )
 
 	 "Happy Product" means "Happy users' & "Happy numbers"
-	If you liked the article, please support by sharing (see left) & commenting (below)
+	Still have questions or need any help on Goals and Metrics ? Drop a comment
+	If you liked the article, please support by sharing (see left)
