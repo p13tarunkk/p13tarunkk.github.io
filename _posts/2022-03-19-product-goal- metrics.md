@@ -31,8 +31,8 @@ How would you set goals for Instagram Reels?
 What goals and success metrics would you set for buy & sell groups?
 How would you set a goal for Facebook Lite?
 What top 3 metrics would you track for Quora?
-What should uber eats goals be for the next 12 months?
-What would be goals and success metrics for video conferencing app (Hangouts, Zoom)?
+What should Uber eats goals be for the next 12 months?
+What would be the goals & success metrics for video conferencing app (Hangouts, Zoom)?
 ```
 
 <u>So what does product success look like ? </u>
@@ -41,8 +41,8 @@ Product goal describes a long-term objective or future state of the product.
 Product metrics are needed to track the success of the product against its goals. These metrics help to identify existing gaps, plan roadmap and guide the prioritization of the next features and enhancements. Metrics are extensively used during 
 * Leadership approvals (business case)
 * Product launches (as success criteria)
-* Annual, quarterly plannings (as KPIs - Key Performance Indicators or OKRs - Objective Key Results or OSTMs - Objectives Strategy Tatics & Metrics ) & 
-* Sprint excercises  (as acceptance criteria) <br>
+* Annual, quarterly plannings (as KPIs - Key Performance Indicators or OKRs - Objective Key Results or OSTMs - Objectives Strategy Tactics & Metrics ) & 
+* Sprint exercises  (as acceptance criteria) <br>
 
 
 To measure the success accurately, goals need to be <u>SMART </u>- Specific, Measurable, Attainable, Relevant, and Time-bound 
@@ -51,21 +51,21 @@ To measure the success accurately, goals need to be <u>SMART </u>- Specific, Mea
 
 To measure success of a product, three types of metrics are used -
 
-* **Business metrics** like reveneue, profit, efficiency
+* **Business metrics** like revenue, profit, efficiency
 * **User metrics** like usage from various users
-* **Platform metrics** like page load time, supply-demand matching ie bookings
+* **Platform metrics** like page load time, supply-demand matching i.e. bookings
 
 
 Metrics are also classified as  -
-* **Northstar metrics** (or Key goal metrics) to measure critical product or business value - GMV, Sales or Daily Active Users
+* **North Star Metrics** (NSM or Key goal metrics) to measure critical product or business value - GMV, Sales or Daily Active Users
 * **Product Tracking** (or Product health metrics) that support Northstar metrics  and measure deeper product health like number of Users or number of likes, comments and shares
-* **Guard-Rail** (or Counter metrics) that are measures of tradeoffs, risks or possible cannibalization of another feature or metric 
+* **Guard-Rail** (or Counter metrics) that are measures of trade offs, risks or possible cannibalization of another feature or metric 
 e.g. NPS, CSAT
 
-Moreover, leading metrics (leading indicators) are those which are forward looking and can represent future outcomes. In contrast, lagging metrics (lagging indicators) represent current and past state and are not good predictors of near future. <br>
+Moreover, leading metrics (leading indicators) are those which are forward-looking and can represent future outcomes. In contrast, lagging metrics (lagging indicators) represent current and past state and are not good predictors of near future. <br>
 E.g. - When measuring sales, Revenue per user is a leading indicator while churn rate is a lagging indicator. Dropping revenue per user is an urgent sign of sales reduction while high churn rate of customers over a longer period will eventually impact sales
 
-Now, let's discuss how we set goals and metrics to define product's success
+Now, let's discuss how we set goals and metrics to define product's success.
 
 <img src="{{ site.baseurl }}/assets/images/Goal_metrics_product_flow.png" 
 		 alt="Product_Goals"
@@ -87,7 +87,7 @@ What is the competitive landscape ?
 Is there a particular company strategy to build new goals ?
 What are the key user values and actions ? 
 Do we have any particular customer segment or situation like Covid I should focus on?
-Is there any specific timeframe for goals ? 
+Is there any specific time frame for goals ? 
 ```
 
 Note:- Not all questions need to be explicitly asked. You may make some relevant assumptions and state the same. 
@@ -113,7 +113,7 @@ FB Watch - allows users to view videos from friends, groups & thus bring them to
 Product goals are tightly coupled with the users in almost all modern businesses. Identifying different users and their journey help to build a comprehensive list of user metrics and possible goals. Users can be Supply side - Demand side; Primary users - Secondary users; Internal users - External users; Buying customers or Users using the product
 
 E.g.
-Instagram users are
+Instagram's users are
 - Content creators
 - Influencers or Celebs
 - Content consumers
@@ -123,7 +123,7 @@ User Journey :-
 Discover > Interest > Desire > Reach > Find > Access > Learn > Test > Use > Complete > Validate > Share
 <br>
 <br>
-E.g. User journey of a traveller:- Deciding Destination > Plan Itinerary > Activities > Express and Share memories
+E.g. User journey of a traveler:- Deciding Destination > Plan Itinerary > Activities > Express and Share memories
 
 ```
 USERS :-
@@ -146,13 +146,13 @@ Generally metrics are measured across the entire user funnel -
 * Awareness
 * Acquisition
 * Adoption
-* Engagemen
+* Engagement
 * Retention
 * Monetization
 * Satisfaction
 
-Atleast 2 - 3 metrics should be identified across the funnel to identify the primary North Start Metrics, its supporting metrics and counter metrics as part of <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritization </a>  in the next step. <br>
-It is important to use an appropriate timeframe for these metrics which generally depends on the company’s performance review cadence (weekly, monthly or quarterly).
+Atleast two or three metrics should be identified across the funnel to identify the primary North Start Metrics, its supporting metrics and counter metrics as part of <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritization </a>  in the next step. <br>
+It is important to use an appropriate time frame for these metrics which generally depends on the company’s performance review cadence (weekly, monthly or quarterly).
 
 The metrics should be measured across all relevant users, supply, demand, business and platform (whatever applicable) - consider 2X2 of these against the funnel metrics.
 
@@ -170,7 +170,7 @@ METRICS :-
 ACQUISITION OR REACH - User Traffic or hits ( direct, organic, referral, promotional )
 , Bounce rates
 
-ADOPTION - Install/downloads, Unique Users, Signups, # Sessions/DAC, 
+ADOPTION - Install/downloads, Unique Users, Sign ups, # Sessions/DAC, 
 %age of new users
 
 ACTIVATION  - No. of groups, no of groups/users, Bookings/user, 
@@ -192,10 +192,10 @@ STICKYNESS - DAU per MAU, x actions per month
 
 CHURN - Not active for X days, not renewing
 
-COVERSION - to goals like subscription, checkins, Customer Acquisition Cost (CAC)
+COVERSION - to goals like subscription, check-ins, Customer Acquisition Cost (CAC)
 
 MONETISATION -  Gross Merchandise Volume (GMV), Revenue, CTR, Avg Revenue/User (ARPU)
-Customer Life time value (CLV), Subscriptions/conversions, Revenue per Ad
+Customer Lifetime Value (CLV), Subscriptions/conversions, Revenue per Ad
 
 SATISFACTION - CSAT, SUS, NPS, User ratings, Referrals
 ```
@@ -215,14 +215,14 @@ First and foremost, the product lifecycle stage (new, growing, mature) helps to 
 
 <u>Prioritised metrics</u>
 
-North Star Metric is the key broad indicator to track goal. It indicates whether the product is benefitting the users as well as impacting the business.
-For the interview, it is recommended to specify one North star metric, two to five supporting metrics that relate best to your identified goals. It is also suggested to provide a couple of counter metrics or gaurd rail metrics to track any counter affects and risks associated with the product or feature. <br>
+North Star Metric is the key broad indicator to track goal. It indicates whether the product is benefiting the users as well as impacting the business.
+For the interview, it is recommended to specify one North star metric, two to five supporting metrics that relate best to your identified goals. It is also advisable to provide a couple of counter metrics or guard rail metrics to track any counter affects and risks associated with the product or feature. <br>
 
 E.g. -
 For <i>Instagram Reels </i> feature, the goal is engagement which is measured by the primary metric (North Star Metric or NSM) of Daily Active Customers actively engaging with Reels.
 
 * **North Star Metrics** - Daily Active Customers engaged with Reels (with >15 secs view time)
-* **Product health metrics** -  No. of User Egagements on Reels (likes,shares,comments) , No. of Reels Created, No. of Customer Views, $ Revenue from ads
+* **Product health metrics** -  No. of User Engagements on Reels (likes, shares, comments) , No. of Reels Created, No. of Customer Views, $ Revenue from ads
 * **Counter Metrics** - User Session time or Time spent on Reels vs other areas of Instagram
 
  <i>Pro Tips :-
@@ -230,14 +230,14 @@ For <i>Instagram Reels </i> feature, the goal is engagement which is measured by
 	 #Metrics change as products evolve - new products have basic metrics close to top line/bottom line of business, mature     products have more detailed/custom metrics like number of engaged users >30 sec watch time<br>
     #Do not use vanity and non-actionable metrics<br>
     #Try to use absolute metrics than rates to avoid base effect<br>
-    #Do not forget the timeframe of measuring the metric (e.g. no. of new signups weekly)<br>
+    #Do not forget the timeframe of measuring the metric (e.g. no. of new sign ups weekly)<br>
     #Avoid competition benchmarking metrics like market share unless necessary. For e.g. new business launch<br>
     #You can also measure metrics as target vs actuals like quarter to date
 </i>
 
-<u>Tradeoffs</u>
+<u>Trade offs</u>
 
-It is recommended to critique your metrics by discussing any broader risks and foreseen fallbacks. You can discuss the counter metrics to highlight cannibalisation, overuse and customer satisfaction issues. <br>
+It is recommended to critique your metrics by discussing any broader risks and foreseen fallback. You can discuss the counter metrics to highlight cannibalisation, overuse and customer satisfaction issues. <br>
 E.g. If a product feature is newly launched, it is important to closely track the customer reactions on social media, customer support issues, bugs, resolution time, and various platform performance indicators like downtime, # bugs, average load time etc. <br>
 Tracking edge-cases or failure rates such as <i> no matches, no results page, inactive users </i> are also key metrics to measure success of products depending on their maturity and business relevance.
 
