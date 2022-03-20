@@ -140,7 +140,7 @@ Detailed user segmentation is generally not necessary but it is still best to as
 
 <p style="color: #EA2F65"> <b>4) Metrics</b></p>
 	
-Now, that you have better clarity about the mission and the users, let's build and state the approach. <br>
+Now, that you have better clarity about the mission and the users, let's build a comprehensive list of relevant metrics<br>
 Generally metrics are measured across the entire user funnel - 
 
 **Product Funnel**
@@ -153,8 +153,8 @@ Generally metrics are measured across the entire user funnel -
 * Monetization
 * Satisfaction
 
-Atleast two or three metrics should be identified across the funnel to identify the primary North Start Metrics, its supporting metrics and counter metrics as part of <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritization </a>  in the next step. <br>
-It is important to use an appropriate time frame for these metrics which generally depends on the company’s performance review cadence (weekly, monthly or quarterly).
+Atleast two or three metrics should be identified across the funnel so that we could accurately prioritize most appropriate metrics in the next step.
+It is also important to use an appropriate time frame for these metrics which generally depends on the company’s performance review cadence (weekly, monthly or quarterly).
 
 The metrics should be measured across all relevant users, supply, demand, business and platform (whatever applicable) - consider 2X2 of these against the funnel metrics.
 
@@ -206,18 +206,21 @@ Note:- Many of the metrics are heavily inter-related e.g. Facebook makes revenue
 
 <p style="color: #EA2F65"> <b>5) Prioritise</b></p>
 
-In previous step, we defined the metrics for each funnel stage that indicate movement towards goal. Now, it is time to build a goal strategy and prioritize the metrics that are more relevant and impactful. 
-First and foremost, the product lifecycle stage (new, growing, mature) helps to identify which part of the funnel to focus on (acquisition, engagement, conversion, retention, monetization). 
+In previous step, we defined various metrics for each funnel stage that indicate movement towards multiple possible goals. Now, it's time to build a goal strategy by prioritizing a goal and selecting the most relevant and impactful metrics. 
 
 <u>Goal Strategy</u>
 
-* If the product is new or is being launched, and the primary goal is generally adoption (number of users). Hence, focus on acquisition, conversion, and engagement metrics instead of retention metrics. 
-* If the product is in growth stage, the goal is generally to increase engagement (e.g. instagram reels), then focus can be on engagement, and retention funnel stages which are closer to the goal. 
-* For matured products like Facebook, the goal is mostly engagement (most important), retention of its huge userbase and their<a href="https://prodbee.com/monetization-strategies/" target="_blank"> monetisation </a>
+First and foremost, the product lifecycle stage (new, growing, mature) is used to identify which part of the funnel to focus on as a key goal. 
+Select the most appropriate goal from the funnel (awareness, acquisition, adoption, engagement, conversion, retention, monetization, satisfaction) which complements the company and product strategy.
+
+For e.g. -
+* If the product is <i>new or is being launched</i>, and the primary goal is generally adoption (number of users). Hence, focus on acquisition, conversion, and engagement metrics instead of retention metrics. 
+* If the product is in <i>growth stage</i>, the goal is generally to increase engagement (e.g. instagram reels), then focus can be on engagement, and retention funnel stages which are closer to the goal. 
+* For <i>matured</i> products like Facebook, the goal is mostly engagement (most important), retention of its huge userbase and their<a href="https://prodbee.com/monetization-strategies/" target="_blank"> monetisation. </a>
 
 <u>Prioritised metrics</u>
 
-North Star Metric is the key broad leading indicator to track the goal. It indicates whether the product is benefiting the users as well as impacting the business (i.e. satisfying core product value). <br>
+North Star Metric is the most important broad indicator (leading metric) to track the goal. It indicates whether the product is benefiting the users as well as impacting the business (i.e. satisfying core product value). <br>
 Based on the strategy, different companies even in the same industry and lifecycle optimize for different goals and metrics.
 For the interview, it is recommended to specify one North star metric, two to five supporting metrics that relate best to your identified goals. It is also advisable to provide a couple of counter metrics or guard rail metrics to track any counter affects and risks associated with the product or feature. <br>
 
@@ -225,7 +228,7 @@ E.g. -
 For <i>Instagram Reels </i> feature, the company's goal is engagement and it is measured by the primary metric (North Star Metric or NSM) of Daily Active Customers actively engaging with Reels.
 
 * **North Star Metrics** - Daily Active Customers engaged with Reels (with >15 secs view time)
-* **Product health metrics** -  No. of User Engagements on Reels (likes, shares, comments) , No. of Reels Created, No. of Customer Views, $ Revenue from ads
+* **Product health metrics** -  No. of User Engagements on Reels (likes, shares, comments), No. of Reels Created, No. of Customer Views, $ Revenue from ads
 * **Counter Metrics** - User Session time or Time spent on Reels vs other areas of Instagram
 
 ```
@@ -263,7 +266,7 @@ It is recommended to critique your metrics by discussing any broader risks and f
 E.g. If a product feature is newly launched, it is important to closely track the customer reactions on social media, customer support issues, bugs, resolution time, and various platform performance indicators like downtime, # bugs, average load time etc. <br>
 Tracking edge-cases or failure rates such as <i> no matches, no results page, inactive users </i> are also key metrics to measure success of products depending on their maturity and business relevance.
 
-Note:- In interviews, goal setting question is often followed by another<a href="https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/" target="_blank"> Product Execution Question </a> like - <br><i> What would you do as PM if this product metric X goes down by Y % ? </i> <br> (see <a href="https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/"> Solving a Product issue </a> )
+Note:- In interviews, goal setting question is often followed by another<a href="https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/" target="_blank"> Product Execution Question </a> like - <br><i> What would you do as PM if this product metric X goes down by Y % ? </i> <br> (see <a href="https://prodbee.com/how-to-solve-product-execution-problems-the-great-pm-interview/"> Solving a Product issue </a>)
 
 	 "Happy Product" means "Happy users' & "Happy numbers"
 	Still have questions or need any help on Goals and Metrics ? Drop a comment
