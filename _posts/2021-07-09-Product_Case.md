@@ -255,7 +255,8 @@ Is it a Low Hanging fruit or a Quick win?
  #Select a combination of features for your MVP and describe each to build an overall picture of the recommended product</i>
 
 <u>Tradeoffs/Risks</u><br>
-Highlight pros/cons and the risks of the recommended solution. Think of the edge-cases and negative user flows. In real world, the biggest risk for any new product is the lack of data and customer research. E.g. while building product for kids, adults should also be able to use the product in regular ways or what if some people trick the system/user flow or don't find it interesting
+Highlight pros/cons and the risks of the recommended solution. Think of the edge-cases and negative user flows. In real world, the biggest risk for any new product is the lack of data and customer research. E.g. while building product for kids, adults should also be able to use the product in regular ways or what if some people trick the system/user flow or don't find it interesting.  <br>
+For e.g. Adding new features to an existing App can negatively impact the app size, consume more bandwidth & slows down the user in terms of experience. Churn rate, un-installs, overall session time, NPS and usage of another feature can get negatively impacted if the App feature is disliked by users.
 
 	KEY TRADEOFFS :- 
 	Cannibalization, customer satisfaction, overuse, safety, integrity, privacy, 
