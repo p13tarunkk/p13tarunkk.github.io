@@ -211,23 +211,42 @@ First and foremost, the product lifecycle stage (new, growing, mature) helps to 
 
 * If the product is new or is being launched, and the primary goal is generally adoption (number of users). Hence, focus on acquisition, conversion, and engagement metrics instead of retention metrics. 
 * If the product is in growth stage, the goal is generally to increase engagement (e.g. instagram reels), then focus can be on engagement, and retention funnel stages which are closer to the goal. 
-* For matured products like Facebook, the focus is often on engagement, retention of its huge userbase and their<a href="https://prodbee.com/monetization-strategies/" target="_blank"> monetisation </a>
+* For matured products like Facebook, the goal is mostly engagement (most important), retention of its huge userbase and their<a href="https://prodbee.com/monetization-strategies/" target="_blank"> monetisation </a>
 
 <u>Prioritised metrics</u>
 
-North Star Metric is the key broad indicator to track goal. It indicates whether the product is benefiting the users as well as impacting the business.
+North Star Metric is the key broad leading indicator to track the goal. It indicates whether the product is benefiting the users as well as impacting the business (i.e. satisfying core product value). <br>
+Based on the strategy, different companies even in the same industry and lifecycle optimize for different goals and metrics.
 For the interview, it is recommended to specify one North star metric, two to five supporting metrics that relate best to your identified goals. It is also advisable to provide a couple of counter metrics or guard rail metrics to track any counter affects and risks associated with the product or feature. <br>
 
 E.g. -
-For <i>Instagram Reels </i> feature, the goal is engagement which is measured by the primary metric (North Star Metric or NSM) of Daily Active Customers actively engaging with Reels.
+For <i>Instagram Reels </i> feature, the company's goal is engagement and it is measured by the primary metric (North Star Metric or NSM) of Daily Active Customers actively engaging with Reels.
 
 * **North Star Metrics** - Daily Active Customers engaged with Reels (with >15 secs view time)
 * **Product health metrics** -  No. of User Engagements on Reels (likes, shares, comments) , No. of Reels Created, No. of Customer Views, $ Revenue from ads
 * **Counter Metrics** - User Session time or Time spent on Reels vs other areas of Instagram
 
+```
+NORTH STAR METRICS :-
+
+Instagram - Weekly Active Customers (engagement)
+Facebook - Monthly Active Customers (engagement)
+Uber - Bookings completed per week (conversion)
+Airbnb - Nights booked per week (conversion)
+Quora - Number of questions users answered (engagement)
+Youtube - Total engaged watch time (watch time >10 secs) (engagement)
+Netflix - Number of subscribers with watch time >1 hours in the month (engagement)
+Salesforce - Number of records created per account (engagement)
+Adobe - Revenue from subscribing customers (monetisation)
+Walmart - Purchases per week (conversion)
+Amazon - Purchases per Prime subscribers (custom strategy)
+Prodbee - Number of page views (acquisition)
+```
+
  <i>Pro Tips :-
 <br>#Keep the prioritized metrics as simple as you can<br>
-	 #Metrics change as products evolve - new products have basic metrics close to top line/bottom line of business, mature     products have more detailed/custom metrics like number of engaged users >30 sec watch time<br>
+	 #As companies evolve from new to growing and matured, their goal shifts in the funnel from Acquisition to Monetisation and Satisfaction
+	 #New products have simple metrics around customer acquistion, mature products have more detailed/custom metrics like number of engaged users >30 sec watch time<br>
     #Do not use vanity and non-actionable metrics<br>
     #Try to use absolute metrics than rates to avoid base effect<br>
     #Do not forget the timeframe of measuring the metric (e.g. no. of new sign ups weekly)<br>
