@@ -251,7 +251,7 @@ Prodbee - Number of page views (acquisition)
 
  <i>Pro Tips :-
 <br>#Keep the prioritized metrics as simple as you can<br>
-	 #As companies evolve from new to growing and matured, their goal shifts in the funnel from Acquisition to Monetisation and Satisfaction
+	 #As companies evolve from new to growing and matured, their goal shifts in the funnel from Acquisition to Monetisation and Satisfaction<br>
 	 #New products have simple metrics around customer acquistion, mature products have more detailed/custom metrics like number of engaged users >30 sec watch time<br>
     #Do not use vanity and non-actionable metrics<br>
     #Try to use absolute metrics than rates to avoid base effect<br>
