@@ -43,7 +43,7 @@ Product goal describes a long-term objective or future state of the product.
 Product metrics are needed to track the success of the product against its goals. These metrics help to identify existing gaps, plan roadmap and guide the prioritization of the next features and enhancements. Metrics are extensively used during 
 * Leadership approvals (business case)
 * Product launches (as success criteria)
-* Annual, quarterly plannings (as KPIs - Key Performance Indicators or OKRs - Objective Key Results or OSTMs - Objectives Strategy Tactics & Metrics) & 
+* Annual, quarterly plannings (as KPIs - Key Performance Indicators or OKRs - Objective Key Results or OSTMs - Objectives Strategy Tactics & Metrics)
 * Sprint exercises  (as acceptance criteria) <br>
 
 
@@ -167,7 +167,7 @@ For Airbnb the key metrics are
      height="auto" />					
 
 ```
-METRICS :-
+LIST OF METRICS :-
 
 ACQUISITION OR REACH - User Traffic or hits ( direct, organic, referral, promotional )
 , Bounce rates
