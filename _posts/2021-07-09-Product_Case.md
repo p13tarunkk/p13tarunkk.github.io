@@ -325,5 +325,5 @@ Finally, outline your approach, beginning with the problem and ending with your 
 
 Image Credits :-  *Cover photo:*   <a href="https://vladimirkush.com/departure-of-the-winged-ship" target="_blank">Painting 'Departure of the Winged Ship by Vladimirkush'</a>
 
-<u>If you have reached this far, I am sure that you would agree this is one of the most comprehensive guide available on 'product design' (received several thankful user notes so far). <br>
+<u>If you have reached this far, you would agree that this is one of the most comprehensive guide available on 'product design' (received several thankful user notes so far). <br>
 Request you to contribute by sharing with your network (sharing options on left side) and dropping a comment (below) - especially if you think something is missing </u>

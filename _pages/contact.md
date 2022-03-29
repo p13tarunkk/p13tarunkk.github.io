@@ -5,9 +5,9 @@ description: "Tarun is a Product Professional from Bengaluru. Happy to connect, 
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Hi, I am Tarun from Bengaluru, the Silicon valley of East. Apart from a thrilling job as Product manager, I am into DSLR photography, creative arts, psychology and technology ecosystem. 
-
-If you are interested in any of this, looking for product consulting services or just feeling bored in Bengaluru's amazing weather, feel free to <span><a target="_blank" href=" {{site.authors.tarun.linkedin}} " class="btn btn-outline-success btn-sm btn-round ml-1">Connect</a></span> or send a message below to {{site.name}}.</p>
+<p class="mb-4">Hi, I am Tarun from Bengaluru, the Silicon valley of East. Apart from the thrills of being a product manager, I am into DSLR photography, creative arts, psychology and technology ecosystem. 
+<br>
+If you are interested in any of this or product consulting or a sponsored coffee with me in Bengaluru's amazing weather, <br> Feel free to <span><a target="_blank" href=" {{site.authors.tarun.linkedin}} " class="btn btn-outline-success btn-sm btn-round ml-1">Connect</a></span> or send a message below to {{site.name}}.</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
