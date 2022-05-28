@@ -21,6 +21,7 @@ tags:
 - Right metrics
 - Product Execution Interview
 - Build KPIs
+- featured
 ---
 
 Setting goals for product features is an art in product building. A product is successful only if it achieves its intended objectives or goals. Defining and measuring the product's or its features' success need good understanding of company goals, business, product vision, strategy, roadmap, its users, end customers and partners. Hence, it is a standard question in PM interviews at all levels including the Product Execution Interviews (at Facebook). <br>

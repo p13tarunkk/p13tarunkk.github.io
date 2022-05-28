@@ -9,7 +9,11 @@ tags:
 - case study
 - Product pricing
 - Product metrics
-- featured
+- revenue
+- ads
+- pricing
+- product managers
+- affiliate marketing
 ---
 
 Monetization! At first, most new Product Managers frown upon this word but it is an absolutely necessary element for any successful business model in the long run. Sooner or later, every successful product reaches a matured state when it must develop right monetization strategies. Below are some the key strategies PMs use to monetize their product / features. 
