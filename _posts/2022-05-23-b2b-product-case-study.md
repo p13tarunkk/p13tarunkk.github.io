@@ -26,11 +26,11 @@ tags:
 - Product Interview
 ---
 
-Most of the existing content about Product Management is focussed around the B2C (Business to consumer) model targetting products for the end consumers. B2B ie Business to Business product management often requires significantly different approaches when it comes to product discovery and development. B2B Product managers possess more industry expertise, understanding of enterprise users and their ecosystem they serve. <br>In B2B context, the enterprise users can be CXOs, Team leaders, Project Managers, and other employees in different functions like finance, operations, procurement. Project sponsors and executive team members have very different needs as compared to the end users. They all strive to actively collaborate together to make the business successful. The business person responsible for buying the product is not typically the actual user of the product. <br>
-The product managers in enterprise companies like <i>Microsoft, Adobe, Shopify, Atlassian, Zendesk, Zoom, Salesforce</i> that serve b2b customers, closely work with the sales teams, follow industry news, trends and regularly engage in site visits to understand the ever evolving needs of business users. Distribution approaches for enterprise products can also be on-premise, cloud based, or hybrid with either proprietary or open-source licensing.
+Most of the existing content about Product Management is focussed around the B2C (Business to consumer) model targeting products for the end consumers. B2B ie Business to Business product management often requires significantly different approaches when it comes to product discovery and development. B2B Product managers possess more industry expertise, understanding of enterprise users and their ecosystem they serve. <br>In a B2B context, the enterprise users can be CXOs, Team leaders, Project Managers, and other employees in different functions like finance, operations, procurement. Project sponsors and executive team members have very different needs as compared to the end users. They all strive to actively collaborate together to make the business successful. The business person responsible for buying the product is not typically the actual user of the product. <br>
+The product managers in enterprise companies like <i>Microsoft, Adobe, Shopify, Atlassian, Zendesk, Zoom and Salesforce</i> that serve B2B customers, closely work with the sales teams, follow industry news, trends and regularly engage in site visits to understand the ever evolving needs of business users. Distribution approaches for enterprise products can also be on-premise, cloud based, or hybrid with either proprietary or open-source licensing.
 As a PM, it is not just important to build <u>empathy for the spectrum of enterprise users</u> but also to study their <u>business processes and functional relationships.</u>
 
-Some of the common realities of b2b product management are :-
+Some of the common realities of B2B product management are :-
 * Customer and users are business driven
 * Relatively fewer customers but pay higher price points
 * Big clients are critical for product success
@@ -43,7 +43,7 @@ Some of the common realities of b2b product management are :-
 * Products are often <u>customized</u> for businesses with support for multiple <u>3rd party integrations</u>
 
 
-Some of the common myths of b2b product management are :-
+Some of the common myths of B2B product management are :-
 * <u>Clunky User Experience</u> is ok for business users
 * Features are mostly prioritized on sales inputs/pressure
 * Innovation is low
@@ -54,7 +54,7 @@ Let's understand how to build features for an enterprise/B2B product through the
 <p style="color: #EA2F65;font-size:120%"> <b>Problem</b></p>
 
 
-> You are a product manager for an accouting software product. The product caters to the small to medium scale businesses in the United States with a sizable number of employees and high number of business transactions month on month. These business owners are looking for product solutions that make team collaboration and delegation easier with sufficient controls in place. They need solutions that can replicate the business processes like manual approval process for Purchase Orders and Invoicing.
+> You are a product manager for an accounting software product. The product caters to the small to medium scale businesses in the United States with a sizable number of employees and high number of business transactions month on month. These business owners are looking for product solutions that make team collaboration and delegation easier with sufficient controls in place. They need solutions that can replicate the business processes like manual approval process for Purchase Orders and Invoicing.
 
 <p style="color: #EA2F65;font-size:120%"> <b>Situation</b></p>
 
@@ -111,11 +111,11 @@ Characteristics of other users<br>
 <b>Needs and Pain Points of Business Owners</b>
 	
 Small business owners want better control over their business by streamlining finances, increasing productivity & reducing enterprise costs.
-Morever they need -
+Moreover they need -
 * Faster decision making and execution to <u> increase speed of business</u>
 * Visibility/alerts on cash flow, credit cost and expenditure
 * Better collaboration and delegation between employees 
-* <u>Simpified business processes</u> like avoiding unnecessary approvals
+* <u>Simplified business processes</u> like avoiding unnecessary approvals
 * Checks on misappropriation of funds
 
 <b>Needs and Pain Points of other users</b>
@@ -135,7 +135,7 @@ Considering the internal capabilities and technologies required to enable the re
 - Acquisition of existing products in the market
 - Inhouse product feature
 
-The solutions are to be assessed for <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritisation</a> on the basis of -<br> a) Customer Value, b) Business Value, c) Development/integration costs, d) Time to market and e) Risks.
+The solutions are to be assessed for <a href="https://prodbee.com/product-prioritization-empathy/" target="_blank"> prioritization</a> on the basis of -<br> a) Customer Value, b) Business Value, c) Development/integration costs, d) Time to market and e) Risks.
 
 ```
 USER FLOW
