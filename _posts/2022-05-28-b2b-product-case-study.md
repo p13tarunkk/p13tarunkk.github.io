@@ -1,5 +1,6 @@
 ---
-title: How to build B2B Product Features ? Example case study on enterprise users
+title: How to build B2B or SaaS Product Features ? Example case study on enterprise
+  users
 image: assets/images/Enterprise-products-b2b-pm.jpg
 author: tarun
 categories: cases
@@ -27,8 +28,8 @@ tags:
 ---
 
 Most of the existing content on Product Management is focussed around the B2C (business to consumer) model, targeting products for the end consumers. B2B i.e. Business to Business product management often requires significantly different approaches when it comes to product discovery and development. B2B Product managers possess more industry expertise, understanding of enterprise users and their ecosystem they serve. <br>In a B2B context, the enterprise users can be CXOs, Team leaders, Project Managers, and other employees in different functions like finance, operations, procurement. Project sponsors and executive team members have very different needs as compared to the end users. They all strive to actively collaborate together to make the business successful. The business person responsible for buying the product is not typically the actual user of the product. <br>
-The product managers in B2B companies like <i>Microsoft, Adobe, Shopify, Atlassian, Zendesk, Zoom and Salesforce</i> that serve their enterprise customers, closely work with the sales teams to build new features. They follow industry news, trends and regularly engage in site visits to understand the ever evolving needs of the business users. Distribution approaches for enterprise products can be on-premise, cloud based, or hybrid with either proprietary or open-source licensing.
-As a PM, it is not just important to build <u>empathy for different enterprise users</u> but also to study their <u>business processes and functional relationships.</u>
+The product managers in B2B companies like <i>Microsoft, Adobe, Shopify, Atlassian, Zendesk, Zoom and Salesforce</i> that serve their enterprise customers, closely work with the sales teams to build new features. They follow industry news, trends and regularly engage in site visits to understand the ever evolving needs of the business users. Distribution approaches for enterprise products can be on-premise, cloud based, or hybrid with either proprietary or open-source licensing. A majority of the B2B enterprises have pivoted towards cloud based SaaS (Software as a Service) solutions and hence the demand for SAAS product managers is rising.
+As a B2B / SaaS PM, it is not just important to build <u>empathy for different enterprise users</u> but also to study their <u>business processes and functional relationships.</u>
 
 Some of the common realities of B2B product management are :-
 * Customer and users are business driven
@@ -54,7 +55,7 @@ Let's understand how to build features for an enterprise/B2B product through the
 <p style="color: #EA2F65;font-size:120%"> <b>Problem</b></p>
 
 
-> You are a product manager for an accounting software product. The product caters to the small to medium scale businesses in the United States with a sizable number of employees and high number of business transactions month on month. These business owners are looking for product solutions that make team collaboration and delegation easier with sufficient controls in place. They need solutions that can replicate the business processes like manual approval process for Purchase Orders and Invoicing.
+> You are a product manager for an accounting software product. The product caters to the small to medium scale businesses in the United States with a sizeable number of employees and high number of business transactions month on month. These business owners are looking for product solutions that make team collaboration and delegation easier with sufficient controls in place. They need solutions that can replicate the business processes like manual approval process for Purchase Orders and Invoicing.
 
 <p style="color: #EA2F65;font-size:120%"> <b>Situation</b></p>
 
@@ -83,7 +84,7 @@ As per current market dynamics, small and mid-sized businesses are working to re
 <b>Primary Users / Customers </b><br>
 <u>Small to Mid-market business owners</u> - who own companies with 
 * High monthly volume of business transactions or cash-flow
-* Sizable number of employees (>50) <br>
+* Sizeable number of employees (>50) <br>
 
 They are concerned about<br>
 	a) Expenditure and cash flow
