@@ -24,9 +24,12 @@ tags:
 - product design interview
 - PM interviews
 - featured
+- Facebook Product Manager
+- Meta Product Manager
+- ''
 ---
 
-Product design (a.k.a. Product sense) is the most common problem asked during PM interviews. It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
+Product design (a.k.a. Product sense) is the most common problem asked during PM interviews ( e.g. Google or Facebook / Meta Product Manager ). It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
 Product design problems can be either case studies or open ended questions on technology /physical products.
 
 	SAMPLE PRODUCT DESIGN PROBLEMS:-
@@ -42,7 +45,7 @@ Product design problems can be either case studies or open ended questions on te
 	If you are FB PM, how will you design a product for people moving to a new city?
 	As a startup, how would you build a product to combat climate change ?
 	
-The varying degree of vagueness in these problems is intentional. Some questions may have a specified goal (monetize Whatsapp), while others may have some specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook). The intent is to assess how a PM candidate organizes the provided information and discovers the absent information while navigating the path of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
+The varying degree of vagueness in these problems is intentional. Some questions may have a specified goal (monetize Whatsapp), while others may have some specified users (Scuba Divers), product (Travel app), use case (Gardening) or a company (Facebook / Meta). The intent is to assess how a PM candidate organizes the provided information and discovers the absent information while navigating the path of decision making. The thought process must reflect *Goal clarity, Customer Empathy, Knack for details, Creativity* and *Pragmatism*. 
 
 # <center>10 Steps to Crack Product Design Interview</center>
 

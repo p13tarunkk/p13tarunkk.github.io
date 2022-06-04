@@ -14,11 +14,12 @@ tags:
 - RCA
 - Debugging
 - Product Management
-- featured
+- Facebook Product Manager
+- Meta Product Manager
 ---
 
 Product Execution Interview is highly relevant in the day to day execution job of a Product Manager. The problems given are analytical, strategy and goal focused.
-One such product execution question is to debug an issue in a product, feature or KPI generally asked in FAANG/Big Tech Companies (Google, Facebook interviews). The interviewer explains some symptoms (like change in the metrics, feature or customer behaviour) and expects situational and the root cause analysis of the problem. These are referred as *"debugging", "investigation", "root cause", "metric change" or "diagnosis"* questions. Even in a typical work environment, PM and his team has limited time and resources to asses and react to such problems. Similar to a Doctor, PMs here try to -
+One such product execution question is to debug an issue in a product, feature or KPI generally asked in FAANG/Big Tech Companies (Google, Facebook PM interviews). The interviewer explains some symptoms (like change in the metrics, feature or customer behaviour) and expects situational and the root cause analysis of the problem. These are referred as *"debugging", "investigation", "root cause", "metric change" or "diagnosis"* questions. Even in a typical work environment, PM and his team has limited time and resources to asses and react to such problems. Similar to a Doctor, PMs here try to -
 * Understand the symptoms by asking questions
 * Check the associated indicators
 * Probe various causes and their probabilities by hit and trial method

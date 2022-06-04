@@ -1,6 +1,5 @@
 ---
-title: How to build B2B or SaaS Product Features ? Example case study on enterprise
-  users
+title: 'Product Management in B2B / SaaS : Example case study on Enterprise users'
 image: assets/images/Enterprise-products-b2b-pm.jpg
 author: tarun
 categories: cases
@@ -28,7 +27,7 @@ tags:
 ---
 
 Most of the existing content on Product Management is focussed around the B2C (business to consumer) model, targeting products for the end consumers. B2B i.e. Business to Business product management often requires significantly different approaches when it comes to product discovery and development. B2B Product managers possess more industry expertise, understanding of enterprise users and their ecosystem they serve. <br>In a B2B context, the enterprise users can be CXOs, Team leaders, Project Managers, and other employees in different functions like finance, operations, procurement. Project sponsors and executive team members have very different needs as compared to the end users. They all strive to actively collaborate together to make the business successful. The business person responsible for buying the product is not typically the actual user of the product. <br>
-The product managers in B2B companies like <i>Microsoft, Adobe, Shopify, Atlassian, Zendesk, Zoom and Salesforce</i> that serve their enterprise customers, closely work with the sales teams to build new features. They follow industry news, trends and regularly engage in site visits to understand the ever evolving needs of the business users. Distribution approaches for enterprise products can be on-premise, cloud based, or hybrid with either proprietary or open-source licensing. A majority of the B2B enterprises have pivoted towards cloud based SaaS (Software as a Service) solutions and hence the demand for SAAS product managers is rising.
+The product managers companies like <i>Microsoft, Adobe, Shopify, Atlassian, Zendesk, Zoom and Salesforce</i> that serve their enterprise customers, closely work with the sales teams to build new B2B product features. They follow industry news, trends and regularly engage in site visits to understand the ever evolving needs of the business users. Distribution approaches for enterprise products can be on-premise, cloud based, or hybrid with either proprietary or open-source licensing. A majority of the B2B enterprises have pivoted towards cloud based SaaS (Software as a Service) solutions and hence the demand for SAAS product managers is rising.
 As a B2B / SaaS PM, it is not just important to build <u>empathy for different enterprise users</u> but also to study their <u>business processes and functional relationships.</u>
 
 Some of the common realities of B2B product management are :-
