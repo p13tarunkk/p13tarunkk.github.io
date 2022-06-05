@@ -1,5 +1,5 @@
 ---
-title: 'Product Management in B2B / SaaS : Example case study on Enterprise users'
+title: 'Product Management in B2B & SaaS : Example case study on Enterprise users'
 image: assets/images/Enterprise-products-b2b-pm.jpg
 author: tarun
 categories: cases
