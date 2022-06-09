@@ -1,5 +1,5 @@
 ---
-title: 10 Product Psychology Lessons from Mom & Pop stores | PM's guide to business
+title: 10 Lessons of Consumer Psychology from Mom & Pop stores | PM's guide to business
 image: assets/images/mom-and-pop-store-product-manager-learnings.jpg
 author: tarun
 categories: psychology
@@ -20,13 +20,12 @@ tags:
 - Product Interview
 - Product manager role
 - featured
-- Psychology
+- ''
 ---
 
-Consumer psychology fascinates us all especially the product managers. We all have been both consumers and sellers at different stages of our life. 'Mom-and-Pop' stores or 'Kirana' stores have been indispensible parts of our daily lives. 
-We even continuously sell and buy things, beliefs, and more often ideas to and from people around us, including our parents, children, and friends. Learnings do come from all sides and seemingly trivial things we ever did, mould them. For instance, assisting my mother during early teens unknowingly helped me in my product management career. For me, some of the most practical learnings in business actually came from observing people as a customer myself and as a sales assistant in my mom's store. 
+Consumer psychology fascinates us all. We all have been both consumers and sellers at different stages of our life. We continuously sell and buy things, beliefs, and more often ideas to and from people around us, including our parents, children, and friends. Learnings do come from all sides and seemingly trivial things we ever did, mould them. For instance, assisting my mother during early teens unknowingly helped me in my product management career. For me, some of the most practical learnings in business actually came from observing people as a customer myself and as a sales assistant in my mom's store. 
 
-During my early teens, I grew up assisting my mother in running a small neighbourhood store, selling beauty and cosmetic products. Even though her goal was not solely to earn profits but also to spend her spare time in a meaningful way, I gathered plenty of learnings about business and consumer psychology. Whenever she was too busy or during festival peaks, our family (of four) used to help her with the customers (hence called mom-and-pop stores akin to kirana stores). While we were constantly observing our customers, we all used little tricks imbibed in the consumer psychology to sustain the business -  <i>which we obviously did not study in any textbook then</i>. <br>Doing so, we would test multiple hypothesis in real time regarding the customers' profile and their needs/wants with the goal to make both the customers (mostly the neighbours) and business happy. <br>I am sharing below some of the key learnings and their parallels in the product and e-commerce space. Hope you are able to relate and find them useful.
+During my early teens, I grew up assisting my mother in running a small neighbourhood store, selling beauty and cosmetic products. Even though her goal was not solely to earn profits but also to spend her spare time in a meaningful way, I gathered plenty of learnings about business and consumer psychology. Whenever she was too busy or during festival peaks, our family (of four) used to help her with the customers (therefore called mom-and-pop stores). While we were constantly observing our customers, we all used little tricks imbibed in the consumer psychology to sustain the business -  <i>which we obviously did not study in any textbook then</i>. <br>Doing so, we would test multiple hypothesis in real time regarding the customers' profile and their needs/wants with the goal to make both the customers (mostly the neighbours) and business happy. I am sharing below some of my key learnings and their parallels in the product and e-commerce space. Hope you are able to relate and find them useful.
 
 <p style="color: #EA2F65"> <b>1) Always think about (all) your customers and users</b></p>
 
