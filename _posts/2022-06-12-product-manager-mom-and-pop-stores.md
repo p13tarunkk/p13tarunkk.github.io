@@ -53,7 +53,7 @@ Though in e-commerce you often can not ask the customer directly but you should 
 <p style="color: #EA2F65"> <b>5) Share the detailed product information </b></p>
 
 <u>Know Your Products - KYP</u><br>
-Make sure you have all the information about the items in which the customers are interested.
+People are hungry for knowledge in general. Knowledge also provides enough justification to buy or not buy something. Make sure you have all the information about the items in which the customers are interested.
 The worst thing that can happen to a customer is an "unaware salesman". You must have at least the relevant basic information about your products to avoid the customer fallout. Basic attributes about usage, target customer's profile, age, discounts, USP will definitely be needed. If you are selling to women, always be ready with more information. 
 
 <p style="color: #EA2F65"> <b>6) Presentation matters </b></p>
