@@ -26,9 +26,9 @@ tags:
 - Facebook Product Manager
 ---
 
-Setting goals for product features is an art in product building. A product is successful only if it achieves its intended objectives or goals. Defining and measuring the product's or its features' success need good understanding of company goals, business, product vision, strategy, roadmap, its users, end customers and partners. Hence, it is a standard question in PM interviews at all levels including the Product Execution Interviews (e.g. Facebook or Meta product manager roles). <br>
+Setting goals for product features is an art in product management. A product is successful only if it achieves its intended objectives and goals. Defining and measuring the product's and its features' success need good understanding of company goals, business, product vision, strategy, roadmap, its users, end customers and partners. Therefore, product metrics and goals are frequently asked in product management interviews at all levels (e.g.  Product Execution Interviews of Facebook or Meta). <br>
 ```
-Sample Goal Metrics Problems :-
+Sample Product Management Metrics and Goal Problems :-
 
 How would you go about setting goals for Instagram hashtags?  
 How would you measure success for IG stories?
