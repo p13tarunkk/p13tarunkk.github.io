@@ -1,5 +1,5 @@
 ---
-title: 10 Product Psychology Lessons from Mom & Pop stores | PM's guide to business
+title: 10 Lessons from Mom & Pop stores | PM's guide to business & psychology
 image: assets/images/mom-and-pop-store-product-manager-learnings.jpg
 author: tarun
 categories: psychology
@@ -21,6 +21,10 @@ tags:
 - Product manager role
 - featured
 - Psychology
+- product design
+- psychology lessons
+- PM's guide
+- ''
 ---
 
 Consumer psychology fascinates us all especially the product managers. Learnings do come from all sides and seemingly trivial things we ever did, mould them. We all have been both consumers and sellers at different stages of our life. 
