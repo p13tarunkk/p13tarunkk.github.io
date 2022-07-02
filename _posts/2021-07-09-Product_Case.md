@@ -29,12 +29,13 @@ tags:
 - Meta Product Manager
 - product design interview questions
 - product management interview
+- questions for product manager interview
 ---
 
 Product design (a.k.a. Product sense) is the most common problem asked during PM interviews ( e.g. Google or Facebook / Meta Product Manager ). It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
 Product design problems can be either case studies or open ended questions on technology /physical products.
 
-	SAMPLE PRODUCT DESIGN PROBLEMS:-
+	SAMPLE PRODUCT DESIGN PROBLEMS :-
 	Design an app for the Louvre Museum
 	Design Youtube for Concert Lovers
 	Design a Travel app for Airport Layover

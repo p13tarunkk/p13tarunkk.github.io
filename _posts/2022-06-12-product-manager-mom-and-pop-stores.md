@@ -1,5 +1,5 @@
 ---
-title: 10 Business Tips to learn from Mom & Pop stores | PM's guide to E-commerce
+title: 10 Business Hacks to learn from Mom & Pop stores | PM's guide for E-commerce
   & Psychology
 image: assets/images/mom-and-pop-store-product-manager-learnings.jpg
 author: tarun
@@ -25,6 +25,10 @@ tags:
 - product design
 - psychology lessons
 - PM's guide
+- Mom stores
+- Pop stores
+- e-commerce
+- business tips
 - ''
 ---
 
