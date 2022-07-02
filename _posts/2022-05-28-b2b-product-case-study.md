@@ -24,6 +24,8 @@ tags:
 - Product Strategy
 - Enterprise Users
 - Product Interview
+- B2B product management
+- Enterprise product management
 ---
 
 Most of the existing content on Product Management is focussed around the B2C (business to consumer) model, targeting products for the end consumers. B2B i.e. Business to Business product management often requires significantly different approaches when it comes to product discovery and development. B2B Product managers possess more industry expertise, understanding of enterprise users and their ecosystem they serve. <br>In a B2B context, the enterprise users can be CXOs, Team leaders, Project Managers, and other employees in different functions like finance, operations, procurement. Project sponsors and executive team members have very different needs as compared to the end users. They all strive to actively collaborate together to make the business successful. The business person responsible for buying the product is not typically the actual user of the product. <br>
