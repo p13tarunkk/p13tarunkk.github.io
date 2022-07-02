@@ -16,7 +16,26 @@ tags:
 - Stakeholder Management
 - Customer Impact
 - Product Value
-- ''
+- product prioritization
+- feature prioritization
+- Empathy
+- Customer value
+- KANO model
+- product prioritisation
+- Value vs Effort
+- product theme
+- product roadmap
+- annual plan
+- quarterly plan
+- sprint prioritization
+- sprint grooming
+- feature priority
+- Customer experience
+- Business value
+- Customer value
+- Risk
+- confidence
+- PMs guide to prioritization
 ---
 
 Prioritization is a key skill in Product Management. It ensures that Product companies invest on most important products features and also build a space for innovation. It requires a detailed impact-effort analysis and active stakeholder management. Product Managers use quantitative tools to lay down objectivity and fairness while managing stakeholders' opinions and satisfaction. In quantitative frameworks, often even strong opinions from customers or a business stakeholder are undermined as numbers are emotion agnostic. Therefore, a good Product Manager is the one who display a high degree of both objectivity and empathy. 
