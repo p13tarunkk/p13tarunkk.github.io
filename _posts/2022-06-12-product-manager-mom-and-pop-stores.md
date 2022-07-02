@@ -1,5 +1,6 @@
 ---
-title: 10 Lessons from Mom & Pop stores | PM's guide to business & psychology
+title: 10 Business Tips to learn from Mom & Pop stores | PM's guide to business &
+  psychology
 image: assets/images/mom-and-pop-store-product-manager-learnings.jpg
 author: tarun
 categories: psychology
@@ -27,7 +28,7 @@ tags:
 - ''
 ---
 
-Consumer and product psychology fascinates us all especially the product managers. Learnings do come from all sides and seemingly trivial things we ever did, mould them. We all have been both consumers and sellers at different stages of our life. 
+Consumer psychology fascinates us all especially the product managers. Learnings do come from all sides and seemingly trivial things we ever did, mould them. We all have been both consumers and sellers at different stages of our life. 
 We even continuously sell and buy things, beliefs, and more often ideas to and from people around us, including our parents, children, and friends. 'Mom-and-Pop' stores or 'Kirana' stores have also been indispensible parts of our daily lives especially while growing up. For me, some of the most practical learnings in product psychology and business actually came from observing people as a customer myself and working as a sales assistant in my mom's store.
 
 During my early teens, I grew up assisting my mother in running a small neighbourhood store, selling beauty and cosmetic products. Even though her goal was not solely to earn profits but also to spend her spare time in a meaningful way, I gathered plenty of learnings about business and consumer psychology. Whenever she was too busy or during festival peaks, our family (of four) used to help her with the customers (hence called mom-and-pop stores akin to kirana stores). While we were constantly observing our customers, we all used little tricks imbibed in the consumer psychology to sustain the business -  <i>which we obviously did not study in any textbook then</i>. <br>Doing so, we would test multiple hypothesis in real time regarding the customers' profile and their needs/wants with the goal to make both the customers (mostly the neighbours) and business happy. <br>I am sharing below some of the key learnings and their parallels in the product management and e-commerce space. Hope you are able to relate and find them useful.
