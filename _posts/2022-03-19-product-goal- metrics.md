@@ -1,5 +1,6 @@
 ---
-title: How to set Product Goals & Success Metrics | The Great PM Interview
+title: How to set Product Goals & Success Metrics | The Great PM Interview - Product
+  Metrics
 image: assets/images/Goal_setting_Product_metrics.jpg
 author: tarun
 categories: interviews
@@ -28,9 +29,9 @@ tags:
 - product case
 ---
 
-Setting product goals and success metrics for a product is an art in product management. A product is successful only if it achieves its intended goals and objectives. Defining and measuring the product's and its features' success need a good understanding of company goals, business, product vision, strategy, roadmap, its users, end customers and partners. Therefore, product metrics and goals are frequently asked in product management interviews at all levels (e.g.  Product Execution Interviews of Facebook or Meta). <br>
+Setting product goals and success metrics is an art in product management. A product is successful only if it achieves its intended goals and product metrics. Defining and measuring the product's and its features' success need a good understanding of company goals, business, product vision, strategy, roadmap, its users, end customers and partners. Therefore, product metrics and goals are frequently asked in product management interviews at all levels (e.g.  Product Execution Interviews of Facebook or Meta). <br>
 ```
-Sample Product Management Goal and Metrics Interview Questions :-
+Sample Product Management Goals and Metrics Interview Questions :-
 
 How would you go about setting goals for Instagram hashtags?  
 How would you measure success for IG stories?
