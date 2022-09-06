@@ -1,61 +1,53 @@
-# Site
-name: 'Prodbee'
-description: 'The beehive of product management. Insights on how Digital Product Managers solve business and customer problems to drive growth and sustainability'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+name: Prodbee
+description: >-
+  The beehive of product management. Insights on how Digital Product Managers
+  solve business and customer problems to drive growth and sustainability
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
 baseurl: ''
-url: "https://prodbee.com"
-disqus: 'prodbee'
-email: 'p13tarunkk@iima.ac.in'
-mailchimp-list: 
-
-include: ["_pages"]
-permalink: /:title/
-
-# Plugins
-plugins: 
+url: 'https://prodbee.com'
+disqus: prodbee
+email: p13tarunkk@iima.ac.in
+mailchimp-list: null
+include:
+  - _pages
+permalink: '/:title/'
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
 authors:
   tarun:
-    name:           Tarun
-    site:           https://www.tarunk.com
-    avatar:         assets/images/avatar1.jpg
-    bio:            "<b>Creator & Consultant</b> @ Prodbee <br> <b>Product Professional</b> @ Target, US | Lazada, Alibaba group (Ex) | Magicbricks, Times Group (Ex) | Ola Cabs (Ex) <br> <b>Enthusiast</b> @ Photography | Arts | Web-designing | Boxing"
-    email:          p13tarunkk@iima.ac.in
-    twitter:        https://twitter.com/theprodbee
-    linkedin:       https://www.linkedin.com/in/tarun-product/
-
- 
-# Defaults
+    name: Tarun
+    site: 'https://www.tarunk.com'
+    avatar: assets/images/avatar1.jpg
+    bio: >-
+      <b>Creator & Consultant</b> @ Prodbee <br> <b>Product Professional</b> @
+      Amazon | Ex - Target, Lazada (Alibaba group), Magicbricks (Times Group), 
+      Ola Cabs   <br> <b>Enthusiast</b> @ Photography | Arts | Web-designing |
+      Boxing
+    email: p13tarunkk@iima.ac.in
+    twitter: 'https://twitter.com/theprodbee'
+    linkedin: 'https://www.linkedin.com/in/tarun-product/'
 defaults:
-
-  # all posts
   - scope:
-      path: "_posts"
+      path: _posts
     values:
       layout: post
       author: tarun
       avatar: /assets/images/avatar1.jpg
-      
-  # all pages
   - scope:
-      path: "_pages"
+      path: _pages
     values:
       layout: page
-      
-# Syntax
 markdown: kramdown
 highlighter: rouge
-
-# Paginate
 paginate: 10
-
-# add "show_drafts: true" to drafts set at true to publish drafts
-
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+  - README.markdown
+  - package.json
+  - grunt.js
+  - Gruntfile.js
+  - Gruntfile.coffee
+  - node_modules
