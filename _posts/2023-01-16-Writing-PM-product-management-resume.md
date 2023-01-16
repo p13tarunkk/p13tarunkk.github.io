@@ -68,7 +68,7 @@ Now's lets catch the learnings from this sample product manager resume and decod
 > Make your CV stand out in the first 10 seconds. Order matters!
 	
 A good resume will not just get you shortlisted by the Hiring and Recruiting managers, but also sets your impression throughout your interviews. Consider your resume your space-constrained advertisement that you carry with you to every interview.<br>
-Resume should of course state the details about your background, including work experience, education, skills, projects and interests. Though your current role is important, especially when you are applying for similar positions, your current and past responsibilities add much less value. <br><b>Prioritize your achievements and value</b> delivered to the organizations.The most important things should come first and be highlighted. Generally, <b>Reverse-Chronological order</b> works best, especially if you have the relevant experience. <br>10 second rule says that HR and hiring managers generally spend about 10 seconds skimming your resume and deciding your shortlisting. Anything more than 1 page means you are demanding more time and reducing your chances.
+Resume should of course state the details about your background, including work experience, education, skills, projects and interests. Though your current role is important, especially when you are applying for similar positions, your current and past responsibilities add much less value. <br><b>Prioritize your achievements and value</b> delivered to the organizations. The most important things should come first and be highlighted. Generally, <b>Reverse-Chronological order</b> works best, especially if you have the relevant experience. <br>10 second rule says that HR and hiring managers generally spend about 10 seconds skimming your resume and deciding your shortlisting. Anything more than 1 page means you are demanding more time and reducing your chances.
 Your resume should act as a credible hook and <b>evoke enough curiosity</b> to call you for the interview. 
 
  <i>Pro Tips:-
@@ -119,13 +119,13 @@ Everyone has different experiences, ages, education and motivations. However, yo
      width="50%" 
      height="auto" />			
 
-A lot can happen over a call, even if you have the best resume. Be <b>ready to be probed on your resume (A lot!)</b>. Otherwise, 
+A lot can happen over a call, even if you have the best resume. Be <b>ready to be probed on your resume (A lot!)</b>. Anyway, 
 
 * Show Enthusiasm
 * Stay Confident
 * Communicate Clearly 
 
-Finally, if possible, *show off your superpower* that directly or indirectly can help you in the job. E.g., Creativity is always a sought-after skill everywhere.
+Finally, if possible, *show off your superpower* that directly or indirectly helps you in the job. E.g., Creativity is always a sought-after skill everywhere.
 	
 <img src="{{site.baseurl}}/assets/images/Show-off.jpg" 
 		 alt="Informal_CV_profile"
