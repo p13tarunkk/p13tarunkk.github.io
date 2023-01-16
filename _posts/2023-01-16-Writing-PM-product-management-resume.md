@@ -21,7 +21,7 @@ tags:
 - managers
 ---
 
-Resume or CV (curriculum vitae) is the most essential tool for building your professional brand. If you are someone who is aiming for Manager roles in top Technology companies, then this post will help you create your resume for your dream role! Through this, I am sharing my learnings of over ten years which have helped me to refine my resume and get shortlisted in almost all Big tech companies, including <i>Meta, Google, Microsoft, Amazon, Stripe, and Alibaba</i>. Before I started actively participating in the hiring process myself, I was often confused about what attracts recruiters and hiring managers. Modern-day managers need a union of business, people and technology skills, which is often not reflected in their resumes. We will cover both the general as well as specialized aspects of CV making<br>
+Resume or CV (curriculum vitae) is the most essential tool for building your professional brand. If you are someone who is aiming for Manager roles in top Technology companies, then this post will help you create your resume for your dream role! Through this, I am sharing my learnings of over ten years which have helped me to refine my resume and get shortlisted in almost all Big tech companies, including <i>Meta, Google, Microsoft, Amazon, Stripe, and Alibaba</i>. Before I started actively participating in the hiring process myself, I was often confused about what attracts recruiters and hiring managers. Modern-day managers need a union of business, people and technology skills, which is often not reflected in our resumes. Therefore, we will cover both the general as well as specialized aspects of CV making which for relevant for today's tech and business managers. <br>
 
 <u>Management in the New Age</u> 
 - Program Managers
@@ -37,7 +37,7 @@ Resume or CV (curriculum vitae) is the most essential tool for building your pro
 Trivia! 
 > <u>
 > A resume is <i>"A short written story of your education, qualifications, career, and aspirations."</i></u><br>
-In the professional world, resume building is one of the first steps toward learning the art of selling yourself.  It helps the companies determine if you are a good fit for the company without having to invest their time in a personal interview. Often in big companies, recruiters select a handful of resumes from the thousands of resumes submitted by the candidates. These resumes are then vetted by the Hiring managers for further shortlisting. The same resume is then used throughout the selection process by various interviewers till your final selection. While Linkedin profiles are increasingly used, you will still need a traditional 1-2 page long Resume or CV in a word or pdf format to apply to most companies.
+In the professional world, resume building is one of the first steps toward learning the art of selling yourself.  It helps the companies determine if you are a good fit for the company without having to invest their time in a personal interview. Often in large size companies, recruiters select a handful of resumes from the thousands of resumes submitted by the candidates. These resumes are then vetted by the Hiring managers for further shortlisting. The same resume is then used throughout the selection process by various interviewers till your final selection. While Linkedin profiles are increasingly used, you will still need a traditional 1-2 page long Resume or CV in a word or pdf format to apply to most companies.
 
 Broadly, the resume or CV is a brief about -
 
