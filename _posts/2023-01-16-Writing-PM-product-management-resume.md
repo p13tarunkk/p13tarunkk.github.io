@@ -65,7 +65,7 @@ Now's lets catch the learnings from this sample product manager resume and decod
 
 <p style="color: #EA2F65"><b>1) Keep in mind "The Purpose"</b></p>
 
-> Make your CV stand out in the first 10 seconds. Order matters!
+> Make your CV stand out in 10 seconds. Order matters!
 	
 A good resume will not just get you shortlisted by the Hiring and Recruiting managers, but also sets your impression throughout your interviews. Consider your resume your space-constrained advertisement that you carry with you to every interview.<br>
 Resume should of course state the details about your background, including work experience, education, skills, projects and interests. Though your current role is important, especially when you are applying for similar positions, your current and past responsibilities add much less value. <br><b>Prioritize your achievements and value</b> delivered to the organizations. The most important things should come first and be highlighted. Generally, <b>Reverse-Chronological order</b> works best, especially if you have the relevant experience. <br>10 second rule says that HR and hiring managers generally spend about 10 seconds skimming your resume and deciding your shortlisting. Anything more than 1 page means you are demanding more time and reducing your chances.
