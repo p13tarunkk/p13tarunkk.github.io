@@ -63,7 +63,7 @@ Let's take an example of a resume for a typical "Product Manager" professional.
 		 
 Now's lets catch the learnings from this sample product manager resume and decode how resume writing works!
 
-<p style="color: #EA2F65"><b>1) Keep in mind "The Purpose"</b></p>
+<p style="color: #EA2F65"><b>1) Keep in mind "Purpose"</b></p>
 
 > Make your CV stand out in the first 10 seconds. Order matters!
 	
@@ -78,7 +78,7 @@ Your resume should act as a credible hook and <b>evoke enough curiosity</b> to c
     #Use ATS-compatible templates to make it easy for recruitment software to read your resume properly
 </i>
 
-<p style="color: #EA2F65"><b>2) Focus on  Articulation</b></p>
+<p style="color: #EA2F65"><b>2) Focus on  "Articulation"</b></p>
 <img src="{{ site.baseurl }}/assets/images/CV_articulation.jpg" 
 		 alt="Informal_CV_profile"
      width="100%" 
