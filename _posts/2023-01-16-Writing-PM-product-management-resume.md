@@ -21,9 +21,9 @@ tags:
 - managers
 ---
 
-Resume or CV (curriculum vitae) is the most essential tool for building your professional brand. If you are someone who is aiming for Manager roles in top Technology companies, then this post will help you create your resume for your dream role! Through this, I am sharing my learnings of over ten years which have helped me to refine my resume and get shortlisted in almost all Big tech companies, including <i>Meta, Google, Microsoft, Amazon, Stripe, and Alibaba</i>. Before I started actively participating in the hiring process myself, I was often confused about what attracts recruiters and hiring managers. Modern-day managers need a union of business, people and technology skills, which is often not reflected in our resumes. Therefore, we will cover both general as well as some specialized aspects of CV making that are relevant for today's tech and business managers. <br>
+Resume or CV (curriculum vitae) is the most essential tool for building your professional brand. If you are someone who is aiming for Manager roles in top Technology companies, then this post will help you create your resume for your dream role! Through this, I am sharing my learnings of over ten years which have helped me to refine my resume and get shortlisted in almost all Big tech companies, including <i>Meta, Google, Microsoft, Amazon, Stripe, and Alibaba</i>. We often get confused about what attracts recruiters and hiring managers. Modern-day managers need a union of business, people and technology skills, which many times are not reflected in the resumes. Therefore, we will cover both general as well as some specialized aspects of CV making that are relevant for today's tech and business managers. <br>
 
-<u>Management in the New Age</u> 
+<u>Management of the New Age</u> 
 - Program Managers
 - Product Managers
 - Product Marketing Managers
@@ -54,7 +54,7 @@ Broadly, the resume or CV is a brief about -
 <i>- Academic background, Certifications, Courses, Skills - languages, technical</i>
 	
 <p style="color: #EA2F65"> <b>SAMPLE RESUME </b></p>
-Let's take an example of a resume for a typical "Product Manager" professional.  
+Let's take an example of a professional resume for a "Product Manager"
 	
 <img src="{{ site.baseurl }}/assets/images/Professional_resume_CV_product_management.jpg" 
 		 alt="Informal_CV_profile"
@@ -63,7 +63,7 @@ Let's take an example of a resume for a typical "Product Manager" professional.
 		 
 Now's lets catch the learnings from this sample product manager resume and decode how resume writing works!
 
-<p style="color: #EA2F65"><b>1) Keep in mind "Purpose"</b></p>
+<p style="color: #EA2F65"><b>1) Keep in mind "The Purpose"</b></p>
 
 > Make your CV stand out in the first 10 seconds. Order matters!
 	
