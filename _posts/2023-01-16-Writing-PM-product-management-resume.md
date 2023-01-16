@@ -39,7 +39,7 @@ Trivia!
 > A resume is <i>"A short written story of your education, qualifications, career, and aspirations."</i></u><br>
 In the professional world, resume building is one of the first steps toward learning the art of selling yourself.  It helps the companies determine if you are a good fit for the company without having to invest their time in a personal interview. Often in large size companies, recruiters select a handful of resumes from the thousands of resumes submitted by the candidates. These resumes are then vetted by the Hiring managers for further shortlisting. The same resume is then used throughout the selection process by various interviewers till your final selection. While Linkedin profiles are increasingly used, you will still need a traditional 1-2 page long Resume or CV in a word or pdf format to apply to most companies.
 
-Broadly, the resume or CV is a brief about -
+Broadly, a resume or CV is a brief about -
 
 * <b>Your Goals </b> - <u>What do you want to do? What are you seeking? </u><br>
 <i>- Role, Industry, Business problems, Scale, Growth</i>
