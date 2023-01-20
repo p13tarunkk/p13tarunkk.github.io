@@ -1,5 +1,6 @@
 ---
-title: Behavioral Psychology Hacks for PMs - Understanding Human Motivations and Inner-Drives
+title: 'Behavioral Psychology Hacks for PMs : <br> <i><small>Understanding Human Motivations
+  and Inner-Drives </i> </small>'
 image: assets/images/design-psychology.png
 author: tarun
 categories: psychology

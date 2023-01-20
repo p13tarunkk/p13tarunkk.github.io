@@ -1,5 +1,6 @@
 ---
-title: Case study - Improve repeat rates (online pharmacy)
+title: Case study - Improve repeat rates in online business<br> <i><small>| Product
+  Management Case Study (with UX solution) </i> </small>
 author: tarun
 categories: cases
 tags: featured
@@ -13,25 +14,44 @@ New field 15:
 - Product Strategy
 ---
 
-In matured businesses, Repeat rates are one of the biggest levers for growth. We must first understand and define "repeat rates" in the context the nature and state of the business. For online e-commerce businesses, repeat rates can be understood in terms of monthly or daily active repeat customers or repeat orders or even retention in some cases. Let's take the below case where the problem statement at hand for the Product Manager is to "increase repeat rates" in an online pharmacy. The below approach proposes a solution after exploring and defining the problem.
+As a Product Manager, you identify business and customers problems and work with Engineering teams to solve them. Product Case studies help companies to assess PM problem solving skills. Many of these product problems are complex and do not have an optimal solution however decision making approach is what matters. You promote early learnings with lesser risk. Let us learn how to approach a typical product case wherein an online pharmacy business wants to improve repeat rates from its customers to increase sales. In this product management case study, you will find (below) the complete presentation answering - What? Why? Who? How? and detailed product design.
+
+In matured businesses, Repeat rates are one of the biggest levers for growth. We must first understand and define "repeat rates" in the context the nature and state of the business. For online e-commerce businesses, repeat rates can be understood in terms of monthly or daily active repeat customers or repeat orders or even retention in some cases. Let's take the below case where the problem statement at hand for the Product Manager is to "increase repeat rates" in an online pharmacy. Given approach proposes a solution after exploring and defining the problem.
 
 **1) Understand Situation**
-* Objective : Increase repeat rates in an online pharmacy
-* Company : Who are we ? What do we do ?
-* Customers : Who do we serve ?
-* Customer needs and pain points : What do they like about us ? What do they not like about us ?
-* Understanding the use case : How big is the issue - data analysis ?
+<img src="{{ site.baseurl }}/assets/images/Understanding problem case study.jpg" 
+		 alt="Product Case Study problem"
+     width="100%" 
+     height="auto" />			
+* <u>Objective</u> : Increase repeat rates in an online pharmacy
+* <u>Company</u> : Who are we ? What do we do ?
+* <u>Customers<u> : Who do we serve ?
+* <u>Customer needs and pain points</u> : What do they like about us ? What do they not like about us ?
+* <u>Understanding the use case</u> : How big is the issue - data analysis ?
+<br>
+<br>
 
 **2) Plan**
-* Product goals : Success metrics
-* Hypothesis : Data validation
-* Solutions : Pros/Cons
-* Prioritization : Impact vs Effort vs Confidence/Risk
+<img src="{{ site.baseurl }}/assets/images/Product_Case_study_approach.jpg" 
+		 alt="Case studies approach features"
+     width="100%" 
+     height="auto" />		
+* <u>Product goals</u> : Success metrics
+* <u>Hypothesis</u> : Data validation
+* <u>Solutions</u> : Pros/Cons
+* <u>Prioritization</u> : Impact vs Effort vs Confidence/Risk
+<br>
+<br>
 
 **3) Execute**
-* Implementation plan - Key Timelines and Milestones
-* Sample Feature - Objectives, target metrics, user stories (MVP and phases), design, release plan
-
+<img src="{{ site.baseurl }}/assets/images/UX_case study.jpg" 
+		 alt="Product Management Case study soluiton"
+     width="100%" 
+     height="auto" />		
+* <u>Implementation plan</u> : Key Timelines and Milestones
+* <u>Sample Feature</u> : Objectives, target metrics, user stories (MVP and phases), design, release plan
+<br>
+<br>
 
 *Complete Presentation*
 <style>

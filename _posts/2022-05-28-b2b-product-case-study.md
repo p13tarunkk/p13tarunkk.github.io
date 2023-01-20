@@ -1,5 +1,6 @@
 ---
-title: 'Product Management in B2B & SaaS : Example case study on Enterprise users'
+title: 'Product Management in B2B & SaaS : <br> <i><small>Example case study on Enterprise
+  users</i> </small>'
 image: assets/images/Enterprise-products-b2b-pm.jpg
 author: tarun
 categories: cases
@@ -51,7 +52,7 @@ Some of the common myths of B2B product management are :-
 * Innovation is low
 * Customers only care about business revenue, savings and efficiency
 
-Let's understand how to build features for an enterprise/B2B product through the example below :-
+Let's understand how to build features for an enterprise/B2B product with an example product management case study below :-
 # Case Study 
 <p style="color: #EA2F65;font-size:120%"> <b>Problem</b></p>
 

@@ -1,6 +1,6 @@
 ---
-title: How to solve Product Design / Product Sense questions | The Great PM Interview
-  - Product Case
+title: How to solve Product Design questions <br> <i><small>| Great PM Interview -
+  Product Sense Questions </i></small>
 image: assets/images/Product_Design_Vladimir_Ship.jpg
 author: tarun
 categories: interviews
@@ -32,7 +32,7 @@ tags:
 - questions for product manager interview
 ---
 
-Product design (a.k.a. Product sense) is the most common problem asked during PM interviews ( e.g. Google or Facebook / Meta Product Manager ). It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
+Product design (a.k.a. Product sense ) is the most common problem asked during PM interviews ( e.g. Google or Facebook / Meta Product Manager ). It should not be confused with the UI-UX or system design challenges. Here, product design is a journey where you explore diverse questions and challenges pertaining to product discovery & development. The journey begins with the search for answers to *Why, Who, What, Where, When* and *How*. However, all of these need to be investigated in a limited time frame of 30-45 mins during an interview. Here is a comprehensive guide to approach such questions with various examples, points and tips to consider. 
 Product design problems can be either case studies or open ended questions on technology /physical products.
 
 	SAMPLE PRODUCT DESIGN PROBLEMS :-

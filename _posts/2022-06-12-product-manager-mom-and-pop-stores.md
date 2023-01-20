@@ -1,6 +1,5 @@
 ---
-title: 10 Business Hacks to learn from Mom & Pop stores | PM's guide for E-commerce
-  & Psychology
+title: 10 Business Hacks to learn from Mom & Pop stores
 image: assets/images/mom-and-pop-store-product-manager-learnings.jpg
 author: tarun
 categories: psychology
@@ -31,6 +30,8 @@ tags:
 - business tips
 - ''
 ---
+
+**PM's guide for E-commerce & Retail Psychology**
 
 Consumer psychology fascinates us all especially the product managers. Learnings do come from all sides and seemingly trivial things we ever did, mould them. We all have been both consumers and sellers at different stages of our life. 
 We even continuously sell and buy things, beliefs, and more often ideas to and from people around us, including our parents, children, and friends. 'Mom-and-Pop' stores or 'Kirana' stores have also been indispensable parts of our daily lives especially while growing up. For me, some of the most practical learnings in product psychology and business actually came from observing people as a customer myself and working as a sales assistant in my mom's store.

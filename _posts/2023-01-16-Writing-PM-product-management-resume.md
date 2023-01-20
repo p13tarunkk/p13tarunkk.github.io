@@ -1,7 +1,8 @@
 ---
-title: How to build a PM resume ? CV writing Tips with example
+title: Resume writing for managers <br> <i><small>| Great Product Interview - Product
+  Manager CV example </i> </small>
 image: assets/images/CV_Resume_program_product_managers_management.jpg
-author: Tarun
+author: tarun
 categories:
 - interviews
 tags:
@@ -21,7 +22,7 @@ tags:
 - managers
 ---
 
-Resume or CV (curriculum vitae) is the most essential tool for building your professional brand. If you are someone who is aiming for Manager roles in top Technology companies, then this post will help you create your resume for your dream role! Through this, I am sharing my learnings of over ten years which have helped me to refine my resume and get shortlisted in almost all Big tech companies, including <i>Meta, Google, Microsoft, Amazon, Stripe, and Alibaba</i>. We often get confused about what attracts recruiters and hiring managers. Modern-day managers need a union of business, people and technology skills, which many times are not reflected in the resumes. Therefore, we will cover both general as well as some specialized aspects of CV making that are relevant for today's tech and business managers. <br>
+Resume or CV (curriculum vitae) is essential for building your professional brand. If you are someone who is aiming for Manager roles in top Technology companies, then this post will help you create the *manager resume* for your dream role! Through this, I am sharing my learnings of over ten years which have helped me to refine my resume and get shortlisted in almost all Big tech companies, including <i>Meta, Google, Microsoft, Amazon, Stripe, and Alibaba</i>. We often get confused about what attracts recruiters and hiring managers. Modern-day managers need a union of business, people and technology skills, which many times are not reflected in the resumes. Therefore, we will cover both general as well as some specialized aspects of CV making that are relevant for today's tech and business managers. <br>
 
 <u>Management of the New Age</u> 
 - Program Managers
