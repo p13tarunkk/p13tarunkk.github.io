@@ -55,7 +55,7 @@ Broadly, a resume or CV is a brief about -
 <i>- Academic background, Certifications, Courses, Skills - languages, technical</i>
 	
 <p style="color: #EA2F65"> <b>SAMPLE RESUME </b></p>
-Let's take an example of a professional resume for a "Product Manager"
+Let's take an example of a professional resume for a Product Manager
 	
 <img src="{{ site.baseurl }}/assets/images/Professional_resume_CV_product_management.jpg" 
 		 alt="Informal_CV_profile"
