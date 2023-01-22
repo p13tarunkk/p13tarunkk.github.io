@@ -1,5 +1,5 @@
 ---
-title: Product Prioritisation Steps - Impact & Empathy
+title: Product Prioritization Steps - Impact & Empathy
 image: assets/images/Prioritise-empathy.jpg
 author: tarun
 categories:
@@ -36,11 +36,15 @@ tags:
 - Risk
 - confidence
 - PMs guide to prioritization
+- prioritization
+- product
+- product_prioritization
+- productprioritization
 ---
 
 Prioritization is a key skill in Product Management. It ensures that Product companies invest on most important products features and also build a space for innovation. It requires a detailed impact-effort analysis and active stakeholder management. Product Managers use quantitative tools to lay down objectivity and fairness while managing stakeholders' opinions and satisfaction. In quantitative frameworks, often even strong opinions from customers or a business stakeholder are undermined as numbers are emotion agnostic. Therefore, a good Product Manager is the one who display a high degree of both objectivity and empathy. 
 
-Let's take some example situations where feature prioritisation may easily fail even though customers sentiments regarding the feature are really high.
+Let's take some example situations where feature prioritization may easily fail even though customers sentiments regarding the feature are really high.
 
 * Number of users of a feature are less in number but it's emotional value for customers is high
 * Feature's true impact on customer's daily lives is not accurately measured
