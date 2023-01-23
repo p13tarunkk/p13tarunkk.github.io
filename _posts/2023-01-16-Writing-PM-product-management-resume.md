@@ -1,5 +1,5 @@
 ---
-title: Resume writing for managers <br> <i><small>|  Product Manager CV example with
+title: Resume writing for managers <br><i><small>| Product Manager CV example with
   tips</small></i>
 image: assets/images/CV_Resume_program_product_managers_management.jpg
 author: tarun

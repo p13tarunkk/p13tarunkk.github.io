@@ -1,6 +1,6 @@
 ---
 title: Case study - Improve repeat rates in online business<br> <i><small>| Product
-  Management Case Study (with UX solution) </i> </small>
+  Management Case Study (with UX solution) </small></i>
 author: tarun
 categories: cases
 tags: featured

@@ -1,6 +1,6 @@
 ---
 title: 'Product Management in B2B & SaaS : <br> <i><small>Example case study on Enterprise
-  users</i> </small>'
+  users</small></i>'
 image: assets/images/Enterprise-products-b2b-pm.jpg
 author: tarun
 categories: cases

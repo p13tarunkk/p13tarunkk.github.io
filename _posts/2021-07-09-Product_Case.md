@@ -1,6 +1,6 @@
 ---
 title: How to solve Product Design questions <br> <i><small>| Great PM Interview -
-  Product Sense Questions </i></small>
+  Product Sense Questions </small></i>
 image: assets/images/Product_Design_Vladimir_Ship.jpg
 author: tarun
 categories: interviews

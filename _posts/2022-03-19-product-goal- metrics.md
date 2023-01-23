@@ -1,6 +1,6 @@
 ---
 title: How to set Product Goals & Success Metrics<br> <i><small>|  Great PM Interview
-  - Product Metrics </i></small>
+  - Product Metrics </small></i>
 image: assets/images/Goal_setting_Product_metrics.jpg
 author: tarun
 categories: interviews
